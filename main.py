@@ -1,9 +1,22 @@
 import json
 import csv
 import nba
+import os
+from datetime import datetime
 
 def write_to_csv(sport, games, location_lookup):
-    with open(f'{sport}_schedule.csv', 'w', newline='') as file:
+    # Get current date and time
+    current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f'{sport}_schedule_{current_datetime}.csv'
+
+    # Create folder if it doesn't exist
+    folder = f'{sport}_schedule'
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+    filepath = os.path.join(folder, filename)
+    
+    with open(filepath, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["Sport", "Level", "League", "Date", "Day", "Home Team", "Road Team", "City", "State"])
         for game in games:
