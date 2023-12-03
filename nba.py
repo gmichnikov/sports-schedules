@@ -3,6 +3,11 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 
+def load_urls():
+    with open('inputs.json', 'r') as file:
+        data = json.load(file)
+        return data
+
 def parse_game_info(game):
     sport = "basketball"
     level = "pro"
@@ -19,8 +24,11 @@ def parse_game_info(game):
 
     return [sport, level, league, formatted_date, day_of_week, home, road]
 
-def scrape_sites(sites):
+def scrape_sites():
     games = []
+    json_content = load_urls()
+    sites = json_content["nba"]['sites']
+
     for site in sites:
         response = requests.get(site)
         soup = BeautifulSoup(response.content, 'html.parser')
