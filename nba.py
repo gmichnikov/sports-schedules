@@ -22,7 +22,10 @@ def parse_game_info(game):
     formatted_date = date_obj.strftime('%Y-%m-%d')
     day_of_week = date_obj.strftime('%A')
 
-    return [sport, level, league, formatted_date, day_of_week, home, road]
+    location = game['location']['name']
+    time_str = ""
+
+    return [sport, level, league, formatted_date, day_of_week, time_str, home, road, location]
 
 def scrape_sites():
     games = []
