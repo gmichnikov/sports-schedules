@@ -86,7 +86,7 @@ def add_missing_teams_to_locations(combined_df):
     print("Added " + str(added_locations) + " locations")
 
     # LLM Prompt to fill in the city and state:
-    # Great, now I have the following new rows in my locations.csv. Can you please do your best to create a new csv that contains exactly these rows but with the city and state filled in, using your vast knowlewdge to make the best possible guess for each location?
+    # Great, now I have the following new rows in my locations.csv. Can you please do your best to create a new csv that contains exactly these rows but with the city and state (two letter abbrev) filled in as the third and fourth values, using your vast knowledge to make the best possible guess for each location?
 
 def create_combined_df(folders):
     combined_df = pd.DataFrame()
