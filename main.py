@@ -1,4 +1,3 @@
-import json
 import csv
 import nba, ncaab
 import os
@@ -22,7 +21,7 @@ def write_to_csv(sport, games, location_lookup):
     
     with open(filepath, 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(["Sport", "Level", "League", "Date", "Day", "Time", "Home Team", "Road Team", "Location", "Home City", "Home State"])
+        writer.writerow(["sport", "level", "league", "date", "day", "time", "home_team", "road_team", "location", "home_city", "home_state"])
         for game in games:
             league = game[2].lower()  # League
             home_team = game[6].lower()  # Home Team
@@ -56,6 +55,13 @@ def combine_csv_files():
     combined_df = create_combined_df(schedule_folders)
     add_missing_teams_to_locations(combined_df)
 
+    # Creating the primary_key column
+    combined_df['primary_key'] = combined_df['league'].fillna('Unknown') + '_' + combined_df['date'].fillna('Unknown') + '_' + combined_df['time'].fillna('NA') + '_' + combined_df['home_team'].fillna('Unknown') + '_' + combined_df['road_team'].fillna('Unknown')
+
+    # Reorder columns to make primary_key the first column
+    column_order = ['primary_key'] + [col for col in combined_df.columns if col != 'primary_key']
+    combined_df = combined_df[column_order]
+
     current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
     combined_filename = f'combined_schedule_{current_datetime}.csv'
     combined_df.to_csv(os.path.join(combined_folder, combined_filename), index=False)
@@ -64,14 +70,14 @@ def add_missing_teams_to_locations(combined_df):
     locations_df = pd.read_csv('locations.csv')
 
     # Extract unique league/team combinations from combined_df
-    unique_combinations = combined_df[['League', 'Home Team']].drop_duplicates()
+    unique_combinations = combined_df[['league', 'home_team']].drop_duplicates()
     added_locations = 0
 
     # Check each combination and add missing ones to locations_df
     for index, row in unique_combinations.iterrows():
-        if not ((locations_df['League'] == row['League']) & (locations_df['Team Name'] == row['Home Team'])).any():
+        if not ((locations_df['league'] == row['league']) & (locations_df['team_name'] == row['home_team'])).any():
             # Add missing combination
-            new_row = {'League': row['League'], 'Team Name': row['Home Team'], 'City': '', 'State': ''}
+            new_row = {'league': row['league'], 'team_name': row['home_team'], 'city': '', 'state': ''}
             locations_df = locations_df.append(new_row, ignore_index=True)
             added_locations += 1
 

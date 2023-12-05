@@ -1,0 +1,159 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Rutgers University,Princeton,CURE Insurance Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-10,Friday,19:00:00,Rutgers University,Boston University,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-12,Sunday,12:00:00,Rutgers University,Bryant,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,20:30:00,Rutgers University,Georgetown,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-18,Saturday,18:00:00,Rutgers University,Howard,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-27,Monday,19:00:00,Rutgers University,Saint Peter's,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-06,Wednesday,18:00:00,Wake Forest,Rutgers University,LJVM Coliseum,Winston-Salem,NC
+basketball,college,ncaab,2023-12-09,Saturday,20:30:00,Seton Hall,Rutgers University,Prudential Center,South Orange,NJ
+basketball,college,ncaab,2023-12-30,Saturday,12:00:00,Rutgers University,Stonehill,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-16,Saturday,13:00:00,Rutgers University,LIU,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-23,Saturday,12:00:00,Rutgers University,Mississippi State,Prudential Center,New Brunswick,NJ
+basketball,college,ncaab,2023-12-02,Saturday,16:00:00,Rutgers University,Illinois,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-03,Wednesday,19:00:00,Ohio State,Rutgers University,The Schottenstein Center,Columbus,OH
+basketball,college,ncaab,2024-01-06,Saturday,12:00:00,Iowa,Rutgers University,Hawkeye Arena,Iowa City,IA
+basketball,college,ncaab,2024-01-09,Tuesday,19:00:00,Rutgers University,Indiana,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-14,Sunday,12:00:00,Michigan State,Rutgers University,Breslin Center,East Lansing,MI
+basketball,college,ncaab,2024-01-17,Wednesday,19:00:00,Rutgers University,Nebraska,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-21,Sunday,13:00:00,Illinois,Rutgers University,State Farm Center,Urbana-Champaign,IL
+basketball,college,ncaab,2024-01-28,Sunday,13:00:00,Rutgers University,Purdue,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-31,Wednesday,20:30:00,Rutgers University,Penn State,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-03,Saturday,16:00:00,Michigan,Rutgers University,Crisler Center,Ann Arbor,MI
+basketball,college,ncaab,2024-02-06,Tuesday,18:30:00,Maryland,Rutgers University,"College Park, MD",College Park,MD
+basketball,college,ncaab,2024-02-10,Saturday,12:00:00,Rutgers University,Wisconsin,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-15,Thursday,18:30:00,Rutgers University,Northwestern,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-18,Sunday,18:30:00,Minnesota,Rutgers University,Williams Arena,Minneapolis,MN
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,Purdue,Rutgers University,Mackey Arena,West Lafayette,IN
+basketball,college,ncaab,2024-02-25,Sunday,12:00:00,Rutgers University,Maryland,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-29,Thursday,20:30:00,Rutgers University,Michigan,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-03-03,Sunday,18:30:00,Nebraska,Rutgers University,Value City Arena,Lincoln,NE
+basketball,college,ncaab,2024-03-07,Thursday,19:00:00,Wisconsin,Rutgers University,Kohl Center,Madison,WI
+basketball,college,ncaab,2024-03-10,Sunday,14:00:00,Rutgers University,Ohio State,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-10-21,Saturday,14:00:00,St. John's (Exhibition),Rutgers University,Carnesecca Arena,Queens,NY
+basketball,college,ncaab,2023-12-01,Friday,19:00:00,Niagara University,Saint Peter's University,Gallagher Center,Niagara University,NY
+basketball,college,ncaab,2023-12-03,Sunday,13:00:00,Canisius University,Saint Peter's University,Koessler Athletic Center,Buffalo,NY
+basketball,college,ncaab,2024-01-05,Friday,19:00:00,Saint Peter's University,Iona University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-07,Sunday,14:00:00,Saint Peter's University,Mount St. Mary's (Md.),"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-14,Sunday,14:00:00,Manhattan College,Saint Peter's University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-01-19,Friday,19:00:00,Fairfield University,Saint Peter's University,Leo D. Mahoney Arena,Fairfield,CT
+basketball,college,ncaab,2024-01-21,Sunday,14:00:00,Saint Peter's University,Canisius University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,Saint Peter's University,Rider University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-28,Sunday,14:00:00,Siena College,Saint Peter's University,UHY Center,Loudonville,NY
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Saint Peter's University,Niagara University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-04,Sunday,14:00:00,Marist College,Saint Peter's University,McCann Arena,Poughkeepsie,NY
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Quinnipiac University,Saint Peter's University,Burt Kahn Court,Hamden,CT
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Saint Peter's University,Fairfield University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Saint Peter's University,Siena College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-18,Sunday,13:00:00,Iona University,Saint Peter's University,Hynes Athletics Center,New Rochelle,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Mount St. Mary's (Md.),Saint Peter's University,Knott Arena ,Emmitsburg,MD
+basketball,college,ncaab,2024-02-25,Sunday,15:00:00,Saint Peter's University,Marist College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-03,Sunday,14:00:00,Saint Peter's University,Manhattan College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-07,Thursday,20:00:00,Rider University,Saint Peter's University,Alumni Gymnasium,Lawrenceville,NJ
+basketball,college,ncaab,2024-03-09,Saturday,14:00:00,Saint Peter's University,Quinnipiac University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-12,Tuesday,00:00:00,Saint Peter's University,Metro Atlantic Athletic Conference,Boardwalk Hall,Jersey City,NJ
+basketball,college,ncaab,2023-11-06,Monday,19:30:00,Seton Hall University,Saint Peter's University,Prudential Center,South Orange,NJ
+basketball,college,ncaab,2023-11-11,Saturday,16:00:00,New Jersey Institute of Technology,Saint Peter's University,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,19:00:00,FDU,Saint Peter's University,Stratis Arena inside the Rothman Center,Teaneck,NJ
+basketball,college,ncaab,2023-11-20,Monday,19:00:00,Saint Peter's University,University of Massachusetts Lowell,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-11-27,Monday,19:00:00,Rutgers University,Saint Peter's University,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-12,Tuesday,19:00:00,Saint Peter's University,UMBC,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-12-30,Saturday,14:00:00,Bucknell University,Saint Peter's University,Sojka Pavilion,Lewisburg,PA
+basketball,college,ncaab,2023-12-22,Friday,13:00:00,Saint Peter's University,Kean University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Duquesne University,Saint Peter's University,UPMC Cooper Fieldhouse,Pittsburgh,PA
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Harvard University,UMass Boston,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-11-10,Friday,20:00:00,Rice University,Harvard University,"Houston, TX",Houston,TX
+basketball,college,ncaab,2023-11-14,Tuesday,19:00:00,Harvard University,Northeastern University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-11-17,Friday,19:00:00,University of Massachusetts,Harvard University,"Amherst, MA",Amherst,MA
+basketball,college,ncaab,2023-11-18,Saturday,17:00:00,Boston College,Harvard University,"Chestnut Hill, MA",Chestnut Hill,MA
+basketball,college,ncaab,2023-11-22,Wednesday,14:00:00,Colgate University,Harvard University,"Hamilton, NY",Hamilton,NY
+basketball,college,ncaab,2023-11-26,Sunday,16:30:00,Indiana University,Harvard University,"Indianapolis, IN / Gainbridge Fieldhouse",Bloomington,IN
+basketball,college,ncaab,2023-11-29,Wednesday,19:00:00,Harvard University,American University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-02,Saturday,16:00:00,Loyola University Chicago,Harvard University,"Chicago, IL",Chicago,IL
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Harvard University,Army West Point,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-21,Thursday,14:00:00,Harvard University,Holy Cross,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-30,Saturday,14:00:00,Harvard University,Iona University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-02,Tuesday,19:00:00,Harvard University,University at Albany,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-06,Saturday,14:00:00,Princeton University,Harvard University,"Princeton, NJ",Princeton,NJ
+basketball,college,ncaab,2024-01-15,Monday,14:00:00,Harvard University,Brown University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-20,Saturday,18:00:00,University of Pennsylvania,Harvard University,"Philadelphia, PA",Philadelphia,PA
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Harvard University,Yale University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Harvard University,Columbia University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-03,Saturday,19:00:00,Harvard University,Cornell University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Harvard University,Dartmouth College,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Cornell University,Harvard University,"Ithaca, NY",Ithaca,NY
+basketball,college,ncaab,2024-02-17,Saturday,18:00:00,Columbia University,Harvard University,"New York, NY",New York,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Harvard University,Princeton University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-24,Saturday,19:00:00,Harvard University,University of Pennsylvania,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-03-01,Friday,19:00:00,Brown University,Harvard University,"Providence, RI",Providence,RI
+basketball,college,ncaab,2024-03-02,Saturday,19:00:00,Yale University,Harvard University,"New Haven, CT",New Haven,CT
+basketball,college,ncaab,2024-03-09,Saturday,14:00:00,Dartmouth College,Harvard University,"Hanover, NH",Hanover,NH
+basketball,college,ncaab,2023-10-13,Friday,18:30:00,Harvard University,Crimson Madness,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-03-16,Saturday,00:00:00,Harvard University,Ivy League Tournament,"New York, NY",Cambridge,MA
+basketball,college,ncaab,2024-03-17,Sunday,00:00:00,Harvard University,Ivy League Tournament,"New York, NY",Cambridge,MA
+basketball,college,ncaab,2023-10-28,Saturday,4 p.m.,NJIT,Seton Hall University,"Newark, NJ",Newark,NJ
+basketball,college,ncaab,2023-11-06,Monday,7:30 PM,Seton Hall University,Saint Peter's,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-11-11,Saturday,4 PM,Seton Hall University,FDU,"South Orange, N.J. (Walsh Gymnasium)",South Orange,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,6:30 PM,Seton Hall University,Albany,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-11-18,Saturday,12 PM,Seton Hall University,Wagner,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-11-23,Thursday,5:30 PM,Seton Hall University,USC,"San Diego, CA (LionTree Arena)",South Orange,NJ
+basketball,college,ncaab,2023-11-24,Friday,6 p.m.,Seton Hall University,Iowa,"San Diego, CA (LionTree Arena)",South Orange,NJ
+basketball,college,ncaab,2023-11-29,Wednesday,6:30 PM,Seton Hall University,Northeastern,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-12-05,Tuesday,9 PM,Baylor,Seton Hall University,"Waco, TX",Waco,TX
+basketball,college,ncaab,2023-12-09,Saturday,8:30 PM,Seton Hall University,Rutgers,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-12-12,Tuesday,6:30 PM,Seton Hall University,Monmouth,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-12-17,Sunday,5 P.M.,Seton Hall University,Missouri,"Kansas City, MO",South Orange,NJ
+basketball,college,ncaab,2023-12-20,Wednesday,7 PM,Seton Hall University,UConn,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-12-23,Saturday,2 PM,Xavier,Seton Hall University,"Cincinnati, OH",Cincinnati,OH
+basketball,college,ncaab,2024-01-03,Wednesday,6:30 PM,Providence,Seton Hall University,"Providence, RI",Providence,RI
+basketball,college,ncaab,2024-01-06,Saturday,12 PM,Seton Hall University,Marquette,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-01-09,Tuesday,6:30 PM,Georgetown,Seton Hall University,"Washington, DC",Washington,DC
+basketball,college,ncaab,2024-01-13,Saturday,12 PM,Butler,Seton Hall University,"Indianapolis, IN",Indianapolis,IN
+basketball,college,ncaab,2024-01-16,Tuesday,8:30 PM,Seton Hall University,St. John's,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-01-20,Saturday,12 PM,Seton Hall University,Creighton,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-01-24,Wednesday,6:30 PM,Seton Hall University,Providence,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-01-27,Saturday,1 PM,Marquette,Seton Hall University,"Milwaukee, WI",Milwaukee,WI
+basketball,college,ncaab,2024-01-30,Tuesday,9 PM,DePaul,Seton Hall University,"Chicago, IL",Chicago,IL
+basketball,college,ncaab,2024-02-07,Wednesday,6:30 PM,Seton Hall University,Georgetown,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-02-11,Sunday,12 PM,Villanova,Seton Hall University,"Philadelphia, PA",Villanova,PA
+basketball,college,ncaab,2024-02-14,Wednesday,7 PM,Seton Hall University,Xavier,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-02-18,Sunday,5 PM,St. John's,Seton Hall University,"Elmont, NY",Queens,NY
+basketball,college,ncaab,2024-02-24,Saturday,8:30 PM,Seton Hall University,Butler,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-02-28,Wednesday,9 PM,Creighton,Seton Hall University,"Omaha, NE",Omaha,NE
+basketball,college,ncaab,2024-03-03,Sunday,12 PM,UConn,Seton Hall University,"Storrs, Conn.",Storrs,CT
+basketball,college,ncaab,2024-03-06,Wednesday,6:30 PM,Seton Hall University,Villanova,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-03-09,Saturday,8:30 PM,Seton Hall University,DePaul,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2023-10-21,Saturday,2 p.m.,St. John's University,Rutgers (Exh.),TBD,Queens,NY
+basketball,college,ncaab,2023-10-29,Sunday,3:30 p.m.,St. John's University,Pace (Exhibition),"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2023-11-07,Tuesday,7 p.m.,St. John's University,Stony Brook,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2023-11-13,Monday,6:30 p.m.,St. John's University,Michigan,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2023-11-16,Thursday,1:30 p.m.,St. John's University,North Texas,"Charleston, S.C. (TD Arena)",Queens,NY
+basketball,college,ncaab,2023-11-17,Friday,2 p.m.,St. John's University,Dayton,"Charleston, S.C. (TD Arena)",Queens,NY
+basketball,college,ncaab,2023-11-19,Sunday,5:30 p.m.,St. John's University,Utah,"Charleston, S.C. (TD Arena)",Queens,NY
+basketball,college,ncaab,2023-11-25,Saturday,7 p.m.,St. John's University,Holy Cross,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2023-12-01,Friday,7 p.m.,West Virginia,St. John's University,"Morgantown, W. Va. (WVU Coliseum)",Morgantown,WV
+basketball,college,ncaab,2023-12-06,Wednesday,7 p.m.,St. John's University,Sacred Heart,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2023-12-10,Sunday,4:30 p.m.,St. John's University,Boston College,"Brooklyn, N.Y. (Barclays Center)",Queens,NY
+basketball,college,ncaab,2023-12-16,Saturday,3:30 p.m.,St. John's University,Fordham,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2023-12-20,Wednesday,7 p.m.,St. John's University,Xavier,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2023-12-23,Saturday,8 p.m.,UConn,St. John's University,TBD,Storrs,CT
+basketball,college,ncaab,2023-12-30,Saturday,12 p.m.,St. John's University,Hofstra,"Belmont Park, N.Y. (UBS Arena)",Queens,NY
+basketball,college,ncaab,2024-01-02,Tuesday,8:30 p.m.,St. John's University,Butler,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-01-06,Saturday,1 p.m.,Villanova,St. John's University,"Villanova, Pa. (Finneran Pavilion)",Villanova,PA
+basketball,college,ncaab,2024-01-10,Wednesday,6:30 p.m.,St. John's University,Providence,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-01-13,Saturday,1 p.m.,Creighton,St. John's University,"Omaha, Neb. (CHI Health Center Omaha)",Omaha,NE
+basketball,college,ncaab,2024-01-16,Tuesday,8:30 p.m.,Seton Hall,St. John's University,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-01-20,Saturday,12 p.m.,St. John's University,Marquette,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-01-24,Wednesday,8:30 p.m.,St. John's University,Villanova,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-01-31,Wednesday,6:30 p.m.,Xavier,St. John's University,"Cincinnati, Ohio (Cintas Center)",Cincinnati,OH
+basketball,college,ncaab,2024-02-03,Saturday,12 p.m.,St. John's University,UConn,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-02-06,Tuesday,6:30 p.m.,St. John's University,DePaul,"Belmont Park, N.Y. (UBS Arena)",Queens,NY
+basketball,college,ncaab,2024-02-10,Saturday,6 p.m.,Marquette,St. John's University,"Milwaukee, Wis. (Fiserv Forum)",Milwaukee,WI
+basketball,college,ncaab,2024-02-13,Tuesday,7 p.m.,Providence,St. John's University,"Providence, R.I. (Amica Mutual Pavilion)",Providence,RI
+basketball,college,ncaab,2024-02-18,Sunday,5 p.m.,St. John's University,Seton Hall,"Belmont Park, N.Y. (UBS Arena)",Queens,NY
+basketball,college,ncaab,2024-02-21,Wednesday,7 p.m.,Georgetown,St. John's University,"Washington, D.C. (Capital One Arena)",Washington,DC
+basketball,college,ncaab,2024-02-25,Sunday,12 p.m.,St. John's University,Creighton,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-02-28,Wednesday,8:30 p.m.,Butler,St. John's University,"Indianapolis, Ind. (Hinkle Fieldhouse)",Indianapolis,IN
+basketball,college,ncaab,2024-03-05,Tuesday,9 p.m.,DePaul,St. John's University,"Chicago, Ill. (Wintrust Arena)",Chicago,IL
+basketball,college,ncaab,2024-03-09,Saturday,12 p.m.,St. John's University,Georgetown,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-03-13,Wednesday,TBD,St. John's University,BIG EAST Tournament,"New York, N.Y. (Madison Square Garden)",Queens,NY
