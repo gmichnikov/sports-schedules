@@ -1,0 +1,273 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+football,pro,NFL,2023-09-07,Thursday,8:20PM,Kansas City Chiefs,Detroit Lions,,Kansas City,MO
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Atlanta Falcons,Carolina Panthers,,Atlanta,GA
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Cleveland Browns,Cincinnati Bengals,,Cleveland,OH
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Indianapolis Colts,Jacksonville Jaguars,,Indianapolis,IN
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Washington Commanders,Arizona Cardinals,,Landover,MD
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Baltimore Ravens,Houston Texans,,Baltimore,MD
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers,,Minneapolis,MN
+football,pro,NFL,2023-09-10,Sunday,1:00PM,New Orleans Saints,Tennessee Titans,,New Orleans,LA
+football,pro,NFL,2023-09-10,Sunday,1:00PM,Pittsburgh Steelers,San Francisco 49ers,,Pittsburgh,PA
+football,pro,NFL,2023-09-10,Sunday,4:25PM,Chicago Bears,Green Bay Packers,,Chicago,IL
+football,pro,NFL,2023-09-10,Sunday,4:25PM,Denver Broncos,Las Vegas Raiders,,Denver,CO
+football,pro,NFL,2023-09-10,Sunday,4:25PM,Los Angeles Chargers,Miami Dolphins,,Inglewood,CA
+football,pro,NFL,2023-09-10,Sunday,4:25PM,New England Patriots,Philadelphia Eagles,,Foxborough,MA
+football,pro,NFL,2023-09-10,Sunday,4:25PM,Seattle Seahawks,Los Angeles Rams,,Seattle,WA
+football,pro,NFL,2023-09-10,Sunday,8:20PM,New York Giants,Dallas Cowboys,,East Rutherford,NJ
+football,pro,NFL,2023-09-11,Monday,8:15PM,New York Jets,Buffalo Bills,,East Rutherford,NJ
+football,pro,NFL,2023-09-14,Thursday,8:15PM,Philadelphia Eagles,Minnesota Vikings,,Philadelphia,PA
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Atlanta Falcons,Green Bay Packers,,Atlanta,GA
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Buffalo Bills,Las Vegas Raiders,,Orchard Park,NY
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Tampa Bay Buccaneers,Chicago Bears,,Tampa,FL
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Cincinnati Bengals,Baltimore Ravens,,Cincinnati,OH
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Houston Texans,Indianapolis Colts,,Houston,TX
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Detroit Lions,Seattle Seahawks,,Detroit,MI
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Jacksonville Jaguars,Kansas City Chiefs,,Jacksonville,FL
+football,pro,NFL,2023-09-17,Sunday,1:00PM,Tennessee Titans,Los Angeles Chargers,,Nashville,TN
+football,pro,NFL,2023-09-17,Sunday,4:05PM,Arizona Cardinals,New York Giants,,Glendale,AZ
+football,pro,NFL,2023-09-17,Sunday,4:05PM,Los Angeles Rams,San Francisco 49ers,,Inglewood,CA
+football,pro,NFL,2023-09-17,Sunday,4:25PM,Dallas Cowboys,New York Jets,,Arlington,TX
+football,pro,NFL,2023-09-17,Sunday,4:25PM,Denver Broncos,Washington Commanders,,Denver,CO
+football,pro,NFL,2023-09-17,Sunday,8:20PM,New England Patriots,Miami Dolphins,,Foxborough,MA
+football,pro,NFL,2023-09-18,Monday,7:15PM,Carolina Panthers,New Orleans Saints,,Charlotte,NC
+football,pro,NFL,2023-09-18,Monday,8:15PM,Pittsburgh Steelers,Cleveland Browns,,Pittsburgh,PA
+football,pro,NFL,2023-09-21,Thursday,8:15PM,San Francisco 49ers,New York Giants,,Santa Clara,CA
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Detroit Lions,Atlanta Falcons,,Detroit,MI
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Washington Commanders,Buffalo Bills,,Landover,MD
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Cleveland Browns,Tennessee Titans,,Cleveland,OH
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Baltimore Ravens,Indianapolis Colts,,Baltimore,MD
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Miami Dolphins,Denver Broncos,,Miami Gardens,FL
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Green Bay Packers,New Orleans Saints,,Green Bay,WI
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Jacksonville Jaguars,Houston Texans,,Jacksonville,FL
+football,pro,NFL,2023-09-24,Sunday,1:00PM,Minnesota Vikings,Los Angeles Chargers,,Minneapolis,MN
+football,pro,NFL,2023-09-24,Sunday,1:00PM,New York Jets,New England Patriots,,East Rutherford,NJ
+football,pro,NFL,2023-09-24,Sunday,4:05PM,Seattle Seahawks,Carolina Panthers,,Seattle,WA
+football,pro,NFL,2023-09-24,Sunday,4:25PM,Kansas City Chiefs,Chicago Bears,,Kansas City,MO
+football,pro,NFL,2023-09-24,Sunday,4:25PM,Arizona Cardinals,Dallas Cowboys,,Glendale,AZ
+football,pro,NFL,2023-09-24,Sunday,8:20PM,Las Vegas Raiders,Pittsburgh Steelers,,Paradise,NV
+football,pro,NFL,2023-09-25,Monday,7:15PM,Tampa Bay Buccaneers,Philadelphia Eagles,,Tampa,FL
+football,pro,NFL,2023-09-25,Monday,8:15PM,Cincinnati Bengals,Los Angeles Rams,,Cincinnati,OH
+football,pro,NFL,2023-09-28,Thursday,8:15PM,Green Bay Packers,Detroit Lions,,Green Bay,WI
+football,pro,NFL,2023-10-01,Sunday,9:30AM,Jacksonville Jaguars,Atlanta Falcons,,Jacksonville,FL
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Buffalo Bills,Miami Dolphins,,Orchard Park,NY
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Carolina Panthers,Minnesota Vikings,,Charlotte,NC
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Chicago Bears,Denver Broncos,,Chicago,IL
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Tennessee Titans,Cincinnati Bengals,,Nashville,TN
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Cleveland Browns,Baltimore Ravens,,Cleveland,OH
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Indianapolis Colts,Los Angeles Rams,,Indianapolis,IN
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Houston Texans,Pittsburgh Steelers,,Houston,TX
+football,pro,NFL,2023-10-01,Sunday,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,,New Orleans,LA
+football,pro,NFL,2023-10-01,Sunday,1:00PM,Philadelphia Eagles,Washington Commanders,,Philadelphia,PA
+football,pro,NFL,2023-10-01,Sunday,4:05PM,Los Angeles Chargers,Las Vegas Raiders,,Inglewood,CA
+football,pro,NFL,2023-10-01,Sunday,4:25PM,San Francisco 49ers,Arizona Cardinals,,Santa Clara,CA
+football,pro,NFL,2023-10-01,Sunday,4:25PM,Dallas Cowboys,New England Patriots,,Arlington,TX
+football,pro,NFL,2023-10-01,Sunday,8:20PM,New York Jets,Kansas City Chiefs,,East Rutherford,NJ
+football,pro,NFL,2023-10-02,Monday,8:15PM,New York Giants,Seattle Seahawks,,East Rutherford,NJ
+football,pro,NFL,2023-10-05,Thursday,8:15PM,Washington Commanders,Chicago Bears,,Landover,MD
+football,pro,NFL,2023-10-08,Sunday,9:30AM,Buffalo Bills,Jacksonville Jaguars,,Orchard Park,NY
+football,pro,NFL,2023-10-08,Sunday,1:00PM,Atlanta Falcons,Houston Texans,,Atlanta,GA
+football,pro,NFL,2023-10-08,Sunday,1:00PM,Detroit Lions,Carolina Panthers,,Detroit,MI
+football,pro,NFL,2023-10-08,Sunday,1:00PM,Indianapolis Colts,Tennessee Titans,,Indianapolis,IN
+football,pro,NFL,2023-10-08,Sunday,1:00PM,Miami Dolphins,New York Giants,,Miami Gardens,FL
+football,pro,NFL,2023-10-08,Sunday,1:00PM,New England Patriots,New Orleans Saints,,Foxborough,MA
+football,pro,NFL,2023-10-08,Sunday,1:00PM,Pittsburgh Steelers,Baltimore Ravens,,Pittsburgh,PA
+football,pro,NFL,2023-10-08,Sunday,4:05PM,Arizona Cardinals,Cincinnati Bengals,,Glendale,AZ
+football,pro,NFL,2023-10-08,Sunday,4:05PM,Los Angeles Rams,Philadelphia Eagles,,Inglewood,CA
+football,pro,NFL,2023-10-08,Sunday,4:25PM,Denver Broncos,New York Jets,,Denver,CO
+football,pro,NFL,2023-10-08,Sunday,4:25PM,Minnesota Vikings,Kansas City Chiefs,,Minneapolis,MN
+football,pro,NFL,2023-10-08,Sunday,8:20PM,San Francisco 49ers,Dallas Cowboys,,Santa Clara,CA
+football,pro,NFL,2023-10-09,Monday,8:15PM,Las Vegas Raiders,Green Bay Packers,,Paradise,NV
+football,pro,NFL,2023-10-12,Thursday,8:15PM,Kansas City Chiefs,Denver Broncos,,Kansas City,MO
+football,pro,NFL,2023-10-15,Sunday,9:30AM,Tennessee Titans,Baltimore Ravens,,Nashville,TN
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Cleveland Browns,San Francisco 49ers,,Cleveland,OH
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Atlanta Falcons,Washington Commanders,,Atlanta,GA
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Miami Dolphins,Carolina Panthers,,Miami Gardens,FL
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Chicago Bears,Minnesota Vikings,,Chicago,IL
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Cincinnati Bengals,Seattle Seahawks,,Cincinnati,OH
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Jacksonville Jaguars,Indianapolis Colts,,Jacksonville,FL
+football,pro,NFL,2023-10-15,Sunday,1:00PM,Houston Texans,New Orleans Saints,,Houston,TX
+football,pro,NFL,2023-10-15,Sunday,4:05PM,Las Vegas Raiders,New England Patriots,,Paradise,NV
+football,pro,NFL,2023-10-15,Sunday,4:25PM,Los Angeles Rams,Arizona Cardinals,,Inglewood,CA
+football,pro,NFL,2023-10-15,Sunday,4:25PM,Tampa Bay Buccaneers,Detroit Lions,,Tampa,FL
+football,pro,NFL,2023-10-15,Sunday,4:25PM,New York Jets,Philadelphia Eagles,,East Rutherford,NJ
+football,pro,NFL,2023-10-15,Sunday,8:20PM,Buffalo Bills,New York Giants,,Orchard Park,NY
+football,pro,NFL,2023-10-16,Monday,8:15PM,Los Angeles Chargers,Dallas Cowboys,,Inglewood,CA
+football,pro,NFL,2023-10-19,Thursday,8:15PM,New Orleans Saints,Jacksonville Jaguars,,New Orleans,LA
+football,pro,NFL,2023-10-22,Sunday,1:00PM,Indianapolis Colts,Cleveland Browns,,Indianapolis,IN
+football,pro,NFL,2023-10-22,Sunday,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,,Tampa,FL
+football,pro,NFL,2023-10-22,Sunday,1:00PM,New England Patriots,Buffalo Bills,,Foxborough,MA
+football,pro,NFL,2023-10-22,Sunday,1:00PM,Chicago Bears,Las Vegas Raiders,,Chicago,IL
+football,pro,NFL,2023-10-22,Sunday,1:00PM,Baltimore Ravens,Detroit Lions,,Baltimore,MD
+football,pro,NFL,2023-10-22,Sunday,1:00PM,New York Giants,Washington Commanders,,East Rutherford,NJ
+football,pro,NFL,2023-10-22,Sunday,4:05PM,Los Angeles Rams,Pittsburgh Steelers,,Inglewood,CA
+football,pro,NFL,2023-10-22,Sunday,4:05PM,Seattle Seahawks,Arizona Cardinals,,Seattle,WA
+football,pro,NFL,2023-10-22,Sunday,4:25PM,Denver Broncos,Green Bay Packers,,Denver,CO
+football,pro,NFL,2023-10-22,Sunday,4:25PM,Kansas City Chiefs,Los Angeles Chargers,,Kansas City,MO
+football,pro,NFL,2023-10-22,Sunday,8:20PM,Philadelphia Eagles,Miami Dolphins,,Philadelphia,PA
+football,pro,NFL,2023-10-23,Monday,8:15PM,Minnesota Vikings,San Francisco 49ers,,Minneapolis,MN
+football,pro,NFL,2023-10-26,Thursday,8:15PM,Buffalo Bills,Tampa Bay Buccaneers,,Orchard Park,NY
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Carolina Panthers,Houston Texans,,Charlotte,NC
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Dallas Cowboys,Los Angeles Rams,,Arlington,TX
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Green Bay Packers,Minnesota Vikings,,Green Bay,WI
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Tennessee Titans,Atlanta Falcons,,Nashville,TN
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Indianapolis Colts,New Orleans Saints,,Indianapolis,IN
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Pittsburgh Steelers,Jacksonville Jaguars,,Pittsburgh,PA
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Miami Dolphins,New England Patriots,,Miami Gardens,FL
+football,pro,NFL,2023-10-29,Sunday,1:00PM,New York Giants,New York Jets,,East Rutherford,NJ
+football,pro,NFL,2023-10-29,Sunday,1:00PM,Washington Commanders,Philadelphia Eagles,,Landover,MD
+football,pro,NFL,2023-10-29,Sunday,4:05PM,Seattle Seahawks,Cleveland Browns,,Seattle,WA
+football,pro,NFL,2023-10-29,Sunday,4:25PM,San Francisco 49ers,Cincinnati Bengals,,Santa Clara,CA
+football,pro,NFL,2023-10-29,Sunday,4:25PM,Arizona Cardinals,Baltimore Ravens,,Glendale,AZ
+football,pro,NFL,2023-10-29,Sunday,4:25PM,Denver Broncos,Kansas City Chiefs,,Denver,CO
+football,pro,NFL,2023-10-29,Sunday,8:20PM,Los Angeles Chargers,Chicago Bears,,Inglewood,CA
+football,pro,NFL,2023-10-30,Monday,8:15PM,Detroit Lions,Las Vegas Raiders,,Detroit,MI
+football,pro,NFL,2023-11-02,Thursday,8:15PM,Pittsburgh Steelers,Tennessee Titans,,Pittsburgh,PA
+football,pro,NFL,2023-11-05,Sunday,9:30AM,Kansas City Chiefs,Miami Dolphins,,Kansas City,MO
+football,pro,NFL,2023-11-05,Sunday,1:00PM,Cleveland Browns,Arizona Cardinals,,Cleveland,OH
+football,pro,NFL,2023-11-05,Sunday,1:00PM,Green Bay Packers,Los Angeles Rams,,Green Bay,WI
+football,pro,NFL,2023-11-05,Sunday,1:00PM,Houston Texans,Tampa Bay Buccaneers,,Houston,TX
+football,pro,NFL,2023-11-05,Sunday,1:00PM,Atlanta Falcons,Minnesota Vikings,,Atlanta,GA
+football,pro,NFL,2023-11-05,Sunday,1:00PM,New Orleans Saints,Chicago Bears,,New Orleans,LA
+football,pro,NFL,2023-11-05,Sunday,1:00PM,New England Patriots,Washington Commanders,,Foxborough,MA
+football,pro,NFL,2023-11-05,Sunday,1:00PM,Baltimore Ravens,Seattle Seahawks,,Baltimore,MD
+football,pro,NFL,2023-11-05,Sunday,4:05PM,Carolina Panthers,Indianapolis Colts,,Charlotte,NC
+football,pro,NFL,2023-11-05,Sunday,4:25PM,Philadelphia Eagles,Dallas Cowboys,,Philadelphia,PA
+football,pro,NFL,2023-11-05,Sunday,4:25PM,Las Vegas Raiders,New York Giants,,Paradise,NV
+football,pro,NFL,2023-11-05,Sunday,8:20PM,Cincinnati Bengals,Buffalo Bills,,Cincinnati,OH
+football,pro,NFL,2023-11-06,Monday,8:15PM,New York Jets,Los Angeles Chargers,,East Rutherford,NJ
+football,pro,NFL,2023-11-09,Thursday,8:15PM,Chicago Bears,Carolina Panthers,,Chicago,IL
+football,pro,NFL,2023-11-12,Sunday,9:30AM,New England Patriots,Indianapolis Colts,,Foxborough,MA
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Cincinnati Bengals,Houston Texans,,Cincinnati,OH
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Baltimore Ravens,Cleveland Browns,,Baltimore,MD
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Pittsburgh Steelers,Green Bay Packers,,Pittsburgh,PA
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Jacksonville Jaguars,San Francisco 49ers,,Jacksonville,FL
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Tampa Bay Buccaneers,Tennessee Titans,,Tampa,FL
+football,pro,NFL,2023-11-12,Sunday,1:00PM,Minnesota Vikings,New Orleans Saints,,Minneapolis,MN
+football,pro,NFL,2023-11-12,Sunday,4:05PM,Los Angeles Chargers,Detroit Lions,,Inglewood,CA
+football,pro,NFL,2023-11-12,Sunday,4:05PM,Arizona Cardinals,Atlanta Falcons,,Glendale,AZ
+football,pro,NFL,2023-11-12,Sunday,4:25PM,Dallas Cowboys,New York Giants,,Arlington,TX
+football,pro,NFL,2023-11-12,Sunday,4:25PM,Seattle Seahawks,Washington Commanders,,Seattle,WA
+football,pro,NFL,2023-11-12,Sunday,8:20PM,Las Vegas Raiders,New York Jets,,Paradise,NV
+football,pro,NFL,2023-11-13,Monday,8:15PM,Buffalo Bills,Denver Broncos,,Orchard Park,NY
+football,pro,NFL,2023-11-16,Thursday,8:15PM,Baltimore Ravens,Cincinnati Bengals,,Baltimore,MD
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Carolina Panthers,Dallas Cowboys,,Charlotte,NC
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Cleveland Browns,Pittsburgh Steelers,,Cleveland,OH
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Green Bay Packers,Los Angeles Chargers,,Green Bay,WI
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Jacksonville Jaguars,Tennessee Titans,,Jacksonville,FL
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Miami Dolphins,Las Vegas Raiders,,Miami Gardens,FL
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Detroit Lions,Chicago Bears,,Detroit,MI
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Houston Texans,Arizona Cardinals,,Houston,TX
+football,pro,NFL,2023-11-19,Sunday,1:00PM,Washington Commanders,New York Giants,,Landover,MD
+football,pro,NFL,2023-11-19,Sunday,4:05PM,San Francisco 49ers,Tampa Bay Buccaneers,,Santa Clara,CA
+football,pro,NFL,2023-11-19,Sunday,4:25PM,Los Angeles Rams,Seattle Seahawks,,Inglewood,CA
+football,pro,NFL,2023-11-19,Sunday,4:25PM,Buffalo Bills,New York Jets,,Orchard Park,NY
+football,pro,NFL,2023-11-19,Sunday,8:20PM,Denver Broncos,Minnesota Vikings,,Denver,CO
+football,pro,NFL,2023-11-20,Monday,8:15PM,Kansas City Chiefs,Philadelphia Eagles,,Kansas City,MO
+football,pro,NFL,2023-11-23,Thursday,12:30PM,Detroit Lions,Green Bay Packers,,Detroit,MI
+football,pro,NFL,2023-11-23,Thursday,4:30PM,Dallas Cowboys,Washington Commanders,,Arlington,TX
+football,pro,NFL,2023-11-23,Thursday,8:20PM,Seattle Seahawks,San Francisco 49ers,,Seattle,WA
+football,pro,NFL,2023-11-24,Friday,3:00PM,New York Jets,Miami Dolphins,,East Rutherford,NJ
+football,pro,NFL,2023-11-26,Sunday,1:00PM,Atlanta Falcons,New Orleans Saints,,Atlanta,GA
+football,pro,NFL,2023-11-26,Sunday,1:00PM,Tennessee Titans,Carolina Panthers,,Nashville,TN
+football,pro,NFL,2023-11-26,Sunday,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,,Cincinnati,OH
+football,pro,NFL,2023-11-26,Sunday,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers,,Indianapolis,IN
+football,pro,NFL,2023-11-26,Sunday,1:00PM,Houston Texans,Jacksonville Jaguars,,Houston,TX
+football,pro,NFL,2023-11-26,Sunday,1:00PM,New York Giants,New England Patriots,,East Rutherford,NJ
+football,pro,NFL,2023-11-26,Sunday,4:05PM,Denver Broncos,Cleveland Browns,,Denver,CO
+football,pro,NFL,2023-11-26,Sunday,4:05PM,Arizona Cardinals,Los Angeles Rams,,Glendale,AZ
+football,pro,NFL,2023-11-26,Sunday,4:25PM,Las Vegas Raiders,Kansas City Chiefs,,Paradise,NV
+football,pro,NFL,2023-11-26,Sunday,4:25PM,Philadelphia Eagles,Buffalo Bills,,Philadelphia,PA
+football,pro,NFL,2023-11-26,Sunday,8:20PM,Los Angeles Chargers,Baltimore Ravens,,Inglewood,CA
+football,pro,NFL,2023-11-27,Monday,8:15PM,Minnesota Vikings,Chicago Bears,,Minneapolis,MN
+football,pro,NFL,2023-11-30,Thursday,8:15PM,Dallas Cowboys,Seattle Seahawks,,Arlington,TX
+football,pro,NFL,2023-12-03,Sunday,1:00PM,New York Jets,Atlanta Falcons,,East Rutherford,NJ
+football,pro,NFL,2023-12-03,Sunday,1:00PM,Tennessee Titans,Indianapolis Colts,,Nashville,TN
+football,pro,NFL,2023-12-03,Sunday,1:00PM,Houston Texans,Denver Broncos,,Houston,TX
+football,pro,NFL,2023-12-03,Sunday,1:00PM,New Orleans Saints,Detroit Lions,,New Orleans,LA
+football,pro,NFL,2023-12-03,Sunday,1:00PM,Washington Commanders,Miami Dolphins,,Landover,MD
+football,pro,NFL,2023-12-03,Sunday,1:00PM,New England Patriots,Los Angeles Chargers,,Foxborough,MA
+football,pro,NFL,2023-12-03,Sunday,1:00PM,Pittsburgh Steelers,Arizona Cardinals,,Pittsburgh,PA
+football,pro,NFL,2023-12-03,Sunday,4:05PM,Tampa Bay Buccaneers,Carolina Panthers,,Tampa,FL
+football,pro,NFL,2023-12-03,Sunday,4:25PM,Los Angeles Rams,Cleveland Browns,,Inglewood,CA
+football,pro,NFL,2023-12-03,Sunday,4:25PM,Philadelphia Eagles,San Francisco 49ers,,Philadelphia,PA
+football,pro,NFL,2023-12-03,Sunday,8:20PM,Green Bay Packers,Kansas City Chiefs,,Green Bay,WI
+football,pro,NFL,2023-12-04,Monday,8:15PM,Jacksonville Jaguars,Cincinnati Bengals,,Jacksonville,FL
+football,pro,NFL,2023-12-07,Thursday,8:15PM,Pittsburgh Steelers,New England Patriots,,Pittsburgh,PA
+football,pro,NFL,2023-12-10,Sunday,1:00PM,Cleveland Browns,Jacksonville Jaguars,,Cleveland,OH
+football,pro,NFL,2023-12-10,Sunday,1:00PM,New Orleans Saints,Carolina Panthers,,New Orleans,LA
+football,pro,NFL,2023-12-10,Sunday,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,,Atlanta,GA
+football,pro,NFL,2023-12-10,Sunday,1:00PM,New York Jets,Houston Texans,,East Rutherford,NJ
+football,pro,NFL,2023-12-10,Sunday,1:00PM,Chicago Bears,Detroit Lions,,Chicago,IL
+football,pro,NFL,2023-12-10,Sunday,1:00PM,Baltimore Ravens,Los Angeles Rams,,Baltimore,MD
+football,pro,NFL,2023-12-10,Sunday,1:00PM,Cincinnati Bengals,Indianapolis Colts,,Cincinnati,OH
+football,pro,NFL,2023-12-10,Sunday,4:05PM,Las Vegas Raiders,Minnesota Vikings,,Paradise,NV
+football,pro,NFL,2023-12-10,Sunday,4:05PM,San Francisco 49ers,Seattle Seahawks,,Santa Clara,CA
+football,pro,NFL,2023-12-10,Sunday,4:25PM,Los Angeles Chargers,Denver Broncos,,Inglewood,CA
+football,pro,NFL,2023-12-10,Sunday,4:25PM,Kansas City Chiefs,Buffalo Bills,,Kansas City,MO
+football,pro,NFL,2023-12-10,Sunday,8:20PM,Dallas Cowboys,Philadelphia Eagles,,Arlington,TX
+football,pro,NFL,2023-12-11,Monday,8:15PM,New York Giants,Green Bay Packers,,East Rutherford,NJ
+football,pro,NFL,2023-12-11,Monday,8:15PM,Miami Dolphins,Tennessee Titans,,Miami Gardens,FL
+football,pro,NFL,2023-12-14,Thursday,8:15PM,Las Vegas Raiders,Los Angeles Chargers,,Paradise,NV
+football,pro,NFL,2023-12-17,Sunday,1:00PM,New Orleans Saints,New York Giants,,New Orleans,LA
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Miami Dolphins,New York Jets,,Miami Gardens,FL
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Carolina Panthers,Atlanta Falcons,,Charlotte,NC
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Tennessee Titans,Houston Texans,,Nashville,TN
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Cincinnati Bengals,Minnesota Vikings,,Cincinnati,OH
+football,pro,NFL,2023-12-17,Sunday,1:00PM,New England Patriots,Kansas City Chiefs,,Foxborough,MA
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Detroit Lions,Denver Broncos,,Detroit,MI
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Indianapolis Colts,Pittsburgh Steelers,,Indianapolis,IN
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Cleveland Browns,Chicago Bears,,Cleveland,OH
+football,pro,NFL,2023-12-17,Sunday,1:00PM,Green Bay Packers,Tampa Bay Buccaneers,,Green Bay,WI
+football,pro,NFL,2023-12-17,Sunday,4:05PM,Arizona Cardinals,San Francisco 49ers,,Glendale,AZ
+football,pro,NFL,2023-12-17,Sunday,4:05PM,Los Angeles Rams,Washington Commanders,,Inglewood,CA
+football,pro,NFL,2023-12-17,Sunday,4:25PM,Buffalo Bills,Dallas Cowboys,,Orchard Park,NY
+football,pro,NFL,2023-12-17,Sunday,8:20PM,Jacksonville Jaguars,Baltimore Ravens,,Jacksonville,FL
+football,pro,NFL,2023-12-18,Monday,8:15PM,Seattle Seahawks,Philadelphia Eagles,,Seattle,WA
+football,pro,NFL,2023-12-21,Thursday,8:15PM,Los Angeles Rams,New Orleans Saints,,Inglewood,CA
+football,pro,NFL,2023-12-23,Saturday,4:30PM,Pittsburgh Steelers,Cincinnati Bengals,,Pittsburgh,PA
+football,pro,NFL,2023-12-23,Saturday,8:00PM,Los Angeles Chargers,Buffalo Bills,,Inglewood,CA
+football,pro,NFL,2023-12-24,Sunday,1:00PM,Tennessee Titans,Seattle Seahawks,,Nashville,TN
+football,pro,NFL,2023-12-24,Sunday,1:00PM,New York Jets,Washington Commanders,,East Rutherford,NJ
+football,pro,NFL,2023-12-24,Sunday,1:00PM,Minnesota Vikings,Detroit Lions,,Minneapolis,MN
+football,pro,NFL,2023-12-24,Sunday,1:00PM,Houston Texans,Cleveland Browns,,Houston,TX
+football,pro,NFL,2023-12-24,Sunday,1:00PM,Carolina Panthers,Green Bay Packers,,Charlotte,NC
+football,pro,NFL,2023-12-24,Sunday,1:00PM,Atlanta Falcons,Indianapolis Colts,,Atlanta,GA
+football,pro,NFL,2023-12-24,Sunday,4:05PM,Tampa Bay Buccaneers,Jacksonville Jaguars,,Tampa,FL
+football,pro,NFL,2023-12-24,Sunday,4:25PM,Miami Dolphins,Dallas Cowboys,,Miami Gardens,FL
+football,pro,NFL,2023-12-24,Sunday,4:25PM,Chicago Bears,Arizona Cardinals,,Chicago,IL
+football,pro,NFL,2023-12-24,Sunday,8:15PM,Denver Broncos,New England Patriots,,Denver,CO
+football,pro,NFL,2023-12-25,Monday,1:00PM,Kansas City Chiefs,Las Vegas Raiders,,Kansas City,MO
+football,pro,NFL,2023-12-25,Monday,4:30PM,Philadelphia Eagles,New York Giants,,Philadelphia,PA
+football,pro,NFL,2023-12-25,Monday,8:15PM,San Francisco 49ers,Baltimore Ravens,,Santa Clara,CA
+football,pro,NFL,2023-12-28,Thursday,8:15PM,Cleveland Browns,New York Jets,,Cleveland,OH
+football,pro,NFL,2023-12-30,Saturday,8:15PM,Dallas Cowboys,Detroit Lions,,Arlington,TX
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Philadelphia Eagles,Arizona Cardinals,,Philadelphia,PA
+football,pro,NFL,2023-12-31,Sunday,1:00PM,New York Giants,Los Angeles Rams,,East Rutherford,NJ
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Washington Commanders,San Francisco 49ers,,Landover,MD
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Jacksonville Jaguars,Carolina Panthers,,Jacksonville,FL
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Indianapolis Colts,Las Vegas Raiders,,Indianapolis,IN
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Chicago Bears,Atlanta Falcons,,Chicago,IL
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Houston Texans,Tennessee Titans,,Houston,TX
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Baltimore Ravens,Miami Dolphins,,Baltimore,MD
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Buffalo Bills,New England Patriots,,Orchard Park,NY
+football,pro,NFL,2023-12-31,Sunday,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,,Tampa,FL
+football,pro,NFL,2023-12-31,Sunday,4:05PM,Seattle Seahawks,Pittsburgh Steelers,,Seattle,WA
+football,pro,NFL,2023-12-31,Sunday,4:25PM,Denver Broncos,Los Angeles Chargers,,Denver,CO
+football,pro,NFL,2023-12-31,Sunday,4:25PM,Kansas City Chiefs,Cincinnati Bengals,,Kansas City,MO
+football,pro,NFL,2023-12-31,Sunday,8:20PM,Minnesota Vikings,Green Bay Packers,,Minneapolis,MN
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Cincinnati Bengals,Cleveland Browns,,Cincinnati,OH
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Los Angeles Chargers,Kansas City Chiefs,,Inglewood,CA
+football,pro,NFL,2024-01-07,Sunday,1:00PM,New Orleans Saints,Atlanta Falcons,,New Orleans,LA
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,,Charlotte,NC
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Miami Dolphins,Buffalo Bills,,Miami Gardens,FL
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Indianapolis Colts,Houston Texans,,Indianapolis,IN
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Green Bay Packers,Chicago Bears,,Green Bay,WI
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Arizona Cardinals,Seattle Seahawks,,Glendale,AZ
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Detroit Lions,Minnesota Vikings,,Detroit,MI
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Washington Commanders,Dallas Cowboys,,Landover,MD
+football,pro,NFL,2024-01-07,Sunday,1:00PM,San Francisco 49ers,Los Angeles Rams,,Santa Clara,CA
+football,pro,NFL,2024-01-07,Sunday,1:00PM,New England Patriots,New York Jets,,Foxborough,MA
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Las Vegas Raiders,Denver Broncos,,Paradise,NV
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Baltimore Ravens,Pittsburgh Steelers,,Baltimore,MD
+football,pro,NFL,2024-01-07,Sunday,1:00PM,Tennessee Titans,Jacksonville Jaguars,,Nashville,TN
+football,pro,NFL,2024-01-07,Sunday,1:00PM,New York Giants,Philadelphia Eagles,,East Rutherford,NJ
