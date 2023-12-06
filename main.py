@@ -3,6 +3,12 @@ import nba, ncaab, nhl, nfl, mlb
 import os
 from datetime import datetime
 import pandas as pd
+import argparse
+
+# Set up argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--delete_dupes', action='store_true', help='Delete duplicate rows if set')
+args = parser.parse_args()
 
 # this happens once per sport and assumes "games" contains an array of arrays where each looks like
 # [sport, level, league, formatted_date, day_of_week, time, home, road, location]
@@ -46,7 +52,7 @@ def get_most_recent_csv(folder):
     most_recent_file = sorted(csv_files, key=lambda x: os.path.getctime(os.path.join(folder, x)), reverse=True)[0]
     return os.path.join(folder, most_recent_file)
 
-def combine_csv_files():
+def combine_csv_files(delete_dupes):
     schedule_folders = [f for f in os.listdir('.') if os.path.isdir(f) and f.endswith('_schedule')]
     combined_folder = 'combined_schedules'
     if not os.path.exists(combined_folder):
@@ -57,6 +63,18 @@ def combine_csv_files():
 
     # Creating the primary_key column
     combined_df['primary_key'] = combined_df['league'].fillna('Unknown') + '_' + combined_df['date'].fillna('Unknown') + '_' + combined_df['time'].fillna('NA') + '_' + combined_df['home_team'].fillna('Unknown') + '_' + combined_df['road_team'].fillna('Unknown')
+
+    # Identifying duplicates in the primary_key column
+    duplicate_keys = combined_df[combined_df['primary_key'].duplicated(keep=False)]
+    if not duplicate_keys.empty:
+        print("Duplicate primary keys found:")
+        print(duplicate_keys['primary_key'].value_counts())
+    else:
+        print("No duplicate primary keys")
+
+    if delete_dupes and not duplicate_keys.empty:
+        print("Deleting dupes")
+        combined_df = combined_df.drop_duplicates(subset='primary_key', keep='first')
 
     # Reorder columns to make primary_key the first column
     column_order = ['primary_key'] + [col for col in combined_df.columns if col != 'primary_key']
@@ -98,7 +116,7 @@ def create_combined_df(folders):
 
     return combined_df
 
-def main():
+def main(delete_dupes):
     location_lookup = create_location_lookup()
 
     # Mapping of sports to their respective modules (assuming similar function names across modules)
@@ -115,7 +133,7 @@ def main():
         games = module.scrape_sites()
         write_to_csv(sport, games, location_lookup)
 
-    combine_csv_files()
+    combine_csv_files(delete_dupes)
 
 if __name__ == "__main__":
-    main()
+    main(args.delete_dupes)
