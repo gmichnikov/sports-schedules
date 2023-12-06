@@ -123,7 +123,7 @@ def main(delete_dupes):
     sports_modules = {
         # 'nba': nba,
         # 'nhl': nhl,
-        # 'ncaab': ncaab,
+        'ncaab': ncaab,
         # 'nfl': nfl,
         'mlb': mlb,
     }

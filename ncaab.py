@@ -17,6 +17,12 @@ def parse_json_game_info(game):
     # Extracting home and road teams
     home, road = parse_json_team_names(game['name'])
     
+    if game["image"]["url"] == "https://yalebulldogs.com/images/logos/site/site.png":
+        if home == "":
+            home = "Yale University"
+        if road == "":
+            road = "Yale University"
+
     # Extracting and formatting the date and time
     start_date_time = game['startDate']
     date_str, time_str = start_date_time.split('T')
@@ -49,6 +55,7 @@ def scrape_sites():
 
     for site in json_sites:
         url = site + "/sports/mens-basketball/schedule/2023-24"
+        print("Working on " + site)
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
         script_tag = soup.find('script', {'type': 'application/ld+json'})
@@ -61,6 +68,7 @@ def scrape_sites():
     txt_sites = inputs["ncaab"]['txt_sites']
 
     for site in txt_sites:
+        print("Working on " + site)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
             }
