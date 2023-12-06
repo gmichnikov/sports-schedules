@@ -1,5 +1,5 @@
 import csv
-import nba, ncaab, nhl, nfl
+import nba, ncaab, nhl, nfl, mlb
 import os
 from datetime import datetime
 import pandas as pd
@@ -103,13 +103,15 @@ def main():
 
     # Mapping of sports to their respective modules (assuming similar function names across modules)
     sports_modules = {
-        'nba': nba,
-        'nhl': nhl,
-        'ncaab': ncaab,
-        'nfl': nfl,
+        # 'nba': nba,
+        # 'nhl': nhl,
+        # 'ncaab': ncaab,
+        # 'nfl': nfl,
+        'mlb': mlb,
     }
 
     for sport, module in sports_modules.items():
+        print("Starting " + sport)
         games = module.scrape_sites()
         write_to_csv(sport, games, location_lookup)
 
