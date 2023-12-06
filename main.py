@@ -1,5 +1,5 @@
 import csv
-import nba, ncaab
+import nba, ncaab, nhl
 import os
 from datetime import datetime
 import pandas as pd
@@ -104,6 +104,7 @@ def main():
     # Mapping of sports to their respective modules (assuming similar function names across modules)
     sports_modules = {
         'nba': nba,
+        'nhl': nhl,
         'ncaab': ncaab,
     }
 
