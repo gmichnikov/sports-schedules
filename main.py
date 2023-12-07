@@ -14,25 +14,43 @@ args = parser.parse_args()
 # [sport, level, league, formatted_date, day_of_week, time, home, road, location]
 # this function then adds the city and state
 def write_to_csv(sport, games, location_lookup):
-    # Get current date and time
+    base_folder = f'{sport}_schedule'
+    if not os.path.exists(base_folder):
+        os.makedirs(base_folder)
     current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f'{sport}_schedule_{current_datetime}.csv'
+    headers = ["sport", "level", "league", "date", "day", "time", "home_team", "road_team", "location", "home_city", "home_state"]
 
-    # Create folder if it doesn't exist
-    folder = f'{sport}_schedule'
-    if not os.path.exists(folder):
-        os.makedirs(folder)
-
-    filepath = os.path.join(folder, filename)
-    
-    with open(filepath, 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["sport", "level", "league", "date", "day", "time", "home_team", "road_team", "location", "home_city", "home_state"])
+    # For ncaab, handle each game individually
+    if sport == 'ncaab':
         for game in games:
-            league = game[2].lower()  # League
-            home_team = game[6].lower()  # Home Team
-            city, state = location_lookup.get((league, home_team), ("", ""))
-            writer.writerow(game + [city, state])
+            team_code = game[-1]  # Assuming team_code is the last element in game array
+            folder = os.path.join(base_folder, team_code)
+            if not os.path.exists(folder):
+                os.makedirs(folder)
+            filename = f'{team_code}_schedule_{current_datetime}.csv'
+
+            filepath = os.path.join(folder, filename)
+            with open(filepath, 'a', newline='') as file:
+                writer = csv.writer(file)
+                if os.path.getsize(filepath) == 0:  # Write headers only if file is empty
+                    writer.writerow(headers)
+                league = game[2].lower()
+                home_team = game[6].lower()
+                city, state = location_lookup.get((league, home_team), ("", ""))
+                writer.writerow(game[:-1] + [city, state])  # Exclude the last element (team code)
+
+    # For other sports, write all games to a single file
+    else:
+        filename = f'{sport}_schedule_{current_datetime}.csv'
+        filepath = os.path.join(base_folder, filename)
+        with open(filepath, 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(headers)
+            for game in games:
+                league = game[2].lower()
+                home_team = game[6].lower()
+                city, state = location_lookup.get((league, home_team), ("", ""))
+                writer.writerow(game + [city, state])
 
 # this happens once, before any sports are scraped
 def create_location_lookup():
@@ -109,10 +127,20 @@ def add_missing_teams_to_locations(combined_df):
 def create_combined_df(folders):
     combined_df = pd.DataFrame()
     for folder in folders:
-        csv_file = get_most_recent_csv(folder)
-        print("combining csv: " + str(csv_file))
-        df = pd.read_csv(csv_file, header=0)
-        combined_df = pd.concat([combined_df, df], ignore_index=True)
+        if 'ncaab' in folder:
+            team_folders = [os.path.join(folder, d) for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d))]
+            for team_folder in team_folders:
+                csv_file = get_most_recent_csv(team_folder)
+                if csv_file:
+                    print("combining csv: " + str(csv_file))
+                    df = pd.read_csv(csv_file, header=0)
+                    combined_df = pd.concat([combined_df, df], ignore_index=True)
+        else:
+            csv_file = get_most_recent_csv(folder)
+            if csv_file:
+                print("combining csv: " + str(csv_file))
+                df = pd.read_csv(csv_file, header=0)
+                combined_df = pd.concat([combined_df, df], ignore_index=True)
 
     return combined_df
 

@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Yale University,Vassar,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2023-11-10,Friday,21:00:00,Gonzaga,Yale University,"Spokane, Wash.",Spokane,WA
+basketball,college,ncaab,2023-11-12,Sunday,18:00:00,Loyola Marymount,Yale University,"Los Angeles, Calif.",Los Angeles,CA
+basketball,college,ncaab,2023-11-17,Friday,18:00:00,Yale University,Colgate,"Moncton, New Brunswick",New Haven,CT
+basketball,college,ncaab,2023-11-18,Saturday,18:00:00,Yale University,Weber State,"Moncton, New Brunswick",New Haven,CT
+basketball,college,ncaab,2023-11-19,Sunday,15:00:00,Yale University,Gardner-Webb,"Moncton, New Brunswick",New Haven,CT
+basketball,college,ncaab,2023-11-26,Sunday,16:00:00,Rhode Island,Yale University,"Kingston, R.I.",Kingston,RI
+basketball,college,ncaab,2023-11-29,Wednesday,19:00:00,Yale University,Stony Brook,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2023-12-02,Saturday,19:00:00,Vermont,Yale University,"Burlington, Vt.",Burlington,VT
+basketball,college,ncaab,2023-12-06,Wednesday,19:00:00,Yale University,Fairfield,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Yale University,Colby-Sawyer,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2023-12-11,Monday,19:00:00,Quinnipiac,Yale University,"Hamden, Conn.",Hamden,CT
+basketball,college,ncaab,2023-12-22,Friday,20:00:00,Kansas,Yale University,"Lawrence, Kan.",Lawrence,KS
+basketball,college,ncaab,2023-12-30,Saturday,19:00:00,Santa Clara,Yale University,"Santa Clara, Calif.",Santa Clara,CA
+basketball,college,ncaab,2024-01-03,Wednesday,16:00:00,Howard,Yale University,"Washington, D.C.",Washington,DC
+basketball,college,ncaab,2024-01-09,Tuesday,19:00:00,Brown,Yale University,"Providence, R.I.",Providence,RI
+basketball,college,ncaab,2024-01-15,Monday,19:00:00,Yale University,Columbia,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-01-20,Saturday,14:00:00,Dartmouth,Yale University,"Hanover, N.H.",Hanover,NH
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Harvard,Yale University,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Yale University,Princeton,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-02-03,Saturday,19:00:00,Yale University,Penn,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Yale University,Cornell,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Penn,Yale University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2024-02-17,Saturday,20:00:00,Princeton,Yale University,"Princeton, N.J.",Princeton,NJ
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Cornell,Yale University,"Ithaca, N.Y.",Ithaca,NY
+basketball,college,ncaab,2024-02-24,Saturday,18:00:00,Columbia,Yale University,"New York, N.Y.",New York,NY
+basketball,college,ncaab,2024-03-01,Friday,19:00:00,Yale University,Dartmouth,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-03-02,Saturday,19:00:00,Yale University,Harvard,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-03-09,Saturday,12:00:00,Yale University,Brown,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-03-16,Saturday,00:00:00,Yale University,Ivy League Tournament,"New York, N.Y.",New Haven,CT

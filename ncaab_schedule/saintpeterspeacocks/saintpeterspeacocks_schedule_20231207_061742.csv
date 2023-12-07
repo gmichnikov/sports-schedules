@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-12-01,Friday,19:00:00,Niagara University,Saint Peter's University,Gallagher Center,Niagara University,NY
+basketball,college,ncaab,2023-12-03,Sunday,13:00:00,Canisius University,Saint Peter's University,Koessler Athletic Center,Buffalo,NY
+basketball,college,ncaab,2024-01-05,Friday,19:00:00,Saint Peter's University,Iona University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-07,Sunday,14:00:00,Saint Peter's University,Mount St. Mary's (Md.),"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-14,Sunday,14:00:00,Manhattan College,Saint Peter's University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-01-19,Friday,19:00:00,Fairfield University,Saint Peter's University,Leo D. Mahoney Arena,Fairfield,CT
+basketball,college,ncaab,2024-01-21,Sunday,14:00:00,Saint Peter's University,Canisius University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,Saint Peter's University,Rider University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-01-28,Sunday,14:00:00,Siena College,Saint Peter's University,UHY Center,Loudonville,NY
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Saint Peter's University,Niagara University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-04,Sunday,14:00:00,Marist College,Saint Peter's University,McCann Arena,Poughkeepsie,NY
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Quinnipiac University,Saint Peter's University,Burt Kahn Court,Hamden,CT
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Saint Peter's University,Fairfield University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Saint Peter's University,Siena College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-02-18,Sunday,13:00:00,Iona University,Saint Peter's University,Hynes Athletics Center,New Rochelle,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Mount St. Mary's (Md.),Saint Peter's University,Knott Arena ,Emmitsburg,MD
+basketball,college,ncaab,2024-02-25,Sunday,15:00:00,Saint Peter's University,Marist College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-03,Sunday,14:00:00,Saint Peter's University,Manhattan College,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-07,Thursday,20:00:00,Rider University,Saint Peter's University,Alumni Gymnasium,Lawrenceville,NJ
+basketball,college,ncaab,2024-03-09,Saturday,14:00:00,Saint Peter's University,Quinnipiac University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2024-03-12,Tuesday,00:00:00,Saint Peter's University,Metro Atlantic Athletic Conference,Boardwalk Hall,Jersey City,NJ
+basketball,college,ncaab,2023-11-06,Monday,19:30:00,Seton Hall University,Saint Peter's University,Prudential Center,South Orange,NJ
+basketball,college,ncaab,2023-11-11,Saturday,16:00:00,New Jersey Institute of Technology,Saint Peter's University,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,19:00:00,FDU,Saint Peter's University,Stratis Arena inside the Rothman Center,Teaneck,NJ
+basketball,college,ncaab,2023-11-20,Monday,19:00:00,Saint Peter's University,University of Massachusetts Lowell,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-11-27,Monday,19:00:00,Rutgers University,Saint Peter's University,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-12,Tuesday,19:00:00,Saint Peter's University,UMBC,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-12-30,Saturday,14:00:00,Bucknell University,Saint Peter's University,Sojka Pavilion,Lewisburg,PA
+basketball,college,ncaab,2023-12-22,Friday,13:00:00,Saint Peter's University,Kean University,"The Victor R. Yanitelli, S.J. Recreational Life Center",Jersey City,NJ
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Duquesne University,Saint Peter's University,UPMC Cooper Fieldhouse,Pittsburgh,PA

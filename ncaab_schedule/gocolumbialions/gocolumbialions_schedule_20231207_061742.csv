@@ -1,0 +1,30 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Providence,Columbia University,"Providence, R.I.",Providence,RI
+basketball,college,ncaab,2023-11-11,Saturday,19:00:00,Columbia University,UAlbany,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-11-12,Sunday,18:00:00,Columbia University,Bard,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-11-15,Wednesday,19:00:00,Columbia University,SUNY-Delhi,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-11-18,Saturday,13:00:00,Temple,Columbia University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2023-11-21,Tuesday,19:00:00,Columbia University,LIU,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-11-25,Saturday,13:00:00,Columbia University,Maine,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-11-29,Wednesday,19:00:00,Columbia University,Loyola (Md.),SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-12-03,Sunday,12:00:00,New Hampshire,Columbia University,"Durham, N.H.",Durham,NH
+basketball,college,ncaab,2023-12-05,Tuesday,19:00:00,Columbia University,Lafayette,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2023-12-11,Monday,19:00:00,Fairleigh Dickinson,Columbia University,"Teaneck, N.J.",Teaneck,NJ
+basketball,college,ncaab,2023-12-30,Saturday,13:00:00,Fordham,Columbia University,"Bronx, N.Y.",Bronx,NY
+basketball,college,ncaab,2024-01-04,Thursday,19:00:00,Columbia University,Mount Saint Vincent,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-01-09,Tuesday,18:00:00,Cornell,Columbia University,"Ithaca, N.Y.",Ithaca,NY
+basketball,college,ncaab,2024-01-15,Monday,19:00:00,Yale,Columbia University,"New Haven, Conn.",New Haven,CT
+basketball,college,ncaab,2024-01-20,Saturday,14:00:00,Columbia University,Princeton,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Columbia University,Penn,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Harvard,Columbia University,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2024-02-03,Saturday,18:00:00,Dartmouth,Columbia University,"Hanover, N.H.",Hanover,NH
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Brown,Columbia University,"Providence, R.I.",Providence,RI
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Columbia University,Dartmouth,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-02-17,Saturday,18:00:00,Columbia University,Harvard,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Columbia University,Brown,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-02-24,Saturday,18:00:00,Columbia University,Yale,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-03-01,Friday,20:00:00,Princeton,Columbia University,"Princeton, N.J.",Princeton,NJ
+basketball,college,ncaab,2024-03-02,Saturday,19:00:00,Penn,Columbia University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2024-03-09,Saturday,14:00:00,Columbia University,Cornell,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-03-16,Saturday,00:00:00,Columbia University,Ivy League Semifinals,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-03-17,Sunday,00:00:00,Columbia University,Ivy League FInal,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY

@@ -1,0 +1,35 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:30:00,Buffalo,Fairleigh Dickinson University,Alumni Arena,Buffalo,NY
+basketball,college,ncaab,2023-11-11,Saturday,16:00:00,Seton Hall,Fairleigh Dickinson University,Walsh Gymnasium,South Orange,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,19:05:00,Fairleigh Dickinson University,Saint Peter's,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2023-11-22,Wednesday,19:00:00,Queens (N.C.),Fairleigh Dickinson University,Curry Arena,Charlotte,NC
+basketball,college,ncaab,2023-11-30,Thursday,19:00:00,Fordham,Fairleigh Dickinson University,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2023-12-29,Friday,21:00:00,Illinois,Fairleigh Dickinson University,State Farm Center,Urbana-Champaign,IL
+basketball,college,ncaab,2023-11-25,Saturday,16:00:00,Fairleigh Dickinson University,Jacksonville,UPMC Events Center,Teaneck,NJ
+basketball,college,ncaab,2023-11-26,Sunday,14:00:00,Robert Morris,Fairleigh Dickinson University,UPMC Events Center,Moon Township,PA
+basketball,college,ncaab,2023-12-21,Thursday,19:00:00,Fairleigh Dickinson University,Fairfield,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-01-10,Wednesday,19:00:00,Fairleigh Dickinson University,Chicago State,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Manhattan,Fairleigh Dickinson University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2023-12-11,Monday,19:00:00,Fairleigh Dickinson University,Columbia,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2023-12-02,Saturday,15:30:00,NJIT,Fairleigh Dickinson University,Joel and Diane Bloom Wellness and Events Center,Newark,NJ
+basketball,college,ncaab,2023-11-08,Wednesday,19:00:00,Fairleigh Dickinson University,Penn State Brandywine,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2023-11-18,Saturday,14:00:00,Fairleigh Dickinson University,Penn State Schuylkill,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-01-04,Thursday,19:00:00,Merrimack,Fairleigh Dickinson University,Lawler Arena,North Andover,MA
+basketball,college,ncaab,2024-01-06,Saturday,14:00:00,Fairleigh Dickinson University,Le Moyne,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-01-13,Saturday,13:00:00,Fairleigh Dickinson University,Stonehill,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-01-15,Monday,19:00:00,Saint Francis U,Fairleigh Dickinson University,DeGol Arena,Loretto,PA
+basketball,college,ncaab,2024-01-19,Friday,00:00:00,Stonehill,Fairleigh Dickinson University,Merkert Gymnasium,Easton,MA
+basketball,college,ncaab,2024-01-25,Thursday,17:00:00,Fairleigh Dickinson University,Central Connecticut,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Fairleigh Dickinson University,Sacred Heart,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-02-01,Thursday,19:00:00,Fairleigh Dickinson University,LIU,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Fairleigh Dickinson University,Wagner,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-02-10,Saturday,13:00:00,Central Connecticut,Fairleigh Dickinson University,Detrick Gymnasium,New Britain,CT
+basketball,college,ncaab,2024-02-15,Thursday,19:00:00,LIU,Fairleigh Dickinson University,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-17,Saturday,13:00:00,Fairleigh Dickinson University,Saint Francis U,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,Sacred Heart,Fairleigh Dickinson University,William H. Pitt Center,Fairfield,CT
+basketball,college,ncaab,2024-02-24,Saturday,14:00:00,Le Moyne,Fairleigh Dickinson University,Ted Grant Court,Syracuse,NY
+basketball,college,ncaab,2024-02-29,Thursday,19:00:00,Fairleigh Dickinson University,Merrimack,Stratis Arena,Teaneck,NJ
+basketball,college,ncaab,2024-03-02,Saturday,16:30:00,Wagner,Fairleigh Dickinson University,Spiro Sports Center,Staten Island,NY
+basketball,college,ncaab,2024-03-06,Wednesday,00:00:00,Quarterfinal,Fairleigh Dickinson University,High Seed in Matchup,TBD,TBD
+basketball,college,ncaab,2024-03-09,Saturday,00:00:00,Semifinal,Fairleigh Dickinson University,High Seed in Matchup,TBD,TBD
+basketball,college,ncaab,2024-03-12,Tuesday,00:00:00,Final,Fairleigh Dickinson University,High Seed in Matchup,TBD,TBD

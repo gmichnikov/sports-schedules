@@ -3,13 +3,14 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import re
+from urllib.parse import urlparse
 
 def load_inputs():
     with open('inputs.json', 'r') as file:
         data = json.load(file)
         return data
 
-def parse_json_game_info(game):
+def parse_json_game_info(game, team_code):
     sport = "basketball"
     level = "college"
     league = "ncaab"
@@ -32,7 +33,7 @@ def parse_json_game_info(game):
 
     location = game['location']['name']
 
-    return [sport, level, league, formatted_date, day_of_week, time_str, home, road, location]
+    return [sport, level, league, formatted_date, day_of_week, time_str, home, road, location, team_code]
 
 def parse_json_team_names(name_field):
     vs_match = re.search(r'(?i)\bvs\b', name_field)
@@ -55,6 +56,11 @@ def scrape_sites():
 
     for site in json_sites:
         url = site + "/sports/mens-basketball/schedule/2023-24"
+
+        parsed_site = urlparse(site)
+        domain = parsed_site.netloc
+        team_code = domain.split('.')[0] # name to be used in team folder/file
+
         print("Working on " + site)
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -63,11 +69,15 @@ def scrape_sites():
             events = json.loads(script_tag.string)
             for event in events:
                 if event["@type"] == "SportsEvent":
-                    games.append(parse_json_game_info(event))
+                    games.append(parse_json_game_info(event, team_code))
 
     txt_sites = inputs["ncaab"]['txt_sites']
 
     for site in txt_sites:
+        parsed_site = urlparse(site)
+        domain = parsed_site.netloc
+        team_code = domain.split('.')[1] # name to be used in team folder/file
+
         print("Working on " + site)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -90,12 +100,12 @@ def scrape_sites():
                     game_info = extract_txt_game_info(line, header_indices)
                     txt_games.append(game_info)
 
-            processed_txt_games = process_txt_games(txt_games, team_name)
+            processed_txt_games = process_txt_games(txt_games, team_name, team_code)
             games.extend(processed_txt_games)  # Append processed games to the overall games list
 
     return games
 
-def process_txt_games(txt_games, team_name):
+def process_txt_games(txt_games, team_name, team_code):
     processed_games = []
     for game in txt_games:
         date_str = game['Date']
@@ -120,7 +130,7 @@ def process_txt_games(txt_games, team_name):
 
         location = game['Location']
 
-        processed_games.append(["basketball", "college", "ncaab", formatted_date, day_of_week, time_str, home, road, location])
+        processed_games.append(["basketball", "college", "ncaab", formatted_date, day_of_week, time_str, home, road, location, team_code])
 
     return processed_games
 

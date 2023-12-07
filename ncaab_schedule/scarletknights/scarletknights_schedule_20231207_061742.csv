@@ -1,0 +1,33 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Rutgers University,Princeton,CURE Insurance Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-10,Friday,19:00:00,Rutgers University,Boston University,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-12,Sunday,12:00:00,Rutgers University,Bryant,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-15,Wednesday,20:30:00,Rutgers University,Georgetown,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-18,Saturday,18:00:00,Rutgers University,Howard,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-11-27,Monday,19:00:00,Rutgers University,Saint Peter's,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-06,Wednesday,18:00:00,Wake Forest,Rutgers University,LJVM Coliseum,Winston-Salem,NC
+basketball,college,ncaab,2023-12-09,Saturday,20:30:00,Seton Hall,Rutgers University,Prudential Center,South Orange,NJ
+basketball,college,ncaab,2023-12-30,Saturday,12:00:00,Rutgers University,Stonehill,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-16,Saturday,13:00:00,Rutgers University,LIU,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-12-23,Saturday,12:00:00,Rutgers University,Mississippi State,Prudential Center,New Brunswick,NJ
+basketball,college,ncaab,2023-12-02,Saturday,16:00:00,Rutgers University,Illinois,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-03,Wednesday,19:00:00,Ohio State,Rutgers University,The Schottenstein Center,Columbus,OH
+basketball,college,ncaab,2024-01-06,Saturday,12:00:00,Iowa,Rutgers University,Hawkeye Arena,Iowa City,IA
+basketball,college,ncaab,2024-01-09,Tuesday,19:00:00,Rutgers University,Indiana,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-14,Sunday,12:00:00,Michigan State,Rutgers University,Breslin Center,East Lansing,MI
+basketball,college,ncaab,2024-01-17,Wednesday,19:00:00,Rutgers University,Nebraska,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-21,Sunday,13:00:00,Illinois,Rutgers University,State Farm Center,Urbana-Champaign,IL
+basketball,college,ncaab,2024-01-28,Sunday,13:00:00,Rutgers University,Purdue,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-01-31,Wednesday,20:30:00,Rutgers University,Penn State,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-03,Saturday,16:00:00,Michigan,Rutgers University,Crisler Center,Ann Arbor,MI
+basketball,college,ncaab,2024-02-06,Tuesday,18:30:00,Maryland,Rutgers University,"College Park, MD",College Park,MD
+basketball,college,ncaab,2024-02-10,Saturday,12:00:00,Rutgers University,Wisconsin,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-15,Thursday,18:30:00,Rutgers University,Northwestern,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-18,Sunday,18:30:00,Minnesota,Rutgers University,Williams Arena,Minneapolis,MN
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,Purdue,Rutgers University,Mackey Arena,West Lafayette,IN
+basketball,college,ncaab,2024-02-25,Sunday,12:00:00,Rutgers University,Maryland,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-02-29,Thursday,20:30:00,Rutgers University,Michigan,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2024-03-03,Sunday,18:30:00,Nebraska,Rutgers University,Value City Arena,Lincoln,NE
+basketball,college,ncaab,2024-03-07,Thursday,19:00:00,Wisconsin,Rutgers University,Kohl Center,Madison,WI
+basketball,college,ncaab,2024-03-10,Sunday,14:00:00,Rutgers University,Ohio State,Jersey Mike's Arena,New Brunswick,NJ
+basketball,college,ncaab,2023-10-21,Saturday,14:00:00,St. John's (Exhibition),Rutgers University,Carnesecca Arena,Queens,NY

@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Harvard University,UMass Boston,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-11-10,Friday,20:00:00,Rice University,Harvard University,"Houston, TX",Houston,TX
+basketball,college,ncaab,2023-11-14,Tuesday,19:00:00,Harvard University,Northeastern University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-11-17,Friday,19:00:00,University of Massachusetts,Harvard University,"Amherst, MA",Amherst,MA
+basketball,college,ncaab,2023-11-18,Saturday,17:00:00,Boston College,Harvard University,"Chestnut Hill, MA",Chestnut Hill,MA
+basketball,college,ncaab,2023-11-22,Wednesday,14:00:00,Colgate University,Harvard University,"Hamilton, NY",Hamilton,NY
+basketball,college,ncaab,2023-11-26,Sunday,16:30:00,Indiana University,Harvard University,"Indianapolis, IN / Gainbridge Fieldhouse",Bloomington,IN
+basketball,college,ncaab,2023-11-29,Wednesday,19:00:00,Harvard University,American University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-02,Saturday,16:00:00,Loyola University Chicago,Harvard University,"Chicago, IL",Chicago,IL
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Harvard University,Army West Point,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-21,Thursday,14:00:00,Harvard University,Holy Cross,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2023-12-30,Saturday,14:00:00,Harvard University,Iona University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-02,Tuesday,19:00:00,Harvard University,University at Albany,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-06,Saturday,14:00:00,Princeton University,Harvard University,"Princeton, NJ",Princeton,NJ
+basketball,college,ncaab,2024-01-15,Monday,14:00:00,Harvard University,Brown University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-01-20,Saturday,18:00:00,University of Pennsylvania,Harvard University,"Philadelphia, PA",Philadelphia,PA
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Harvard University,Yale University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Harvard University,Columbia University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-03,Saturday,19:00:00,Harvard University,Cornell University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Harvard University,Dartmouth College,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Cornell University,Harvard University,"Ithaca, NY",Ithaca,NY
+basketball,college,ncaab,2024-02-17,Saturday,18:00:00,Columbia University,Harvard University,"New York, NY",New York,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Harvard University,Princeton University,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-02-24,Saturday,19:00:00,Harvard University,University of Pennsylvania,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-03-01,Friday,19:00:00,Brown University,Harvard University,"Providence, RI",Providence,RI
+basketball,college,ncaab,2024-03-02,Saturday,19:00:00,Yale University,Harvard University,"New Haven, CT",New Haven,CT
+basketball,college,ncaab,2024-03-09,Saturday,14:00:00,Dartmouth College,Harvard University,"Hanover, NH",Hanover,NH
+basketball,college,ncaab,2023-10-13,Friday,18:30:00,Harvard University,Crimson Madness,Lavietes Pavilion,Cambridge,MA
+basketball,college,ncaab,2024-03-16,Saturday,11:00:00,Harvard University,Ivy League Tournament,"New York, NY",Cambridge,MA
+basketball,college,ncaab,2024-03-17,Sunday,12:00:00,Harvard University,Ivy League Tournament,"New York, NY",Cambridge,MA
