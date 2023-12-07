@@ -1,5 +1,5 @@
 import csv
-import nba, ncaab, nhl, nfl, mlb
+import nba, ncaab, nhl, nfl, mlb, ncaah
 import os
 from datetime import datetime
 import pandas as pd
@@ -20,8 +20,8 @@ def write_to_csv(sport, games, location_lookup):
     current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
     headers = ["sport", "level", "league", "date", "day", "time", "home_team", "road_team", "location", "home_city", "home_state"]
 
-    # For ncaab, handle each game individually
-    if sport == 'ncaab':
+    # For ncaab and ncaah, handle each game individually
+    if sport == 'ncaab' or sport == 'ncaah':
         for game in games:
             team_code = game[-1]  # Assuming team_code is the last element in game array
             folder = os.path.join(base_folder, team_code)
@@ -127,7 +127,7 @@ def add_missing_teams_to_locations(combined_df):
 def create_combined_df(folders):
     combined_df = pd.DataFrame()
     for folder in folders:
-        if 'ncaab' in folder:
+        if ('ncaab' in folder) or ('ncaah' in folder):
             team_folders = [os.path.join(folder, d) for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d))]
             for team_folder in team_folders:
                 csv_file = get_most_recent_csv(team_folder)
@@ -151,9 +151,10 @@ def main(delete_dupes):
     sports_modules = {
         # 'nba': nba,
         # 'nhl': nhl,
-        'ncaab': ncaab,
+        # 'ncaab': ncaab,
+        'ncaah': ncaah,
         # 'nfl': nfl,
-        'mlb': mlb,
+        # 'mlb': mlb,
     }
 
     for sport, module in sports_modules.items():
