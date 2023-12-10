@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,Single-A,2024-06-16,Sunday,12:00 PM ET,Jupiter,St. Lucie,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Single-A,2024-06-16,Sunday,12:00 PM ET,Clearwater,Tampa,BayCare Ballpark,Clearwater,FL
+baseball,minors,Single-A,2024-06-16,Sunday,12:00 PM ET,Dunedin,Bradenton,TD Ballpark,Dunedin,FL
+baseball,minors,Single-A,2024-06-16,Sunday,12:05 PM ET,Fort Myers,Lakeland,Lee Health Sports Complex,Fort Myers,FL
+baseball,minors,Single-A,2024-06-16,Sunday,1:00 PM ET,Carolina,Fredericksburg,Five County Stadium,Zebulon,NC
+baseball,minors,Single-A,2024-06-16,Sunday,1:00 PM ET,Down East,Charleston,Grainger Stadium,Kinston,NC
+baseball,minors,Double-A,2024-06-16,Sunday,1:00 PM ET,Harrisburg,Bowie,FNB Field,Harrisburg,PA
+baseball,minors,High-A,2024-06-16,Sunday,1:05 PM ET,Jersey Shore,Wilmington,ShoreTown Ballpark,Lakewood,NJ
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Columbus,Iowa,Huntington Park,Columbus,OH
+baseball,minors,High-A,2024-06-16,Sunday,1:05 PM ET,Dayton,Great Lakes,Day Air Ballpark,Dayton,OH
+baseball,minors,High-A,2024-06-16,Sunday,1:05 PM ET,Lansing,Cedar Rapids,Jackson Field,Lansing,MI
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Buffalo,Worcester,Sahlen Field,Buffalo,NY
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Rochester,Scranton/WB,Innovative Field,Rochester,NY
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Gwinnett,Nashville,Coolray Field,Lawrenceville,GA
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Norfolk,Memphis,Harbor Park,Norfolk,VA
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Syracuse,Lehigh Valley,NBT Bank Stadium,Syracuse,NY
+baseball,minors,Double-A,2024-06-16,Sunday,1:05 PM ET,Binghamton,Somerset,Mirabito Stadium,Binghamton,NY
+baseball,minors,Triple-A,2024-06-16,Sunday,1:05 PM ET,Louisville,St. Paul,Louisville Slugger Field,Louisville,KY
+baseball,minors,Double-A,2024-06-16,Sunday,1:10 PM ET,Hartford,Akron,Dunkin' Park,Hartford,CT
+baseball,minors,Double-A,2024-06-16,Sunday,1:35 PM ET,New Hampshire,Richmond,Delta Dental Stadium,Manchester,NH
+baseball,minors,Single-A,2024-06-16,Sunday,2:00 PM ET,Lynchburg,Augusta,Bank of the James Stadium,Lynchburg,VA
+baseball,minors,High-A,2024-06-16,Sunday,2:00 PM ET,Quad Cities,Beloit,Modern Woodmen Park,Davenport,IA
+baseball,minors,Double-A,2024-06-16,Sunday,2:00 PM ET,Tulsa,Arkansas,ONEOK Field,Tulsa,OK
+baseball,minors,High-A,2024-06-16,Sunday,2:00 PM ET,Winston-Salem,Greensboro,Truist Stadium,Winston-Salem,NC
+baseball,minors,High-A,2024-06-16,Sunday,2:00 PM ET,West Michigan,Wisconsin,LMCU Ballpark,Comstock Park,MI
+baseball,minors,High-A,2024-06-16,Sunday,2:05 PM ET,Aberdeen,Hickory,Leidos Field at Ripken Stadium,Aberdeen,MD
+baseball,minors,High-A,2024-06-16,Sunday,2:05 PM ET,Hudson Valley,Brooklyn,Heritage Financial Park,Wappingers Falls,NY
+baseball,minors,Triple-A,2024-06-16,Sunday,2:05 PM ET,Toledo,Omaha,Fifth Third Field,Toledo,OH
+baseball,minors,Single-A,2024-06-16,Sunday,2:05 PM ET,Delmarva,Kannapolis,Arthur W. Perdue Stadium,Salisbury,MD
+baseball,minors,Double-A,2024-06-16,Sunday,2:05 PM ET,Springfield,NW Arkansas,Hammons Field,Springfield,MO
+baseball,minors,High-A,2024-06-16,Sunday,2:05 PM ET,Bowling Green,Rome,Bowling Green Ballpark,Bowling Green,KY
+baseball,minors,Double-A,2024-06-16,Sunday,2:05 PM ET,Wichita,Midland,Riverfront Stadium,Wichita,KS
+baseball,minors,Double-A,2024-06-16,Sunday,2:15 PM ET,Chattanooga,Montgomery,AT&T Field,Chattanooga,TN
+baseball,minors,Single-A,2024-06-16,Sunday,3:05 PM ET,Visalia,Modesto,Valley Strong Ballpark,Visalia,CA
+baseball,minors,High-A,2024-06-16,Sunday,3:05 PM ET,Peoria,South Bend,Dozer Park,Peoria,IL
+baseball,minors,Double-A,2024-06-16,Sunday,3:05 PM ET,Mississippi,Rocket City,Trustmark Park,Pearl,MS
+baseball,minors,Triple-A,2024-06-16,Sunday,3:05 PM ET,Las Vegas,Salt Lake,Las Vegas Ballpark,Summerlin,NV
+baseball,minors,Triple-A,2024-06-16,Sunday,3:05 PM ET,Jacksonville,Indianapolis,121 Financial Ballpark,Jacksonville,FL
+baseball,minors,High-A,2024-06-16,Sunday,3:05 PM ET,Greenville,Asheville,Fluor Field at the West End,Greenville,SC
+baseball,minors,Single-A,2024-06-16,Sunday,4:00 PM ET,San Jose,Inland Empire,Excite Ballpark,San Jose,CA
+baseball,minors,High-A,2024-06-16,Sunday,4:00 PM ET,Lake County,Fort Wayne,Classic Auto Group Park,Eastlake,OH
+baseball,minors,High-A,2024-06-16,Sunday,4:05 PM ET,Hillsboro,Tri-City,Ron Tonkin Field,Hillsboro,OR
+baseball,minors,High-A,2024-06-16,Sunday,4:05 PM ET,Vancouver,Spokane,Rogers Field at Nat Bailey Stadium,Vancouver,BC
+baseball,minors,Triple-A,2024-06-16,Sunday,4:05 PM ET,Reno,Sacramento,Greater Nevada Field,Reno,NV
+baseball,minors,Single-A,2024-06-16,Sunday,4:15 PM ET,Lake Elsinore,Stockton,The Diamond,Lake Elsinore,CA
+baseball,minors,Single-A,2024-06-16,Sunday,5:00 PM ET,Daytona,Palm Beach,Jackie Robinson Ballpark,Daytona Beach,FL
+baseball,minors,Double-A,2024-06-16,Sunday,5:00 PM ET,Birmingham,Pensacola,Regions Field,Birmingham,AL
+baseball,minors,Triple-A,2024-06-16,Sunday,5:05 PM ET,Durham,Charlotte,Durham Bulls Athletic Park,Durham,NC
+baseball,minors,Single-A,2024-06-16,Sunday,5:05 PM ET,Fayetteville,Salem,SEGRA Stadium,Fayetteville,NC
+baseball,minors,Double-A,2024-06-16,Sunday,5:15 PM ET,Reading,Portland,FirstEnergy Stadium,Reading,PA
+baseball,minors,Double-A,2024-06-16,Sunday,6:00 PM ET,Altoona,Erie,Peoples Natural Gas Field,Altoona,PA
+baseball,minors,Double-A,2024-06-16,Sunday,6:05 PM ET,Biloxi,Tennessee,MGM Park,Biloxi,MS
+baseball,minors,Single-A,2024-06-16,Sunday,6:35 PM ET,Myrtle Beach,Columbia,Pelicans Ballpark,Myrtle Beach,SC
+baseball,minors,High-A,2024-06-16,Sunday,7:05 PM ET,Eugene,Everett,PK Park,Eugene,OR
+baseball,minors,Double-A,2024-06-16,Sunday,7:05 PM ET,San Antonio,Corpus Christi,Nelson Wolff Stadium,San Antonio,TX
+baseball,minors,Double-A,2024-06-16,Sunday,7:05 PM ET,Frisco,Amarillo,Riders Field,Frisco,TX
+baseball,minors,Triple-A,2024-06-16,Sunday,7:35 PM ET,Round Rock,Tacoma,Dell Diamond,Round Rock,TX
+baseball,minors,Triple-A,2024-06-16,Sunday,7:35 PM ET,Sugar Land,Okla. City,Constellation Field,Sugar Land,TX
+baseball,minors,Single-A,2024-06-16,Sunday,8:05 PM ET,Fresno,Rancho Cuca.,Chukchansi Park,Fresno,CA
+baseball,minors,Triple-A,2024-06-16,Sunday,8:05 PM ET,Albuquerque,El Paso,Isotopes Park,Albuquerque,NM

@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,Single-A,2024-07-21,Sunday,12:00 PM ET,Jupiter,St. Lucie,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Single-A,2024-07-21,Sunday,12:00 PM ET,Clearwater,Fort Myers,BayCare Ballpark,Clearwater,FL
+baseball,minors,Single-A,2024-07-21,Sunday,12:00 PM ET,Lakeland,Dunedin,Publix Field at Joker Marchant Stadium,Lakeland,FL
+baseball,minors,Single-A,2024-07-21,Sunday,12:00 PM ET,Tampa,Bradenton,George M. Steinbrenner Field,Tampa,FL
+baseball,minors,Single-A,2024-07-21,Sunday,1:00 PM ET,Carolina,Lynchburg,Five County Stadium,Zebulon,NC
+baseball,minors,Double-A,2024-07-21,Sunday,1:00 PM ET,Portland,Reading,Hadlock Field,Portland,ME
+baseball,minors,Double-A,2024-07-21,Sunday,1:00 PM ET,Harrisburg,New Hampshire,FNB Field,Harrisburg,PA
+baseball,minors,Triple-A,2024-07-21,Sunday,1:05 PM ET,Gwinnett,Charlotte,Coolray Field,Lawrenceville,GA
+baseball,minors,High-A,2024-07-21,Sunday,1:05 PM ET,Lansing,Great Lakes,Jackson Field,Lansing,MI
+baseball,minors,Double-A,2024-07-21,Sunday,1:05 PM ET,Binghamton,Erie,Mirabito Stadium,Binghamton,NY
+baseball,minors,Triple-A,2024-07-21,Sunday,1:05 PM ET,Buffalo,Scranton/WB,Sahlen Field,Buffalo,NY
+baseball,minors,Double-A,2024-07-21,Sunday,1:05 PM ET,Bowie,Hartford,Prince George's Stadium,Bowie,MD
+baseball,minors,Triple-A,2024-07-21,Sunday,1:05 PM ET,Syracuse,Rochester,NBT Bank Stadium,Syracuse,NY
+baseball,minors,High-A,2024-07-21,Sunday,1:05 PM ET,Fort Wayne,Lake County,Parkview Field,Fort Wayne,IN
+baseball,minors,Double-A,2024-07-21,Sunday,1:05 PM ET,Akron,Richmond,Canal Park,Akron,OH
+baseball,minors,Single-A,2024-07-21,Sunday,1:30 PM ET,Kannapolis,Augusta,Atrium Health Ballpark,Kannapolis,NC
+baseball,minors,Triple-A,2024-07-21,Sunday,1:35 PM ET,Lehigh Valley,Worcester,Coca-Cola Park,Allentown,PA
+baseball,minors,High-A,2024-07-21,Sunday,2:00 PM ET,Brooklyn,Jersey Shore,Maimonides Park,Brooklyn,NY
+baseball,minors,High-A,2024-07-21,Sunday,2:00 PM ET,Hickory,Greensboro,L.P. Frans Stadium,Hickory,NC
+baseball,minors,Double-A,2024-07-21,Sunday,2:00 PM ET,Tennessee,Rocket City,Smokies Stadium,Kodak,TN
+baseball,minors,High-A,2024-07-21,Sunday,2:00 PM ET,Winston-Salem,Asheville,Truist Stadium,Winston-Salem,NC
+baseball,minors,High-A,2024-07-21,Sunday,2:00 PM ET,West Michigan,Dayton,LMCU Ballpark,Comstock Park,MI
+baseball,minors,Triple-A,2024-07-21,Sunday,2:05 PM ET,Memphis,Iowa,AutoZone Park,Memphis,TN
+baseball,minors,High-A,2024-07-21,Sunday,2:05 PM ET,Aberdeen,Wilmington,Leidos Field at Ripken Stadium,Aberdeen,MD
+baseball,minors,High-A,2024-07-21,Sunday,2:05 PM ET,Hudson Valley,Rome,Heritage Financial Park,Wappingers Falls,NY
+baseball,minors,High-A,2024-07-21,Sunday,2:05 PM ET,South Bend,Quad Cities,Four Winds Field,South Bend,IN
+baseball,minors,High-A,2024-07-21,Sunday,2:05 PM ET,Cedar Rapids,Wisconsin,Rise 2 Greatness Field,Cedar Rapids,IA
+baseball,minors,Double-A,2024-07-21,Sunday,2:05 PM ET,Wichita,Frisco,Riverfront Stadium,Wichita,KS
+baseball,minors,Double-A,2024-07-21,Sunday,2:35 PM ET,Arkansas,San Antonio,Dickey-Stephens Park,North Little Rock,AR
+baseball,minors,Single-A,2024-07-21,Sunday,3:05 PM ET,Salem,Fredericksburg,Carillion Clinic Field,Salem,VA
+baseball,minors,Single-A,2024-07-21,Sunday,3:05 PM ET,Visalia,Inland Empire,Valley Strong Ballpark,Visalia,CA
+baseball,minors,High-A,2024-07-21,Sunday,3:05 PM ET,Peoria,Beloit,Dozer Park,Peoria,IL
+baseball,minors,Double-A,2024-07-21,Sunday,3:05 PM ET,NW Arkansas,Tulsa,Arvest Ballpark,Springdale,AR
+baseball,minors,High-A,2024-07-21,Sunday,3:05 PM ET,Greenville,Bowling Green,Fluor Field at the West End,Greenville,SC
+baseball,minors,Triple-A,2024-07-21,Sunday,4:05 PM ET,Sacramento,Albuquerque,Sutter Health Park,Sacramento,CA
+baseball,minors,High-A,2024-07-21,Sunday,4:05 PM ET,Vancouver,Spokane,Rogers Field at Nat Bailey Stadium,Vancouver,BC
+baseball,minors,Triple-A,2024-07-21,Sunday,4:05 PM ET,Norfolk,Nashville,Harbor Park,Norfolk,VA
+baseball,minors,Triple-A,2024-07-21,Sunday,4:05 PM ET,Toledo,St. Paul,Fifth Third Field,Toledo,OH
+baseball,minors,Triple-A,2024-07-21,Sunday,4:35 PM ET,Tacoma,Reno,Cheney Stadium,Tacoma,WA
+baseball,minors,Single-A,2024-07-21,Sunday,5:00 PM ET,Daytona,Palm Beach,Jackie Robinson Ballpark,Daytona Beach,FL
+baseball,minors,Double-A,2024-07-21,Sunday,5:00 PM ET,Birmingham,Chattanooga,Regions Field,Birmingham,AL
+baseball,minors,Single-A,2024-07-21,Sunday,5:05 PM ET,Delmarva,Down East,Arthur W. Perdue Stadium,Salisbury,MD
+baseball,minors,Triple-A,2024-07-21,Sunday,5:05 PM ET,Jacksonville,Durham,121 Financial Ballpark,Jacksonville,FL
+baseball,minors,Double-A,2024-07-21,Sunday,5:05 PM ET,Somerset,Altoona,TD Bank Ballpark,Bridgewater,NJ
+baseball,minors,Single-A,2024-07-21,Sunday,5:05 PM ET,Columbia,Myrtle Beach,Segra Park,Columbia,SC
+baseball,minors,Single-A,2024-07-21,Sunday,5:05 PM ET,Fayetteville,Charleston,SEGRA Stadium,Fayetteville,NC
+baseball,minors,Double-A,2024-07-21,Sunday,5:05 PM ET,Pensacola,Mississippi,Blue Wahoos Stadium,Pensacola,FL
+baseball,minors,Triple-A,2024-07-21,Sunday,6:05 PM ET,Louisville,Columbus,Louisville Slugger Field,Louisville,KY
+baseball,minors,Double-A,2024-07-21,Sunday,6:05 PM ET,Corpus Christi,Midland,Whataburger Field,Corpus Christi,TX
+baseball,minors,Triple-A,2024-07-21,Sunday,6:05 PM ET,Omaha,Indianapolis,Werner Park,Papillion,NE
+baseball,minors,Double-A,2024-07-21,Sunday,6:05 PM ET,Biloxi,Montgomery,MGM Park,Biloxi,MS
+baseball,minors,High-A,2024-07-21,Sunday,7:05 PM ET,Everett,Hillsboro,Funko Field,Everett,WA
+baseball,minors,Double-A,2024-07-21,Sunday,7:05 PM ET,Amarillo,Springfield,Hodgetown,Amarillo,TX
+baseball,minors,Triple-A,2024-07-21,Sunday,7:35 PM ET,Round Rock,Okla. City,Dell Diamond,Round Rock,TX
+baseball,minors,Single-A,2024-07-21,Sunday,8:00 PM ET,Rancho Cuca.,Lake Elsinore,LoanMart Field,Rancho Cucamonga,CA
+baseball,minors,Single-A,2024-07-21,Sunday,8:05 PM ET,Fresno,San Jose,Chukchansi Park,Fresno,CA
+baseball,minors,Triple-A,2024-07-21,Sunday,8:05 PM ET,El Paso,Sugar Land,Southwest University Park,El Paso,TX
+baseball,minors,Single-A,2024-07-21,Sunday,9:05 PM ET,Modesto,Stockton,John Thurman Field,Modesto,CA
+baseball,minors,Triple-A,2024-07-21,Sunday,9:05 PM ET,Las Vegas,Salt Lake,Las Vegas Ballpark,Summerlin,NV
+baseball,minors,High-A,2024-07-21,Sunday,10:05 PM ET,Tri-City,Eugene,Gesa Stadium,Pasco,WA

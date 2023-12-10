@@ -1,0 +1,60 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,Triple-A,2024-04-16,Tuesday,11:05 AM ET,Jacksonville,Norfolk,121 Financial Ballpark,Jacksonville,FL
+baseball,minors,Single-A,2024-04-16,Tuesday,11:05 AM ET,Charleston,Columbia,"Joseph P. Riley, Jr. Ballpark",Charleston,SC
+baseball,minors,Double-A,2024-04-16,Tuesday,12:05 PM ET,Arkansas,Frisco,Dickey-Stephens Park,North Little Rock,AR
+baseball,minors,Single-A,2024-04-16,Tuesday,2:00 PM ET,Stockton,Fresno,Banner Island Ballpark,Stockton,CA
+baseball,minors,High-A,2024-04-16,Tuesday,2:05 PM ET,Beloit,South Bend,ABC Supply Stadium,Beloit,WI
+baseball,minors,Single-A,2024-04-16,Tuesday,5:00 PM ET,Palm Beach,Lakeland,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Single-A,2024-04-16,Tuesday,5:30 PM ET,Bradenton,Daytona,LECOM Park,Bradenton,FL
+baseball,minors,High-A,2024-04-16,Tuesday,6:00 PM ET,Greensboro,Hickory,First National Bank Field,Greensboro,NC
+baseball,minors,Double-A,2024-04-16,Tuesday,6:00 PM ET,Portland,New Hampshire,Hadlock Field,Portland,ME
+baseball,minors,Single-A,2024-04-16,Tuesday,6:00 PM ET,Down East,Delmarva,Grainger Stadium,Kinston,NC
+baseball,minors,Double-A,2024-04-16,Tuesday,6:05 PM ET,Bowie,Altoona,Prince George's Stadium,Bowie,MD
+baseball,minors,Single-A,2024-04-16,Tuesday,6:05 PM ET,Salem,Lynchburg,Carillion Clinic Field,Salem,VA
+baseball,minors,Double-A,2024-04-16,Tuesday,6:05 PM ET,Binghamton,Reading,Mirabito Stadium,Binghamton,NY
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:05 PM ET,Worcester,Durham,Polar Park,Worcester,MA
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:05 PM ET,Rochester,Toledo,Innovative Field,Rochester,NY
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:05 PM ET,Charlotte,Syracuse,Truist Field,Charlotte,NC
+baseball,minors,Single-A,2024-04-16,Tuesday,6:05 PM ET,Dunedin,Clearwater,TD Ballpark,Dunedin,FL
+baseball,minors,High-A,2024-04-16,Tuesday,6:05 PM ET,Great Lakes,West Michigan,Dow Diamond,Midland,MI
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:05 PM ET,Indianapolis,St. Paul,Victory Field,Indianapolis,IN
+baseball,minors,Single-A,2024-04-16,Tuesday,6:10 PM ET,St. Lucie,Tampa,Clover Park,Port St. Lucie,FL
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:15 PM ET,Columbus,Buffalo,Huntington Park,Columbus,OH
+baseball,minors,Double-A,2024-04-16,Tuesday,6:30 PM ET,Harrisburg,Richmond,FNB Field,Harrisburg,PA
+baseball,minors,Double-A,2024-04-16,Tuesday,6:35 PM ET,Akron,Erie,Canal Park,Akron,OH
+baseball,minors,High-A,2024-04-16,Tuesday,6:35 PM ET,Wilmington,Greenville,Frawley Stadium,Wilmington,DE
+baseball,minors,High-A,2024-04-16,Tuesday,6:35 PM ET,Jersey Shore,Brooklyn,ShoreTown Ballpark,Lakewood,NJ
+baseball,minors,High-A,2024-04-16,Tuesday,6:35 PM ET,Lake County,Lansing,Classic Auto Group Park,Eastlake,OH
+baseball,minors,High-A,2024-04-16,Tuesday,6:35 PM ET,Hudson Valley,Aberdeen,Heritage Financial Park,Wappingers Falls,NY
+baseball,minors,High-A,2024-04-16,Tuesday,6:35 PM ET,Asheville,Rome,McCormick Field,Asheville,NC
+baseball,minors,Triple-A,2024-04-16,Tuesday,6:35 PM ET,Scranton/WB,Lehigh Valley,PNC Field,Moosic,PA
+baseball,minors,Double-A,2024-04-16,Tuesday,6:35 PM ET,Somerset,Hartford,TD Bank Ballpark,Bridgewater,NJ
+baseball,minors,Double-A,2024-04-16,Tuesday,7:00 PM ET,Tennessee,Montgomery,Smokies Stadium,Kodak,TN
+baseball,minors,Triple-A,2024-04-16,Tuesday,7:05 PM ET,Okla. City,Sacramento,Chickasaw Bricktown Ballpark,Oklahoma City,OK
+baseball,minors,Triple-A,2024-04-16,Tuesday,7:05 PM ET,Gwinnett,Memphis,Coolray Field,Lawrenceville,GA
+baseball,minors,Single-A,2024-04-16,Tuesday,7:05 PM ET,Augusta,Carolina,SRP Park,North Augusta,SC
+baseball,minors,Single-A,2024-04-16,Tuesday,7:05 PM ET,Fort Myers,Jupiter,Lee Health Sports Complex,Fort Myers,FL
+baseball,minors,Single-A,2024-04-16,Tuesday,7:05 PM ET,Myrtle Beach,Kannapolis,Pelicans Ballpark,Myrtle Beach,SC
+baseball,minors,High-A,2024-04-16,Tuesday,7:05 PM ET,Dayton,Fort Wayne,Day Air Ballpark,Dayton,OH
+baseball,minors,High-A,2024-04-16,Tuesday,7:05 PM ET,Bowling Green,Winston-Salem,Bowling Green Ballpark,Bowling Green,KY
+baseball,minors,Single-A,2024-04-16,Tuesday,7:05 PM ET,Fredericksburg,Fayetteville,Virginia Credit Union Stadium,Fredericksburg,VA
+baseball,minors,Double-A,2024-04-16,Tuesday,7:05 PM ET,Pensacola,Rocket City,Blue Wahoos Stadium,Pensacola,FL
+baseball,minors,High-A,2024-04-16,Tuesday,7:30 PM ET,Quad Cities,Peoria,Modern Woodmen Park,Davenport,IA
+baseball,minors,Double-A,2024-04-16,Tuesday,7:35 PM ET,Corpus Christi,San Antonio,Whataburger Field,Corpus Christi,TX
+baseball,minors,Triple-A,2024-04-16,Tuesday,7:35 PM ET,Nashville,Omaha,First Horizon Park,Nashville,TN
+baseball,minors,Double-A,2024-04-16,Tuesday,7:35 PM ET,Biloxi,Chattanooga,MGM Park,Biloxi,MS
+baseball,minors,Triple-A,2024-04-16,Tuesday,7:35 PM ET,Sugar Land,Round Rock,Constellation Field,Sugar Land,TX
+baseball,minors,Triple-A,2024-04-16,Tuesday,7:38 PM ET,Iowa,Louisville,Principal Park,Des Moines,IA
+baseball,minors,High-A,2024-04-16,Tuesday,7:40 PM ET,Wisconsin,Cedar Rapids,Fox Cities Stadium,Appleton,WI
+baseball,minors,Double-A,2024-04-16,Tuesday,8:00 PM ET,Birmingham,Mississippi,Regions Field,Birmingham,AL
+baseball,minors,Double-A,2024-04-16,Tuesday,8:05 PM ET,NW Arkansas,Midland,Arvest Ballpark,Springdale,AR
+baseball,minors,Double-A,2024-04-16,Tuesday,8:05 PM ET,Wichita,Tulsa,Riverfront Stadium,Wichita,KS
+baseball,minors,Double-A,2024-04-16,Tuesday,8:05 PM ET,Amarillo,Springfield,Hodgetown,Amarillo,TX
+baseball,minors,Triple-A,2024-04-16,Tuesday,8:35 PM ET,Salt Lake,Reno,Smith's Ballpark,Salt Lake City,UT
+baseball,minors,Triple-A,2024-04-16,Tuesday,8:35 PM ET,El Paso,Albuquerque,Southwest University Park,El Paso,TX
+baseball,minors,Single-A,2024-04-16,Tuesday,9:00 PM ET,Inland Empire,Rancho Cuca.,San Manuel Stadium,San Bernardino,CA
+baseball,minors,Single-A,2024-04-16,Tuesday,9:05 PM ET,Lake Elsinore,Visalia,The Diamond,Lake Elsinore,CA
+baseball,minors,Single-A,2024-04-16,Tuesday,9:30 PM ET,San Jose,Modesto,Excite Ballpark,San Jose,CA
+baseball,minors,High-A,2024-04-16,Tuesday,9:35 PM ET,Hillsboro,Tri-City,Ron Tonkin Field,Hillsboro,OR
+baseball,minors,High-A,2024-04-16,Tuesday,9:35 PM ET,Spokane,Everett,Avista Stadium,Spokane,WA
+baseball,minors,Triple-A,2024-04-16,Tuesday,10:05 PM ET,Las Vegas,Tacoma,Las Vegas Ballpark,Summerlin,NV

@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,Double-A,2024-04-06,Saturday,1:00 PM ET,Portland,Hartford,Hadlock Field,Portland,ME
+baseball,minors,High-A,2024-04-06,Saturday,1:05 PM ET,Dayton,Lansing,Day Air Ballpark,Dayton,OH
+baseball,minors,Double-A,2024-04-06,Saturday,1:05 PM ET,Binghamton,New Hampshire,Mirabito Stadium,Binghamton,NY
+baseball,minors,High-A,2024-04-06,Saturday,1:05 PM ET,Great Lakes,Fort Wayne,Dow Diamond,Midland,MI
+baseball,minors,Triple-A,2024-04-06,Saturday,1:05 PM ET,Rochester,Lehigh Valley,Innovative Field,Rochester,NY
+baseball,minors,High-A,2024-04-06,Saturday,2:05 PM ET,Beloit,Cedar Rapids,ABC Supply Stadium,Beloit,WI
+baseball,minors,High-A,2024-04-06,Saturday,2:10 PM ET,Wisconsin,Peoria,Fox Cities Stadium,Appleton,WI
+baseball,minors,Triple-A,2024-04-06,Saturday,3:05 PM ET,Salt Lake,Tacoma,Smith's Ballpark,Salt Lake City,UT
+baseball,minors,High-A,2024-04-06,Saturday,4:05 PM ET,Jersey Shore,Aberdeen,ShoreTown Ballpark,Lakewood,NJ
+baseball,minors,Triple-A,2024-04-06,Saturday,4:05 PM ET,Worcester,Buffalo,Polar Park,Worcester,MA
+baseball,minors,Triple-A,2024-04-06,Saturday,4:05 PM ET,Columbus,Omaha,Huntington Park,Columbus,OH
+baseball,minors,Triple-A,2024-04-06,Saturday,4:05 PM ET,Scranton/WB,Syracuse,PNC Field,Moosic,PA
+baseball,minors,Triple-A,2024-04-06,Saturday,4:08 PM ET,Iowa,Toledo,Principal Park,Des Moines,IA
+baseball,minors,High-A,2024-04-06,Saturday,5:00 PM ET,Rome,Hickory,AdventHealth Stadium,Rome,GA
+baseball,minors,Single-A,2024-04-06,Saturday,5:00 PM ET,Down East,Lynchburg,Grainger Stadium,Kinston,NC
+baseball,minors,Single-A,2024-04-06,Saturday,6:00 PM ET,Palm Beach,Jupiter,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Double-A,2024-04-06,Saturday,6:00 PM ET,Harrisburg,Erie,FNB Field,Harrisburg,PA
+baseball,minors,Single-A,2024-04-06,Saturday,6:05 PM ET,Salem,Carolina,Carillion Clinic Field,Salem,VA
+baseball,minors,Triple-A,2024-04-06,Saturday,6:05 PM ET,Gwinnett,Louisville,Coolray Field,Lawrenceville,GA
+baseball,minors,Double-A,2024-04-06,Saturday,6:05 PM ET,Akron,Altoona,Canal Park,Akron,OH
+baseball,minors,High-A,2024-04-06,Saturday,6:05 PM ET,Wilmington,Brooklyn,Frawley Stadium,Wilmington,DE
+baseball,minors,Single-A,2024-04-06,Saturday,6:05 PM ET,Charleston,Kannapolis,"Joseph P. Riley, Jr. Ballpark",Charleston,SC
+baseball,minors,Triple-A,2024-04-06,Saturday,6:05 PM ET,Charlotte,Norfolk,Truist Field,Charlotte,NC
+baseball,minors,High-A,2024-04-06,Saturday,6:05 PM ET,Asheville,Winston-Salem,McCormick Field,Asheville,NC
+baseball,minors,Single-A,2024-04-06,Saturday,6:05 PM ET,Fort Myers,Tampa,Lee Health Sports Complex,Fort Myers,FL
+baseball,minors,Single-A,2024-04-06,Saturday,6:05 PM ET,Augusta,Columbia,SRP Park,North Augusta,SC
+baseball,minors,Single-A,2024-04-06,Saturday,6:05 PM ET,Myrtle Beach,Fayetteville,Pelicans Ballpark,Myrtle Beach,SC
+baseball,minors,Double-A,2024-04-06,Saturday,6:05 PM ET,Somerset,Richmond,TD Bank Ballpark,Bridgewater,NJ
+baseball,minors,Single-A,2024-04-06,Saturday,6:10 PM ET,St. Lucie,Daytona,Clover Park,Port St. Lucie,FL
+baseball,minors,High-A,2024-04-06,Saturday,6:30 PM ET,Greensboro,Greenville,First National Bank Field,Greensboro,NC
+baseball,minors,Single-A,2024-04-06,Saturday,6:30 PM ET,Dunedin,Lakeland,TD Ballpark,Dunedin,FL
+baseball,minors,Single-A,2024-04-06,Saturday,6:30 PM ET,Bradenton,Clearwater,LECOM Park,Bradenton,FL
+baseball,minors,Triple-A,2024-04-06,Saturday,6:35 PM ET,Indianapolis,Memphis,Victory Field,Indianapolis,IN
+baseball,minors,Double-A,2024-04-06,Saturday,6:35 PM ET,Bowie,Reading,Prince George's Stadium,Bowie,MD
+baseball,minors,Triple-A,2024-04-06,Saturday,6:35 PM ET,Durham,Jacksonville,Durham Bulls Athletic Park,Durham,NC
+baseball,minors,High-A,2024-04-06,Saturday,6:35 PM ET,Lake County,West Michigan,Classic Auto Group Park,Eastlake,OH
+baseball,minors,Double-A,2024-04-06,Saturday,7:00 PM ET,Tennessee,Rocket City,Smokies Stadium,Kodak,TN
+baseball,minors,High-A,2024-04-06,Saturday,7:00 PM ET,Quad Cities,South Bend,Modern Woodmen Park,Davenport,IA
+baseball,minors,Triple-A,2024-04-06,Saturday,7:05 PM ET,Okla. City,Albuquerque,Chickasaw Bricktown Ballpark,Oklahoma City,OK
+baseball,minors,High-A,2024-04-06,Saturday,7:05 PM ET,Hillsboro,Everett,Ron Tonkin Field,Hillsboro,OR
+baseball,minors,Single-A,2024-04-06,Saturday,7:05 PM ET,Fredericksburg,Delmarva,Virginia Credit Union Stadium,Fredericksburg,VA
+baseball,minors,Double-A,2024-04-06,Saturday,7:05 PM ET,Arkansas,Springfield,Dickey-Stephens Park,North Little Rock,AR
+baseball,minors,Double-A,2024-04-06,Saturday,7:05 PM ET,NW Arkansas,Tulsa,Arvest Ballpark,Springdale,AR
+baseball,minors,Triple-A,2024-04-06,Saturday,7:05 PM ET,Reno,Sacramento,Greater Nevada Field,Reno,NV
+baseball,minors,Double-A,2024-04-06,Saturday,7:05 PM ET,Wichita,Frisco,Riverfront Stadium,Wichita,KS
+baseball,minors,Double-A,2024-04-06,Saturday,7:05 PM ET,Pensacola,Mississippi,Blue Wahoos Stadium,Pensacola,FL
+baseball,minors,Double-A,2024-04-06,Saturday,7:05 PM ET,Biloxi,Montgomery,MGM Park,Biloxi,MS
+baseball,minors,Triple-A,2024-04-06,Saturday,7:05 PM ET,Sugar Land,Las Vegas,Constellation Field,Sugar Land,TX
+baseball,minors,Double-A,2024-04-06,Saturday,7:30 PM ET,Birmingham,Chattanooga,Regions Field,Birmingham,AL
+baseball,minors,Triple-A,2024-04-06,Saturday,7:35 PM ET,Nashville,St. Paul,First Horizon Park,Nashville,TN
+baseball,minors,High-A,2024-04-06,Saturday,7:35 PM ET,Bowling Green,Hudson Valley,Bowling Green Ballpark,Bowling Green,KY
+baseball,minors,Single-A,2024-04-06,Saturday,8:00 PM ET,San Jose,Fresno,Excite Ballpark,San Jose,CA
+baseball,minors,Double-A,2024-04-06,Saturday,8:05 PM ET,Corpus Christi,Midland,Whataburger Field,Corpus Christi,TX
+baseball,minors,Double-A,2024-04-06,Saturday,8:05 PM ET,Amarillo,San Antonio,Hodgetown,Amarillo,TX
+baseball,minors,High-A,2024-04-06,Saturday,8:09 PM ET,Spokane,Vancouver,Avista Stadium,Spokane,WA
+baseball,minors,Triple-A,2024-04-06,Saturday,8:35 PM ET,El Paso,Round Rock,Southwest University Park,El Paso,TX
+baseball,minors,High-A,2024-04-06,Saturday,9:05 PM ET,Eugene,Tri-City,PK Park,Eugene,OR
+baseball,minors,Single-A,2024-04-06,Saturday,9:35 PM ET,Inland Empire,Visalia,San Manuel Stadium,San Bernardino,CA
+baseball,minors,Single-A,2024-04-06,Saturday,9:45 PM ET,Lake Elsinore,Rancho Cuca.,The Diamond,Lake Elsinore,CA
+baseball,minors,Single-A,2024-04-06,Saturday,10:05 PM ET,Stockton,Modesto,Banner Island Ballpark,Stockton,CA

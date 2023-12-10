@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,High-A,2024-09-06,Friday,4:05 PM ET,Vancouver,Eugene,Rogers Field at Nat Bailey Stadium,Vancouver,BC
+baseball,minors,High-A,2024-09-06,Friday,4:05 PM ET,Everett,Spokane,Funko Field,Everett,WA
+baseball,minors,Triple-A,2024-09-06,Friday,6:05 PM ET,Rochester,Worcester,Innovative Field,Rochester,NY
+baseball,minors,Triple-A,2024-09-06,Friday,6:05 PM ET,Buffalo,Lehigh Valley,Sahlen Field,Buffalo,NY
+baseball,minors,Single-A,2024-09-06,Friday,6:30 PM ET,Jupiter,Palm Beach,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Single-A,2024-09-06,Friday,6:30 PM ET,Carolina,Delmarva,Five County Stadium,Zebulon,NC
+baseball,minors,Single-A,2024-09-06,Friday,6:30 PM ET,Clearwater,St. Lucie,BayCare Ballpark,Clearwater,FL
+baseball,minors,Single-A,2024-09-06,Friday,6:30 PM ET,Lakeland,Fort Myers,Publix Field at Joker Marchant Stadium,Lakeland,FL
+baseball,minors,Single-A,2024-09-06,Friday,6:30 PM ET,Tampa,Dunedin,George M. Steinbrenner Field,Tampa,FL
+baseball,minors,High-A,2024-09-06,Friday,6:30 PM ET,Greensboro,Bowling Green,First National Bank Field,Greensboro,NC
+baseball,minors,Double-A,2024-09-06,Friday,6:35 PM ET,New Hampshire,Portland,Delta Dental Stadium,Manchester,NH
+baseball,minors,Triple-A,2024-09-06,Friday,6:35 PM ET,Syracuse,Scranton/WB,NBT Bank Stadium,Syracuse,NY
+baseball,minors,Triple-A,2024-09-06,Friday,6:35 PM ET,Norfolk,Charlotte,Harbor Park,Norfolk,VA
+baseball,minors,High-A,2024-09-06,Friday,6:35 PM ET,West Michigan,Lansing,LMCU Ballpark,Comstock Park,MI
+baseball,minors,Single-A,2024-09-06,Friday,6:35 PM ET,Daytona,Bradenton,Jackie Robinson Ballpark,Daytona Beach,FL
+baseball,minors,Double-A,2024-09-06,Friday,6:35 PM ET,Richmond,Akron,The Diamond,Richmond,VA
+baseball,minors,Double-A,2024-09-06,Friday,6:45 PM ET,Reading,Erie,FirstEnergy Stadium,Reading,PA
+baseball,minors,High-A,2024-09-06,Friday,7:00 PM ET,Hickory,Rome,L.P. Frans Stadium,Hickory,NC
+baseball,minors,High-A,2024-09-06,Friday,7:00 PM ET,Brooklyn,Wilmington,Maimonides Park,Brooklyn,NY
+baseball,minors,Single-A,2024-09-06,Friday,7:00 PM ET,Down East,Augusta,Grainger Stadium,Kinston,NC
+baseball,minors,Triple-A,2024-09-06,Friday,7:05 PM ET,Columbus,Durham,Huntington Park,Columbus,OH
+baseball,minors,High-A,2024-09-06,Friday,7:05 PM ET,Great Lakes,Dayton,Dow Diamond,Midland,MI
+baseball,minors,Single-A,2024-09-06,Friday,7:05 PM ET,Fredericksburg,Lynchburg,Virginia Credit Union Stadium,Fredericksburg,VA
+baseball,minors,Single-A,2024-09-06,Friday,7:05 PM ET,Salem,Kannapolis,Carillion Clinic Field,Salem,VA
+baseball,minors,High-A,2024-09-06,Friday,7:05 PM ET,Aberdeen,Jersey Shore,Leidos Field at Ripken Stadium,Aberdeen,MD
+baseball,minors,Triple-A,2024-09-06,Friday,7:05 PM ET,Toledo,Indianapolis,Fifth Third Field,Toledo,OH
+baseball,minors,Double-A,2024-09-06,Friday,7:05 PM ET,Bowie,Harrisburg,Prince George's Stadium,Bowie,MD
+baseball,minors,High-A,2024-09-06,Friday,7:05 PM ET,Hudson Valley,Asheville,Heritage Financial Park,Wappingers Falls,NY
+baseball,minors,High-A,2024-09-06,Friday,7:05 PM ET,Greenville,Winston-Salem,Fluor Field at the West End,Greenville,SC
+baseball,minors,High-A,2024-09-06,Friday,7:05 PM ET,Fort Wayne,South Bend,Parkview Field,Fort Wayne,IN
+baseball,minors,Double-A,2024-09-06,Friday,7:05 PM ET,Binghamton,Somerset,Mirabito Stadium,Binghamton,NY
+baseball,minors,Single-A,2024-09-06,Friday,7:05 PM ET,Columbia,Charleston,Segra Park,Columbia,SC
+baseball,minors,Single-A,2024-09-06,Friday,7:05 PM ET,Fayetteville,Myrtle Beach,SEGRA Stadium,Fayetteville,NC
+baseball,minors,Double-A,2024-09-06,Friday,7:10 PM ET,Hartford,Altoona,Dunkin' Park,Hartford,CT
+baseball,minors,Triple-A,2024-09-06,Friday,7:15 PM ET,Louisville,Jacksonville,Louisville Slugger Field,Louisville,KY
+baseball,minors,High-A,2024-09-06,Friday,7:30 PM ET,Quad Cities,Beloit,Modern Woodmen Park,Davenport,IA
+baseball,minors,Double-A,2024-09-06,Friday,7:35 PM ET,Montgomery,Chattanooga,Montgomery Riverwalk Stadium,Montgomery,AL
+baseball,minors,Double-A,2024-09-06,Friday,7:35 PM ET,Mississippi,Tennessee,Trustmark Park,Pearl,MS
+baseball,minors,Triple-A,2024-09-06,Friday,7:35 PM ET,Nashville,Gwinnett,First Horizon Park,Nashville,TN
+baseball,minors,High-A,2024-09-06,Friday,7:35 PM ET,Cedar Rapids,Wisconsin,Rise 2 Greatness Field,Cedar Rapids,IA
+baseball,minors,Double-A,2024-09-06,Friday,7:35 PM ET,Rocket City,Biloxi,Toyota Field,Madison,AL
+baseball,minors,Triple-A,2024-09-06,Friday,7:37 PM ET,St. Paul,Iowa,CHS Field,St. Paul,MN
+baseball,minors,Double-A,2024-09-06,Friday,8:00 PM ET,Tulsa,San Antonio,ONEOK Field,Tulsa,OK
+baseball,minors,Double-A,2024-09-06,Friday,8:00 PM ET,Birmingham,Pensacola,Regions Field,Birmingham,AL
+baseball,minors,Double-A,2024-09-06,Friday,8:00 PM ET,Midland,Amarillo,Momentum Bank Ballpark,Midland,TX
+baseball,minors,High-A,2024-09-06,Friday,8:05 PM ET,Peoria,Lake County,Dozer Park,Peoria,IL
+baseball,minors,Triple-A,2024-09-06,Friday,8:05 PM ET,Memphis,Omaha,AutoZone Park,Memphis,TN
+baseball,minors,Double-A,2024-09-06,Friday,8:05 PM ET,Arkansas,Corpus Christi,Dickey-Stephens Park,North Little Rock,AR
+baseball,minors,Double-A,2024-09-06,Friday,8:05 PM ET,Springfield,NW Arkansas,Hammons Field,Springfield,MO
+baseball,minors,Double-A,2024-09-06,Friday,8:05 PM ET,Frisco,Wichita,Riders Field,Frisco,TX
+baseball,minors,Triple-A,2024-09-06,Friday,8:05 PM ET,Okla. City,Sugar Land,Chickasaw Bricktown Ballpark,Oklahoma City,OK
+baseball,minors,Triple-A,2024-09-06,Friday,8:35 PM ET,Salt Lake,Sacramento,Smith's Ballpark,Salt Lake City,UT
+baseball,minors,High-A,2024-09-06,Friday,9:30 PM ET,Tri-City,Hillsboro,Gesa Stadium,Pasco,WA
+baseball,minors,Single-A,2024-09-06,Friday,9:30 PM ET,Rancho Cuca.,Visalia,LoanMart Field,Rancho Cucamonga,CA
+baseball,minors,Single-A,2024-09-06,Friday,9:35 PM ET,Inland Empire,Lake Elsinore,San Manuel Stadium,San Bernardino,CA
+baseball,minors,Triple-A,2024-09-06,Friday,9:35 PM ET,Reno,El Paso,Greater Nevada Field,Reno,NV
+baseball,minors,Triple-A,2024-09-06,Friday,10:05 PM ET,Las Vegas,Round Rock,Las Vegas Ballpark,Summerlin,NV
+baseball,minors,Single-A,2024-09-06,Friday,10:05 PM ET,Fresno,San Jose,Chukchansi Park,Fresno,CA
+baseball,minors,Single-A,2024-09-06,Friday,10:05 PM ET,Modesto,Stockton,John Thurman Field,Modesto,CA
+baseball,minors,Triple-A,2024-09-06,Friday,10:05 PM ET,Tacoma,Albuquerque,Cheney Stadium,Tacoma,WA
