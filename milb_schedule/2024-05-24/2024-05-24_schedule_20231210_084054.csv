@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,,2024-05-24,Friday,6:00 PM ET,PortlandPOR,Hartford,Hadlock Field,Portland,ME
+baseball,minors,,2024-05-24,Friday,6:05 PM ET,ErieERI,Altoona,UPMC Park,Erie,PA
+baseball,minors,,2024-05-24,Friday,6:05 PM ET,Great LakesGL,Beloit,Dow Diamond,Midland,MI
+baseball,minors,,2024-05-24,Friday,6:05 PM ET,WorcesterWOR,Norfolk,Polar Park,Worcester,MA
+baseball,minors,,2024-05-24,Friday,6:05 PM ET,BuffaloBUF,St. Paul,Sahlen Field,Buffalo,NY
+baseball,minors,,2024-05-24,Friday,6:10 PM ET,St. LucieSLU,Clearwater,Clover Park,Port St. Lucie,FL
+baseball,minors,,2024-05-24,Friday,6:30 PM ET,GreensboroGBO,Greenville,First National Bank Field,Greensboro,NC
+baseball,minors,,2024-05-24,Friday,6:30 PM ET,CarolinaCAR,Myrtle Beach,Five County Stadium,Zebulon,NC
+baseball,minors,,2024-05-24,Friday,6:30 PM ET,LakelandLAK,Palm Beach,Publix Field at Joker Marchant Stadium,Lakeland,FL
+baseball,minors,,2024-05-24,Friday,6:30 PM ET,JupiterJUP,Tampa,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,,2024-05-24,Friday,6:30 PM ET,BradentonBRD,Dunedin,LECOM Park,Bradenton,FL
+baseball,minors,,2024-05-24,Friday,6:35 PM ET,DurhamDUR,Memphis,Durham Bulls Athletic Park,Durham,NC
+baseball,minors,,2024-05-24,Friday,6:35 PM ET,DaytonaDBT,Fort Myers,Jackie Robinson Ballpark,Daytona Beach,FL
+baseball,minors,,2024-05-24,Friday,6:35 PM ET,Scranton/WBSWB,Syracuse,PNC Field,Moosic,PA
+baseball,minors,,2024-05-24,Friday,6:35 PM ET,Lake CountyLC,West Michigan,Classic Auto Group Park,Eastlake,OH
+baseball,minors,,2024-05-24,Friday,6:35 PM ET,New HampshireNH,Somerset,Delta Dental Stadium,Manchester,NH
+baseball,minors,,2024-05-24,Friday,6:45 PM ET,ReadingREA,Binghamton,FirstEnergy Stadium,Reading,PA
+baseball,minors,,2024-05-24,Friday,7:00 PM ET,RomeROM,Wilmington,AdventHealth Stadium,Rome,GA
+baseball,minors,,2024-05-24,Friday,7:00 PM ET,BrooklynBRK,Hudson Valley,Maimonides Park,Brooklyn,NY
+baseball,minors,,2024-05-24,Friday,7:00 PM ET,HarrisburgHBG,Akron,FNB Field,Harrisburg,PA
+baseball,minors,,2024-05-24,Friday,7:00 PM ET,HickoryHIC,Asheville,L.P. Frans Stadium,Hickory,NC
+baseball,minors,,2024-05-24,Friday,7:00 PM ET,Winston-SalemWS,Bowling Green,Truist Stadium,Winston-Salem,NC
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,FredericksburgFBG,Lynchburg,Virginia Credit Union Stadium,Fredericksburg,VA
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,CharlestonCSC,Down East,"Joseph P. Riley, Jr. Ballpark",Charleston,SC
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,AugustaAUG,Kannapolis,SRP Park,North Augusta,SC
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,AberdeenABD,Jersey Shore,Leidos Field at Ripken Stadium,Aberdeen,MD
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,GwinnettGWN,Jacksonville,Coolray Field,Lawrenceville,GA
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,South BendSB,Wisconsin,Four Winds Field,South Bend,IN
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,Fort WayneFW,Lansing,Parkview Field,Fort Wayne,IN
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,Lehigh ValleyLHV,Rochester,Coca-Cola Park,Allentown,PA
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,BowieBOW,Richmond,Prince George's Stadium,Bowie,MD
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,DelmarvaDEL,Columbia,Arthur W. Perdue Stadium,Salisbury,MD
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,SalemSAL,Fayetteville,Carillion Clinic Field,Salem,VA
+baseball,minors,,2024-05-24,Friday,7:05 PM ET,PensacolaPNS,Tennessee,Blue Wahoos Stadium,Pensacola,FL
+baseball,minors,,2024-05-24,Friday,7:15 PM ET,ChattanoogaCHA,Mississippi,AT&T Field,Chattanooga,TN
+baseball,minors,,2024-05-24,Friday,7:15 PM ET,LouisvilleLOU,Toledo,Louisville Slugger Field,Louisville,KY
+baseball,minors,,2024-05-24,Friday,7:30 PM ET,Quad CitiesQC,Dayton,Modern Woodmen Park,Davenport,IA
+baseball,minors,,2024-05-24,Friday,7:35 PM ET,OmahaOMA,Columbus,Werner Park,Papillion,NE
+baseball,minors,,2024-05-24,Friday,7:35 PM ET,NashvilleNAS,Charlotte,First Horizon Park,Nashville,TN
+baseball,minors,,2024-05-24,Friday,7:35 PM ET,Rocket CityRCT,Montgomery,Toyota Field,Madison,AL
+baseball,minors,,2024-05-24,Friday,7:35 PM ET,BiloxiBLX,Birmingham,MGM Park,Biloxi,MS
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,SpringfieldSPR,Tulsa,Hammons Field,Springfield,MO
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,PeoriaPEO,Cedar Rapids,Dozer Park,Peoria,IL
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,FriscoFRI,Midland,Riders Field,Frisco,TX
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,Corpus ChristiCC,Arkansas,Whataburger Field,Corpus Christi,TX
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,Okla. CityOKC,Reno,Chickasaw Bricktown Ballpark,Oklahoma City,OK
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,WichitaWCH,San Antonio,Riverfront Stadium,Wichita,KS
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,Sugar LandSUG,Round Rock,Constellation Field,Sugar Land,TX
+baseball,minors,,2024-05-24,Friday,8:05 PM ET,NW ArkansasNWA,Amarillo,Arvest Ballpark,Springdale,AR
+baseball,minors,,2024-05-24,Friday,8:08 PM ET,IowaIOW,Indianapolis,Principal Park,Des Moines,IA
+baseball,minors,,2024-05-24,Friday,8:35 PM ET,Salt LakeSL,Albuquerque,Smith's Ballpark,Salt Lake City,UT
+baseball,minors,,2024-05-24,Friday,8:35 PM ET,El PasoELP,Sacramento,Southwest University Park,El Paso,TX
+baseball,minors,,2024-05-24,Friday,9:30 PM ET,Rancho Cuca.RC,Modesto,LoanMart Field,Rancho Cucamonga,CA
+baseball,minors,,2024-05-24,Friday,9:35 PM ET,HillsboroHIL,Vancouver,Ron Tonkin Field,Hillsboro,OR
+baseball,minors,,2024-05-24,Friday,9:35 PM ET,EugeneEUG,Spokane,PK Park,Eugene,OR
+baseball,minors,,2024-05-24,Friday,9:35 PM ET,Inland EmpireIE,Stockton,San Manuel Stadium,San Bernardino,CA
+baseball,minors,,2024-05-24,Friday,9:45 PM ET,Lake ElsinoreLE,San Jose,The Diamond,Lake Elsinore,CA
+baseball,minors,,2024-05-24,Friday,10:05 PM ET,EverettEVE,Tri-City,Funko Field,Everett,WA
+baseball,minors,,2024-05-24,Friday,10:05 PM ET,FresnoFRE,Visalia,Chukchansi Park,Fresno,CA
+baseball,minors,,2024-05-24,Friday,10:05 PM ET,TacomaTAC,Las Vegas,Cheney Stadium,Tacoma,WA

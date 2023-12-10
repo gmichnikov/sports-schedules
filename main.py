@@ -1,5 +1,5 @@
 import csv
-import nba, ncaab, nhl, nfl, mlb, ncaah
+import nba, ncaab, nhl, nfl, mlb, ncaah, milb
 import os
 from datetime import datetime
 import pandas as pd
@@ -38,6 +38,22 @@ def write_to_csv(sport, games, location_lookup):
                 home_team = game[6].lower()
                 city, state = location_lookup.get((league, home_team), ("", ""))
                 writer.writerow(game[:-1] + [city, state])  # Exclude the last element (team code)
+
+    elif sport == 'milb':
+        for game in games:
+            game_date = game[3]  # Get the date field from the game array
+            folder = os.path.join(base_folder, game_date)
+            if not os.path.exists(folder):
+                os.makedirs(folder)
+
+            filename = f'{game_date}_schedule_{current_datetime}.csv'
+            filepath = os.path.join(folder, filename)
+
+            with open(filepath, 'a', newline='') as file:
+                writer = csv.writer(file)
+                if os.path.getsize(filepath) == 0:  # Write headers only if file is empty
+                    writer.writerow(headers)
+                writer.writerow(game)  # Write the entire game array as it is
 
     # For other sports, write all games to a single file
     else:
@@ -103,10 +119,12 @@ def combine_csv_files(delete_dupes):
     combined_df.to_csv(os.path.join(combined_folder, combined_filename), index=False)
 
 def add_missing_teams_to_locations(combined_df):
+    # filtered_df = combined_df[combined_df['sport'] != 'milb']
+    filtered_df = combined_df[~((combined_df['sport'] == 'baseball') & (combined_df['level'] == 'minors'))]
     locations_df = pd.read_csv('locations.csv')
 
     # Extract unique league/team combinations from combined_df
-    unique_combinations = combined_df[['league', 'home_team']].drop_duplicates()
+    unique_combinations = filtered_df[['league', 'home_team']].drop_duplicates()
     added_locations = 0
 
     # Check each combination and add missing ones to locations_df
@@ -135,6 +153,14 @@ def create_combined_df(folders):
                     print("combining csv: " + str(csv_file))
                     df = pd.read_csv(csv_file, header=0)
                     combined_df = pd.concat([combined_df, df], ignore_index=True)
+        elif 'milb' in folder:
+            date_folders = [os.path.join(folder, d) for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d))]
+            for date_folder in date_folders:
+                csv_file = get_most_recent_csv(date_folder)
+                if csv_file:
+                    print("combining csv: " + str(csv_file))
+                    df = pd.read_csv(csv_file, header=0)
+                    combined_df = pd.concat([combined_df, df], ignore_index=True)
         else:
             csv_file = get_most_recent_csv(folder)
             if csv_file:
@@ -152,9 +178,10 @@ def main(delete_dupes):
         # 'nba': nba,
         # 'nhl': nhl,
         # 'ncaab': ncaab,
-        'ncaah': ncaah,
+        # 'ncaah': ncaah,
         # 'nfl': nfl,
         # 'mlb': mlb,
+        'milb': milb,
     }
 
     for sport, module in sports_modules.items():

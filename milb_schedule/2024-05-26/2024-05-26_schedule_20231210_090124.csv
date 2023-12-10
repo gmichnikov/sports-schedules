@@ -1,0 +1,61 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+baseball,minors,Single-A,2024-05-26,Sunday,12:00 PM ET,Lakeland,Palm Beach,Publix Field at Joker Marchant Stadium,Lakeland,FL
+baseball,minors,Single-A,2024-05-26,Sunday,12:00 PM ET,Jupiter,Tampa,Roger Dean Chevrolet Stadium,Jupiter,FL
+baseball,minors,Single-A,2024-05-26,Sunday,12:00 PM ET,Bradenton,Dunedin,LECOM Park,Bradenton,FL
+baseball,minors,Single-A,2024-05-26,Sunday,12:10 PM ET,St. Lucie,Clearwater,Clover Park,Port St. Lucie,FL
+baseball,minors,High-A,2024-05-26,Sunday,1:00 PM ET,Rome,Wilmington,AdventHealth Stadium,Rome,GA
+baseball,minors,Single-A,2024-05-26,Sunday,1:00 PM ET,Carolina,Myrtle Beach,Five County Stadium,Zebulon,NC
+baseball,minors,Double-A,2024-05-26,Sunday,1:00 PM ET,Portland,Hartford,Hadlock Field,Portland,ME
+baseball,minors,High-A,2024-05-26,Sunday,1:00 PM ET,Lake County,West Michigan,Classic Auto Group Park,Eastlake,OH
+baseball,minors,Triple-A,2024-05-26,Sunday,1:05 PM ET,Scranton/WB,Syracuse,PNC Field,Moosic,PA
+baseball,minors,High-A,2024-05-26,Sunday,1:05 PM ET,Great Lakes,Beloit,Dow Diamond,Midland,MI
+baseball,minors,Triple-A,2024-05-26,Sunday,1:05 PM ET,Gwinnett,Jacksonville,Coolray Field,Lawrenceville,GA
+baseball,minors,Triple-A,2024-05-26,Sunday,1:05 PM ET,Worcester,Norfolk,Polar Park,Worcester,MA
+baseball,minors,Triple-A,2024-05-26,Sunday,1:05 PM ET,Buffalo,St. Paul,Sahlen Field,Buffalo,NY
+baseball,minors,Double-A,2024-05-26,Sunday,1:05 PM ET,Bowie,Richmond,Prince George's Stadium,Bowie,MD
+baseball,minors,Single-A,2024-05-26,Sunday,1:35 PM ET,Fredericksburg,Lynchburg,Virginia Credit Union Stadium,Fredericksburg,VA
+baseball,minors,Double-A,2024-05-26,Sunday,1:35 PM ET,New Hampshire,Somerset,Delta Dental Stadium,Manchester,NH
+baseball,minors,High-A,2024-05-26,Sunday,2:00 PM ET,Brooklyn,Hudson Valley,Maimonides Park,Brooklyn,NY
+baseball,minors,High-A,2024-05-26,Sunday,2:05 PM ET,Aberdeen,Jersey Shore,Leidos Field at Ripken Stadium,Aberdeen,MD
+baseball,minors,Single-A,2024-05-26,Sunday,2:05 PM ET,Delmarva,Columbia,Arthur W. Perdue Stadium,Salisbury,MD
+baseball,minors,Double-A,2024-05-26,Sunday,2:05 PM ET,Wichita,San Antonio,Riverfront Stadium,Wichita,KS
+baseball,minors,Triple-A,2024-05-26,Sunday,2:08 PM ET,Iowa,Indianapolis,Principal Park,Des Moines,IA
+baseball,minors,Double-A,2024-05-26,Sunday,2:15 PM ET,Chattanooga,Mississippi,AT&T Field,Chattanooga,TN
+baseball,minors,Triple-A,2024-05-26,Sunday,3:05 PM ET,Omaha,Columbus,Werner Park,Papillion,NE
+baseball,minors,Triple-A,2024-05-26,Sunday,3:05 PM ET,Nashville,Charlotte,First Horizon Park,Nashville,TN
+baseball,minors,Triple-A,2024-05-26,Sunday,3:05 PM ET,Salt Lake,Albuquerque,Smith's Ballpark,Salt Lake City,UT
+baseball,minors,Triple-A,2024-05-26,Sunday,3:05 PM ET,Okla. City,Reno,Chickasaw Bricktown Ballpark,Oklahoma City,OK
+baseball,minors,Single-A,2024-05-26,Sunday,3:05 PM ET,Salem,Fayetteville,Carillion Clinic Field,Salem,VA
+baseball,minors,Double-A,2024-05-26,Sunday,3:35 PM ET,Rocket City,Montgomery,Toyota Field,Madison,AL
+baseball,minors,High-A,2024-05-26,Sunday,4:05 PM ET,Hillsboro,Vancouver,Ron Tonkin Field,Hillsboro,OR
+baseball,minors,Single-A,2024-05-26,Sunday,4:05 PM ET,Fresno,Visalia,Chukchansi Park,Fresno,CA
+baseball,minors,Single-A,2024-05-26,Sunday,4:15 PM ET,Lake Elsinore,San Jose,The Diamond,Lake Elsinore,CA
+baseball,minors,Triple-A,2024-05-26,Sunday,4:35 PM ET,Tacoma,Las Vegas,Cheney Stadium,Tacoma,WA
+baseball,minors,Single-A,2024-05-26,Sunday,5:00 PM ET,Daytona,Fort Myers,Jackie Robinson Ballpark,Daytona Beach,FL
+baseball,minors,Single-A,2024-05-26,Sunday,5:00 PM ET,Rancho Cuca.,Modesto,LoanMart Field,Rancho Cucamonga,CA
+baseball,minors,Triple-A,2024-05-26,Sunday,5:05 PM ET,Durham,Memphis,Durham Bulls Athletic Park,Durham,NC
+baseball,minors,Single-A,2024-05-26,Sunday,5:05 PM ET,Charleston,Down East,"Joseph P. Riley, Jr. Ballpark",Charleston,SC
+baseball,minors,Single-A,2024-05-26,Sunday,5:05 PM ET,Inland Empire,Stockton,San Manuel Stadium,San Bernardino,CA
+baseball,minors,Double-A,2024-05-26,Sunday,5:05 PM ET,Pensacola,Tennessee,Blue Wahoos Stadium,Pensacola,FL
+baseball,minors,Double-A,2024-05-26,Sunday,5:15 PM ET,Reading,Binghamton,FirstEnergy Stadium,Reading,PA
+baseball,minors,Double-A,2024-05-26,Sunday,6:05 PM ET,Erie,Altoona,UPMC Park,Erie,PA
+baseball,minors,Single-A,2024-05-26,Sunday,6:05 PM ET,Augusta,Kannapolis,SRP Park,North Augusta,SC
+baseball,minors,Double-A,2024-05-26,Sunday,6:05 PM ET,Biloxi,Birmingham,MGM Park,Biloxi,MS
+baseball,minors,High-A,2024-05-26,Sunday,6:30 PM ET,Greensboro,Greenville,First National Bank Field,Greensboro,NC
+baseball,minors,Double-A,2024-05-26,Sunday,6:30 PM ET,Harrisburg,Akron,FNB Field,Harrisburg,PA
+baseball,minors,High-A,2024-05-26,Sunday,6:30 PM ET,Hickory,Asheville,L.P. Frans Stadium,Hickory,NC
+baseball,minors,High-A,2024-05-26,Sunday,6:35 PM ET,Fort Wayne,Lansing,Parkview Field,Fort Wayne,IN
+baseball,minors,Triple-A,2024-05-26,Sunday,6:35 PM ET,Lehigh Valley,Rochester,Coca-Cola Park,Allentown,PA
+baseball,minors,High-A,2024-05-26,Sunday,7:00 PM ET,Winston-Salem,Bowling Green,Truist Stadium,Winston-Salem,NC
+baseball,minors,Double-A,2024-05-26,Sunday,7:05 PM ET,Springfield,Tulsa,Hammons Field,Springfield,MO
+baseball,minors,High-A,2024-05-26,Sunday,7:05 PM ET,Everett,Tri-City,Funko Field,Everett,WA
+baseball,minors,High-A,2024-05-26,Sunday,7:05 PM ET,Eugene,Spokane,PK Park,Eugene,OR
+baseball,minors,Triple-A,2024-05-26,Sunday,7:05 PM ET,Louisville,Toledo,Louisville Slugger Field,Louisville,KY
+baseball,minors,Double-A,2024-05-26,Sunday,7:05 PM ET,Frisco,Midland,Riders Field,Frisco,TX
+baseball,minors,High-A,2024-05-26,Sunday,7:05 PM ET,South Bend,Wisconsin,Four Winds Field,South Bend,IN
+baseball,minors,Triple-A,2024-05-26,Sunday,7:05 PM ET,Sugar Land,Round Rock,Constellation Field,Sugar Land,TX
+baseball,minors,Double-A,2024-05-26,Sunday,7:05 PM ET,NW Arkansas,Amarillo,Arvest Ballpark,Springdale,AR
+baseball,minors,High-A,2024-05-26,Sunday,7:30 PM ET,Quad Cities,Dayton,Modern Woodmen Park,Davenport,IA
+baseball,minors,High-A,2024-05-26,Sunday,7:35 PM ET,Peoria,Cedar Rapids,Dozer Park,Peoria,IL
+baseball,minors,Double-A,2024-05-26,Sunday,7:35 PM ET,Corpus Christi,Arkansas,Whataburger Field,Corpus Christi,TX
+baseball,minors,Triple-A,2024-05-26,Sunday,8:05 PM ET,El Paso,Sacramento,Southwest University Park,El Paso,TX
