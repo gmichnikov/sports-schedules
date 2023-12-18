@@ -158,7 +158,7 @@ def create_combined_df(folders):
             for date_folder in date_folders:
                 csv_file = get_most_recent_csv(date_folder)
                 if csv_file:
-                    print("combining csv: " + str(csv_file))
+                    # print("combining csv: " + str(csv_file))
                     df = pd.read_csv(csv_file, header=0)
                     combined_df = pd.concat([combined_df, df], ignore_index=True)
         else:
@@ -181,7 +181,7 @@ def main(delete_dupes):
         # 'ncaah': ncaah,
         # 'nfl': nfl,
         # 'mlb': mlb,
-        'milb': milb,
+        # 'milb': milb,
     }
 
     for sport, module in sports_modules.items():

@@ -1,0 +1,33 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-10-28,Saturday,13:00:00,Rider University,Georgian Court,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2023-11-06,Monday,19:00:00,Rider University,Immaculata,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2023-11-10,Friday,20:30:00,Marquette,Rider University,"Milwaukee, WI",Milwaukee,WI
+basketball,college,ncaab,2023-11-13,Monday,20:00:00,Nebraska,Rider University,"Lincoln, NE",Lincoln,NE
+basketball,college,ncaab,2023-11-17,Friday,19:00:00,Duquesne,Rider University,"Pittsburgh, PA",Pittsburgh,PA
+basketball,college,ncaab,2023-11-20,Monday,18:31:00,Stony Brook,Rider University,"Stony Brook, NY",Stony Brook,NY
+basketball,college,ncaab,2023-11-28,Tuesday,19:00:00,Maryland,Rider University,"College Park, MD",College Park,MD
+basketball,college,ncaab,2023-12-01,Friday,19:00:00,Siena,Rider University,"Albany, NY",,
+basketball,college,ncaab,2023-12-03,Sunday,14:00:00,Rider University,Fairfield,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Rider University,Stonehill,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2023-12-16,Saturday,14:00:00,Monmouth,Rider University,"West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2023-12-20,Wednesday,19:00:00,Delaware,Rider University,"Newark, DE",Newark,DE
+basketball,college,ncaab,2023-12-23,Saturday,13:00:00,Rider University,Penn,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2023-12-29,Friday,14:00:00,Penn State,Rider University,"University Park, PA",,
+basketball,college,ncaab,2024-01-05,Friday,19:30:00,Quinnipiac,Rider University,"Hamden, CT",Hamden,CT
+basketball,college,ncaab,2024-01-07,Sunday,14:00:00,Rider University,Canisius,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-01-12,Friday,19:00:00,Rider University,Manhattan,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-01-14,Sunday,14:00:00,at Marist,Rider University,"Poughkeepsie, NY",,
+basketball,college,ncaab,2024-01-19,Friday,19:00:00,Rider University,Niagara,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,Saint Peter's,Rider University,"Jersey City, NJ",,
+basketball,college,ncaab,2024-01-27,Saturday,17:00:00,Mount St. Mary's,Rider University,"Emmitsburg, MD",,
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Rider University,Siena,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-02-04,Sunday,13:00:00,Iona,Rider University,"New Rochelle, NY",,
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Fairfield,Rider University,"Fairfield, CT",,
+basketball,college,ncaab,2024-02-10,Saturday,19:00:00,Rider University,Marist,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Rider University,Mount St. Mary's,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-02-18,Sunday,14:00:00,Manhattan,Rider University,"Riverdale, NY",New York,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Rider University,Iona,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-02-25,Sunday,14:00:00,Rider University,Quinnipiac,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-03-01,Friday,19:00:00,Niagara,Rider University,"Niagara University, NY",Lewiston,NY
+basketball,college,ncaab,2024-03-03,Sunday,13:00:00,Canisius,Rider University,"Buffalo, NY",,
+basketball,college,ncaab,2024-03-07,Thursday,20:00:00,Rider University,Saint Peter's,"Lawrenceville, NJ",Lawrenceville,NJ

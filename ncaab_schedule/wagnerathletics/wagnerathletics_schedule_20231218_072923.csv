@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:30:00,Fordham,Wagner College,"New York, NY",Bronx,NY
+basketball,college,ncaab,2023-11-09,Thursday,19:00:00,Wagner College,Molloy,Spiro Sports Center,,
+basketball,college,ncaab,2023-11-14,Tuesday,19:00:00,Rhode Island,Wagner College,"Kingston, RI",Kingston,RI
+basketball,college,ncaab,2023-11-18,Saturday,12:00:00,Seton Hall,Wagner College,Prudential Center,South Orange,NJ
+basketball,college,ncaab,2023-11-25,Saturday,13:00:00,Wagner College,NJIT,Spiro Sports Center,,
+basketball,college,ncaab,2023-11-28,Tuesday,19:00:00,Providence,Wagner College,"Providence, RI",Providence,RI
+basketball,college,ncaab,2023-12-02,Saturday,00:00:00,Stony Brook,Wagner College,"Stony Brook, NY",Stony Brook,NY
+basketball,college,ncaab,2023-12-06,Wednesday,19:00:00,Coppin State,Wagner College,"Baltimore, MD",,
+basketball,college,ncaab,2023-12-10,Sunday,13:00:00,Wagner College,Boston University,Spiro Sports Center,,
+basketball,college,ncaab,2023-12-17,Sunday,14:00:00,Fairfield,Wagner College,"Fairfield, CT",,
+basketball,college,ncaab,2023-12-22,Friday,14:00:00,Wagner College,Gwynedd Mercy,Spiro Sports Center,,
+basketball,college,ncaab,2023-12-30,Saturday,19:00:00,Manhattan,Wagner College,"Riverdale, NY",New York,NY
+basketball,college,ncaab,2024-01-04,Thursday,19:00:00,LIU,Wagner College,"Brooklyn, NY",Brooklyn,NY
+basketball,college,ncaab,2024-01-06,Saturday,13:00:00,Wagner College,Saint Francis U,Spiro Sports Center,,
+basketball,college,ncaab,2024-01-15,Monday,13:00:00,Wagner College,Stonehill,Spiro Sports Center,,
+basketball,college,ncaab,2024-01-19,Friday,00:00:00,Merrimack,Wagner College,"North Andover, MA",North Andover,MA
+basketball,college,ncaab,2024-01-21,Sunday,14:00:00,Sacred Heart,Wagner College,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,Wagner College,Merrimack,Spiro Sports Center,,
+basketball,college,ncaab,2024-01-27,Saturday,13:00:00,Central Connecticut,Wagner College,"New Britain, Conn.",New Britain,CT
+basketball,college,ncaab,2024-02-01,Thursday,19:00:00,Wagner College,Le Moyne,Spiro Sports Center,,
+basketball,college,ncaab,2024-02-03,Saturday,14:00:00,Stonehill,Wagner College,"North Easton, MA",Easton,MA
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,FDU,Wagner College,"Teaneck, NJ",Teaneck,NJ
+basketball,college,ncaab,2024-02-15,Thursday,19:00:00,Saint Francis U,Wagner College,"Loretto, PA",Loretto,PA
+basketball,college,ncaab,2024-02-17,Saturday,16:00:00,Wagner College,Sacred Heart,Spiro Sports Center,,
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,Wagner College,Central Connecticut,Spiro Sports Center,,
+basketball,college,ncaab,2024-02-25,Sunday,12:00:00,Wagner College,LIU,Spiro Sports Center,,
+basketball,college,ncaab,2024-02-29,Thursday,19:00:00,Le Moyne,Wagner College,"Syracuse, NY",Syracuse,NY
+basketball,college,ncaab,2024-03-02,Saturday,16:30:00,Wagner College,FDU,Spiro Sports Center,,
+basketball,college,ncaab,2024-03-06,Wednesday,00:00:00,Wagner College,NEC Quarterfinals,Campus Sites,,
+basketball,college,ncaab,2024-03-09,Saturday,00:00:00,Wagner College,NEC Semifinals,Campus Sites,,
+basketball,college,ncaab,2024-03-12,Tuesday,00:00:00,Wagner College,NEC Championship,Campus Sites,,

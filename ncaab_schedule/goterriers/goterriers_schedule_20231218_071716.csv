@@ -1,0 +1,36 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,20:00:00,Northeastern,Boston University,"Boston, MA",,
+basketball,college,ncaab,2023-11-10,Friday,19:00:00,Rutgers,Boston University,"Piscataway, NJ",,
+basketball,college,ncaab,2023-11-14,Tuesday,19:30:00,Howard,Boston University,"Washington, DC",Washington,DC
+basketball,college,ncaab,2023-11-16,Thursday,19:00:00,Boston University,Bryant,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2023-11-21,Tuesday,19:00:00,Davidson,Boston University,"Davidson, NC",Davidson,NC
+basketball,college,ncaab,2023-11-26,Sunday,14:00:00,Boston University,VTSU-Johnson,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2023-11-29,Wednesday,19:00:00,UAlbany,Boston University,"Albany, NY",Albany,NY
+basketball,college,ncaab,2023-12-06,Wednesday,19:00:00,Boston University,Maine,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2023-12-10,Sunday,13:00:00,Wagner,Boston University,"Staten Island, NY",Staten Island,NY
+basketball,college,ncaab,2023-12-13,Wednesday,19:00:00,Dartmouth,Boston University,"Hanover, NH",Hanover,NH
+basketball,college,ncaab,2023-12-22,Friday,12:00:00,Boston University,UMass Lowell,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2023-12-30,Saturday,14:00:00,Boston University,Merrimack,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-01-03,Wednesday,19:00:00,Navy,Boston University,"Annapolis, Md.",,
+basketball,college,ncaab,2024-01-06,Saturday,13:00:00,Boston University,Lafayette,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-01-10,Wednesday,19:00:00,Boston University,American,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-01-13,Saturday,17:00:00,Loyola Maryland,Boston University,"Baltimore, MD",,
+basketball,college,ncaab,2024-01-17,Wednesday,19:00:00,Boston University,Bucknell,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-01-20,Saturday,14:00:00,Colgate,Boston University,"Hamilton, NY",,
+basketball,college,ncaab,2024-01-24,Wednesday,19:00:00,Boston University,Army West Point,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Lafayette,Boston University,"Easton, PA",,
+basketball,college,ncaab,2024-01-29,Monday,19:00:00,Holy Cross,Boston University,"Worcester, MA",,
+basketball,college,ncaab,2024-02-03,Saturday,13:00:00,Boston University,Lehigh,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-02-07,Wednesday,19:00:00,Boston University,Colgate,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Bucknell,Boston University,"Lewisburg, PA",Lewisburg,PA
+basketball,college,ncaab,2024-02-14,Wednesday,18:00:00,Army West Point,Boston University,"West Point, NY",,
+basketball,college,ncaab,2024-02-17,Saturday,13:00:00,Boston University,Navy,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-02-21,Wednesday,19:00:00,American,Boston University,"Washington, DC",Washington,DC
+basketball,college,ncaab,2024-02-25,Sunday,14:00:00,Boston University,Loyola Maryland,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-02-28,Wednesday,18:00:00,Lehigh,Boston University,"Bethlehem, PA",,
+basketball,college,ncaab,2024-03-02,Saturday,12:00:00,Boston University,Holy Cross,"Case Gym – ""The Roof""",,
+basketball,college,ncaab,2024-03-05,Tuesday,00:00:00,PL First Round,Boston University,Higher Seed,,
+basketball,college,ncaab,2024-03-07,Thursday,00:00:00,PL Quarterfinals,Boston University,Higher Seed,,
+basketball,college,ncaab,2024-03-10,Sunday,00:00:00,PL Semifinals,Boston University,Higher Seed,,
+basketball,college,ncaab,2024-03-13,Wednesday,19:00:00,PL Final,Boston University,Higher Seed,,
+basketball,college,ncaab,2023-12-02,Saturday,14:00:00,Sacred Heart,Boston University,"Fairfield, CT",Fairfield,CT

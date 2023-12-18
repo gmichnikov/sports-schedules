@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-08,Wednesday,19:00:00,LIU,Fisk,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2023-11-10,Friday,13:00:00,LIU,Air Force,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2023-11-13,Monday,22:00:00,Pepperdine,LIU,"Malibu, Calif.",,
+basketball,college,ncaab,2023-11-15,Wednesday,22:00:00,UCLA,LIU,Los Angeles,,
+basketball,college,ncaab,2023-11-24,Friday,14:00:00,LIU,Texas A&M - Corpus Christi,"Highland Heights, Ky.",Brooklyn,NY
+basketball,college,ncaab,2023-11-25,Saturday,16:00:00,Northern Kentucky,LIU,"Highland Heights, Ky.",,
+basketball,college,ncaab,2023-12-02,Saturday,18:00:00,Florida International,LIU,Miami,,
+basketball,college,ncaab,2023-12-06,Wednesday,19:00:00,Miami,LIU,"Coral Gables, Fla.",Coral Gables,FL
+basketball,college,ncaab,2023-12-12,Tuesday,18:00:00,UMass Lowell,LIU,"Lowell, Mass.",Lowell,MA
+basketball,college,ncaab,2023-12-16,Saturday,13:00:00,Rutgers,LIU,"Piscataway, N.J.",New Brunswick,NJ
+basketball,college,ncaab,2023-12-28,Thursday,19:00:00,LIU,UAlbany,Barclays Center,Brooklyn,NY
+basketball,college,ncaab,2023-12-23,Saturday,13:00:00,Mount St. Mary's,LIU,"Emmitsburg, Md.",,
+basketball,college,ncaab,2023-11-21,Tuesday,19:00:00,Columbia,LIU,New York,New York,NY
+basketball,college,ncaab,2024-01-04,Thursday,19:00:00,LIU,Wagner,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-01-06,Saturday,14:00:00,Stonehill,LIU,"North Easton, Mass.",Easton,MA
+basketball,college,ncaab,2024-01-13,Saturday,14:00:00,Sacred Heart,LIU,"Fairfield, Conn.",Fairfield,CT
+basketball,college,ncaab,2024-01-19,Friday,19:00:00,Saint Francis U,LIU,"Loretto, Pa.",Loretto,PA
+basketball,college,ncaab,2024-01-21,Sunday,19:00:00,LIU,Central Connecticut State,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,LIU,Stonehill,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-01-27,Saturday,14:00:00,Le Moyne,LIU,"Syracuse, N.Y.",Syracuse,NY
+basketball,college,ncaab,2024-02-01,Thursday,19:00:00,FDU,LIU,"Teaneck, N.J.",Teaneck,NJ
+basketball,college,ncaab,2024-02-03,Saturday,19:00:00,LIU,Saint Francis U,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,LIU,Merrimack,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-10,Saturday,20:00:00,LIU,Sacred Heart,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-15,Thursday,19:00:00,LIU,FDU,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-17,Saturday,15:00:00,Merrimack,LIU,"North Andover, Mass.",North Andover,MA
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,LIU,Le Moyne,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-02-25,Sunday,12:00:00,Wagner,LIU,"Staten Island, N.Y.",Staten Island,NY
+basketball,college,ncaab,2024-02-29,Thursday,19:00:00,Central Connecticut State,LIU,"New Britain, Conn.",New Britain,CT
+basketball,college,ncaab,2024-03-06,Wednesday,00:00:00,NEC Tournament,LIU,,,

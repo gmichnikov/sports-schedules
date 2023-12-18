@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,20:00:00,Boston College,Fairfield,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-11-10,Friday,19:00:00,The Citadel,Boston College,"Charleston, SC",,
+basketball,college,ncaab,2023-11-15,Wednesday,19:00:00,Boston College,Richmond,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-11-18,Saturday,17:00:00,Boston College,Harvard,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-11-22,Wednesday,13:30:00,Boston College,Colorado State,"Kansas City, Mo.",Chestnut Hill,MA
+basketball,college,ncaab,2023-11-23,Thursday,13:30:00,Boston College,Loyola Chicago,"Kansas City, Mo.",Chestnut Hill,MA
+basketball,college,ncaab,2023-11-29,Wednesday,21:15:00,Vanderbilt,Boston College,"Nashville, TN",,
+basketball,college,ncaab,2023-12-05,Tuesday,18:00:00,Boston College,Central Connecticut,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Boston College,Holy Cross,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-12-10,Sunday,16:30:00,Boston College,St. John's,"Brooklyn, N.Y.",Chestnut Hill,MA
+basketball,college,ncaab,2023-12-21,Thursday,18:00:00,Boston College,Lehigh,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2023-12-02,Saturday,16:00:00,Boston College,NC State,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-01-02,Tuesday,19:00:00,Boston College,Wake Forest,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-01-06,Saturday,16:00:00,Georgia Tech,Boston College,"Atlanta, Ga.",,
+basketball,college,ncaab,2024-01-10,Wednesday,21:00:00,Syracuse,Boston College,"Syracuse, NY",,
+basketball,college,ncaab,2024-01-13,Saturday,15:00:00,Clemson,Boston College,"Clemson, SC",,
+basketball,college,ncaab,2024-01-15,Monday,19:00:00,Boston College,Notre Dame,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-01-20,Saturday,14:15:00,Boston College,North Carolina,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-01-23,Tuesday,21:00:00,Virginia Tech,Boston College,"Blacksburg, VA",,
+basketball,college,ncaab,2024-01-27,Saturday,12:00:00,Notre Dame,Boston College,"South Bend, Ind.",,
+basketball,college,ncaab,2024-01-30,Tuesday,19:00:00,Boston College,Syracuse,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-02-06,Tuesday,19:00:00,Boston College,Florida State,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-02-10,Saturday,14:00:00,Duke,Boston College,"Durham, NC",,
+basketball,college,ncaab,2024-02-13,Tuesday,21:00:00,Boston College,Louisville,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-02-17,Saturday,16:00:00,Boston College,Miami,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-02-20,Tuesday,19:00:00,Florida State,Boston College,"Tallahassee, FL",,
+basketball,college,ncaab,2024-02-24,Saturday,14:00:00,NC State,Boston College,"Raleigh, NC",,
+basketball,college,ncaab,2024-02-28,Wednesday,21:00:00,Boston College,Virginia,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-03-02,Saturday,18:00:00,Boston College,Pittsburgh,Conte Forum,Chestnut Hill,MA
+basketball,college,ncaab,2024-03-06,Wednesday,19:00:00,Miami,Boston College,"Coral Gables, FL",,
+basketball,college,ncaab,2024-03-09,Saturday,17:30:00,Louisville,Boston College,"Louisville, KY",,

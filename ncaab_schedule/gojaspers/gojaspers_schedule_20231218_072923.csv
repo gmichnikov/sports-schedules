@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,19:30:00,Bryant University,Manhattan College,"Smithfield, RI",,
+basketball,college,ncaab,2023-11-10,Friday,20:00:00,University of Kansas,Manhattan College,"Lawrence, KS",,
+basketball,college,ncaab,2023-11-16,Thursday,19:00:00,Manhattan College,Felician University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2023-11-19,Sunday,13:00:00,Central Connecticut State University,Manhattan College,"New Britain, Conn.",,
+basketball,college,ncaab,2023-11-24,Friday,14:00:00,University of Connecticut,Manhattan College,"Hartford, CT",,
+basketball,college,ncaab,2023-11-27,Monday,19:00:00,Fordham University,Manhattan College,"New York, NY",Bronx,NY
+basketball,college,ncaab,2023-12-08,Friday,19:00:00,Manhattan College,Fairleigh Dickinson University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2023-12-21,Thursday,14:00:00,Monmouth University,Manhattan College,"Monmouth, NJ",,
+basketball,college,ncaab,2023-12-30,Saturday,19:00:00,Manhattan College,Wagner College,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2023-12-01,Friday,19:00:00,Manhattan College,Mount St. Mary's (Md.),Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2023-12-03,Sunday,14:00:00,Marist College,Manhattan College,"Poughkeepsie, NY",Poughkeepsie,NY
+basketball,college,ncaab,2024-01-05,Friday,19:00:00,Manhattan College,Niagara University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-01-07,Sunday,14:00:00,Quinnipiac University,Manhattan College,"Hamden, CT",Hamden,CT
+basketball,college,ncaab,2024-01-12,Friday,19:00:00,Rider University,Manhattan College,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-01-14,Sunday,14:00:00,Manhattan College,Saint Peter's University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-01-21,Sunday,14:00:00,Manhattan College,Fairfield University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-01-26,Friday,19:00:00,Canisius College,Manhattan College,"Buffalo, NY",,
+basketball,college,ncaab,2024-01-28,Sunday,14:00:00,Niagara University,Manhattan College,"Niagara Falls, NY",Niagara University,NY
+basketball,college,ncaab,2024-02-02,Friday,19:00:00,Manhattan College,Quinnipiac University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-02-04,Sunday,14:00:00,Fairfield University,Manhattan College,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Mount St. Mary's (Md.),Manhattan College,"Emmittsburg, MD",Emmitsburg,MD
+basketball,college,ncaab,2024-02-10,Saturday,19:00:00,Manhattan College,Siena College,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-02-16,Friday,19:00:00,Iona University,Manhattan College,"New Rochelle, NY",New Rochelle,NY
+basketball,college,ncaab,2024-02-18,Sunday,14:00:00,Manhattan College,Rider University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-02-23,Friday,19:00:00,Manhattan College,Marist College,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-03-01,Friday,19:00:00,Siena College,Manhattan College,"Loudonville, NY",Loudonville,NY
+basketball,college,ncaab,2024-03-03,Sunday,14:00:00,Saint Peter's University,Manhattan College,"Jersey City, NJ",Jersey City,NJ
+basketball,college,ncaab,2024-03-07,Thursday,19:00:00,Manhattan College,Iona University,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-03-09,Saturday,16:00:00,Manhattan College,Canisius College,Draddy Gymnasium,New York,NY
+basketball,college,ncaab,2024-03-12,Tuesday,00:00:00,Manhattan College,Metro Atlantic Athletic Conference,Jim Whelan Boardwalk Hall,New York,NY

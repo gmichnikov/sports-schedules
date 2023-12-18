@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2023-11-06,Monday,20:00:00,Northeastern University,Boston University,Matthews Arena,,
+basketball,college,ncaab,2023-11-11,Saturday,15:30:00,La Salle,Northeastern University,"Philadelphia, Pa.",,
+basketball,college,ncaab,2023-11-14,Tuesday,19:00:00,Harvard,Northeastern University,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2023-11-19,Sunday,14:00:00,East Carolina,Northeastern University,"Greenville, N.C.",,
+basketball,college,ncaab,2023-11-20,Monday,15:00:00,Northeastern University,Kennesaw State,"Greenville, N.C.",,
+basketball,college,ncaab,2023-11-21,Tuesday,15:00:00,Northeastern University,Georgia Southern,"Greenville, N.C.",,
+basketball,college,ncaab,2023-11-25,Saturday,14:00:00,Princeton,Northeastern University,"Princeton, N.J.",Princeton,NJ
+basketball,college,ncaab,2023-11-29,Wednesday,18:30:00,Seton Hall,Northeastern University,"Newark, N.J.",South Orange,NJ
+basketball,college,ncaab,2023-12-02,Saturday,14:00:00,Northeastern University,Old Dominion,Matthews Arena,,
+basketball,college,ncaab,2023-12-06,Wednesday,19:00:00,Northeastern University,Vermont,Matthews Arena,,
+basketball,college,ncaab,2023-12-16,Saturday,18:00:00,Virginia,Northeastern University,"Charlottesville, Va.",,
+basketball,college,ncaab,2023-12-19,Tuesday,19:00:00,Central Connecticut State,Northeastern University,"New Britain, Conn.",,
+basketball,college,ncaab,2023-12-30,Saturday,13:00:00,Rhode Island,Northeastern University,"Kingston, R.I.",Kingston,RI
+basketball,college,ncaab,2024-01-04,Thursday,19:00:00,Northeastern University,Stony Brook,Matthews Arena,,
+basketball,college,ncaab,2024-01-08,Monday,19:00:00,Monmouth,Northeastern University,"West Long Branch, N.J.",West Long Branch,NJ
+basketball,college,ncaab,2024-01-11,Thursday,19:00:00,Northeastern University,Hofstra,Matthews Arena,,
+basketball,college,ncaab,2024-01-13,Saturday,12:00:00,Northeastern University,Towson,Matthews Arena,,
+basketball,college,ncaab,2024-01-18,Thursday,19:00:00,North Carolina A&T,Northeastern University,"Greensboro, N.C.",,
+basketball,college,ncaab,2024-01-20,Saturday,19:00:00,Elon,Northeastern University,"Elon, N.C.",,
+basketball,college,ncaab,2024-01-25,Thursday,19:00:00,Northeastern University,UNC Wilmington,Matthews Arena,,
+basketball,college,ncaab,2024-01-27,Saturday,12:00:00,Northeastern University,William & Mary,Matthews Arena,,
+basketball,college,ncaab,2024-02-01,Thursday,19:00:00,Towson,Northeastern University,"Towson, Md.",,
+basketball,college,ncaab,2024-02-03,Saturday,18:30:00,Stony Brook,Northeastern University,"Stony Brook, N.Y.",,
+basketball,college,ncaab,2024-02-08,Thursday,19:00:00,Campbell,Northeastern University,"Buies Creek, N.C.",,
+basketball,college,ncaab,2024-02-10,Saturday,13:00:00,Northeastern University,Monmouth,Matthews Arena,,
+basketball,college,ncaab,2024-02-15,Thursday,19:00:00,Northeastern University,College of Charleston,Matthews Arena,,
+basketball,college,ncaab,2024-02-17,Saturday,14:00:00,Hofstra,Northeastern University,"Hempstead, N.Y.",Hempstead,NY
+basketball,college,ncaab,2024-02-22,Thursday,19:00:00,Northeastern University,Elon,Matthews Arena,,
+basketball,college,ncaab,2024-02-24,Saturday,12:00:00,Northeastern University,Hampton,Matthews Arena,,
+basketball,college,ncaab,2024-02-29,Thursday,19:00:00,Delaware,Northeastern University,"Newark, Del.",Newark,DE
+basketball,college,ncaab,2024-03-02,Saturday,14:00:00,Drexel,Northeastern University,"Philadelphia, Pa.",,
