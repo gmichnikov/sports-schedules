@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-05-15,Wednesday,7:30PM,Cincinnati,Atlanta,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-05-15,Wednesday,7:30PM,D.C.,New York,Audi Field,Washington,DC
+soccer,pro,mls,2024-05-15,Wednesday,7:30PM,Montréal,Columbus,Stade Saputo,,
+soccer,pro,mls,2024-05-15,Wednesday,7:30PM,Orlando,Miami,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-05-15,Wednesday,7:30PM,Philadelphia,NYC,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-05-15,Wednesday,8:30PM,Austin,Houston,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-05-15,Wednesday,8:30PM,Chicago,Charlotte,Soldier Field,,
+soccer,pro,mls,2024-05-15,Wednesday,8:30PM,Minnesota,LA,Allianz Field,,
+soccer,pro,mls,2024-05-15,Wednesday,8:30PM,Nashville,Toronto,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-05-15,Wednesday,8:30PM,St. Louis,LAFC,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-05-15,Wednesday,9:30PM,Colorado,Vancouver,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-05-15,Wednesday,9:30PM,Salt Lake,Seattle,America First Field,,
+soccer,pro,mls,2024-05-15,Wednesday,10:30PM,Portland,San Jose,Providence Park,Portland,OR

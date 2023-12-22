@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-07-13,Saturday,7:30PM,Cincinnati,Charlotte,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-07-13,Saturday,7:30PM,D.C.,Nashville,Audi Field,Washington,DC
+soccer,pro,mls,2024-07-13,Saturday,7:30PM,Montréal,Atlanta,Stade Saputo,,
+soccer,pro,mls,2024-07-13,Saturday,7:30PM,New England,Orlando,Gillette Stadium,,
+soccer,pro,mls,2024-07-13,Saturday,7:30PM,Toronto,Philadelphia,BMO Field,,
+soccer,pro,mls,2024-07-13,Saturday,8:30PM,Austin,Seattle,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-07-13,Saturday,8:30PM,Chicago,NYC,Soldier Field,,
+soccer,pro,mls,2024-07-13,Saturday,8:30PM,Dallas,LA,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-07-13,Saturday,8:30PM,Houston,Minnesota,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-07-13,Saturday,8:30PM,St. Louis,Vancouver,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-07-13,Saturday,9:30PM,Colorado,New York,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-07-13,Saturday,10:30PM,LAFC,Columbus,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-07-13,Saturday,10:30PM,Portland,Salt Lake,Providence Park,Portland,OR
+soccer,pro,mls,2024-07-13,Saturday,10:30PM,San Jose,Kansas City,PayPal Park,,

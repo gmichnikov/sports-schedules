@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,Charlotte,Atlanta,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,Cincinnati,Montréal,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,Columbus,NYC,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,New York,Philadelphia,Red Bull Arena,,
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,Orlando,Nashville,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-08-31,Saturday,7:30PM,Toronto,D.C.,BMO Field,,
+soccer,pro,mls,2024-08-31,Saturday,8:30PM,Austin,Vancouver,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-08-31,Saturday,8:30PM,Chicago,Miami,Soldier Field,,
+soccer,pro,mls,2024-08-31,Saturday,8:30PM,Dallas,Colorado,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-08-31,Saturday,9:30PM,Salt Lake,New England,America First Field,,
+soccer,pro,mls,2024-08-31,Saturday,10:30PM,LAFC,Houston,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-08-31,Saturday,10:30PM,Portland,Seattle,Providence Park,Portland,OR
+soccer,pro,mls,2024-08-31,Saturday,10:30PM,San Jose,Minnesota,PayPal Park,,

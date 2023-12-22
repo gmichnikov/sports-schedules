@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Atlanta,Houston,Mercedes-Benz Stadium,,
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Charlotte,D.C.,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Montréal,Salt Lake,Stade Saputo,,
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,New England,Vancouver,Gillette Stadium,,
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,New York,Nashville,Red Bull Arena,,
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Orlando,LAFC,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Philadelphia,Miami,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-06-15,Saturday,7:30PM,Toronto,Chicago,BMO Field,,
+soccer,pro,mls,2024-06-15,Saturday,8:30PM,Dallas,St. Louis,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-06-15,Saturday,9:30PM,Colorado,Austin,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-06-15,Saturday,10:30PM,LA,Kansas City,Dignity Health Sports Park,Los Angeles,CA
+soccer,pro,mls,2024-06-15,Saturday,10:30PM,San Jose,Cincinnati,PayPal Park,,
+soccer,pro,mls,2024-06-15,Saturday,10:30PM,Seattle,Minnesota,Lumen Field,,

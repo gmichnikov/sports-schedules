@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-09-28,Saturday,TBD,Vancouver,Portland,BC Place,,
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,Cincinnati,LAFC,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,D.C.,Columbus,Audi Field,Washington,DC
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,Miami,Charlotte,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,Montréal,San Jose,Stade Saputo,,
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,New England,Nashville,Gillette Stadium,,
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,New York,NYC,Red Bull Arena,,
+soccer,pro,mls,2024-09-28,Saturday,7:30PM,Philadelphia,Atlanta,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-09-28,Saturday,8:30PM,Austin,Salt Lake,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-09-28,Saturday,8:30PM,Chicago,Toronto,Soldier Field,,
+soccer,pro,mls,2024-09-28,Saturday,8:30PM,Dallas,Orlando,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-09-28,Saturday,8:30PM,Minnesota,Colorado,Allianz Field,,
+soccer,pro,mls,2024-09-28,Saturday,8:30PM,St. Louis,Kansas City,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-09-28,Saturday,10:30PM,Seattle,Houston,Lumen Field,,

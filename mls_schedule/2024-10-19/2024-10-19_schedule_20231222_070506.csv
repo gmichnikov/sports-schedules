@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,Chicago,Nashville,Soldier Field,,
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,D.C.,Charlotte,Audi Field,Washington,DC
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,Miami,New England,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,Montréal,NYC,Stade Saputo,,
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,New York,Columbus,Red Bull Arena,,
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,Orlando,Atlanta,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-10-19,Saturday,6:00PM,Philadelphia,Cincinnati,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Austin,Colorado,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Dallas,Kansas City,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Houston,LA,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,LAFC,San Jose,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Minnesota,St. Louis,Allianz Field,,
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Salt Lake,Vancouver,America First Field,,
+soccer,pro,mls,2024-10-19,Saturday,9:00PM,Seattle,Portland,Lumen Field,,

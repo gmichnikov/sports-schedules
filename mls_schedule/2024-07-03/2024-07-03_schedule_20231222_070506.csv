@@ -1,0 +1,11 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,Charlotte,Miami,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,Columbus,Nashville,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,D.C.,Cincinnati,Audi Field,Washington,DC
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,NYC,Montréal,Citi Field,,
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,New England,Atlanta,Gillette Stadium,,
+soccer,pro,mls,2024-07-03,Wednesday,7:30PM,Toronto,Orlando,BMO Field,,
+soccer,pro,mls,2024-07-03,Wednesday,8:30PM,Chicago,Philadelphia,Soldier Field,,
+soccer,pro,mls,2024-07-03,Wednesday,8:30PM,Minnesota,Vancouver,Allianz Field,,
+soccer,pro,mls,2024-07-03,Wednesday,8:30PM,St. Louis,San Jose,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-07-03,Wednesday,9:30PM,Salt Lake,Houston,America First Field,,

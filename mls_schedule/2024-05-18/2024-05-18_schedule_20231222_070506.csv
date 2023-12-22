@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-05-18,Saturday,1:30PM,Nashville,Atlanta,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,Charlotte,LA,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,Cincinnati,St. Louis,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,Miami,D.C.,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,NYC,New York,Citi Field,,
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,New England,Philadelphia,Gillette Stadium,,
+soccer,pro,mls,2024-05-18,Saturday,7:30PM,Toronto,Montréal,BMO Field,,
+soccer,pro,mls,2024-05-18,Saturday,8:30PM,Austin,Kansas City,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-05-18,Saturday,8:30PM,Chicago,Columbus,Soldier Field,,
+soccer,pro,mls,2024-05-18,Saturday,8:30PM,Houston,Dallas,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-05-18,Saturday,8:30PM,Minnesota,Portland,Allianz Field,,
+soccer,pro,mls,2024-05-18,Saturday,9:30PM,Salt Lake,Colorado,America First Field,,
+soccer,pro,mls,2024-05-18,Saturday,10:30PM,San Jose,Orlando,PayPal Park,,
+soccer,pro,mls,2024-05-18,Saturday,10:30PM,Seattle,Vancouver,Lumen Field,,

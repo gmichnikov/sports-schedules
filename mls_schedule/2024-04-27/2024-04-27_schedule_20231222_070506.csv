@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-04-27,Saturday,1:30PM,Austin,LA,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,Cincinnati,Colorado,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,Columbus,Montréal,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,D.C.,Seattle,Audi Field,Washington,DC
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,NYC,Charlotte,Yankee Stadium,,
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,New England,Miami,Gillette Stadium,,
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,New York,Vancouver,Red Bull Arena,,
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,Orlando,Toronto,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-04-27,Saturday,7:30PM,Philadelphia,Salt Lake,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-04-27,Saturday,8:30PM,Chicago,Atlanta,Soldier Field,,
+soccer,pro,mls,2024-04-27,Saturday,8:30PM,Dallas,Houston,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-04-27,Saturday,8:30PM,Minnesota,Kansas City,Allianz Field,,
+soccer,pro,mls,2024-04-27,Saturday,8:30PM,Nashville,San Jose,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-04-27,Saturday,10:30PM,LAFC,Portland,BMO Stadium,Los Angeles,CA

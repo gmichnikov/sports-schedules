@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,Charlotte,Orlando,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,Cincinnati,Philadelphia,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,D.C.,Atlanta,Audi Field,Washington,DC
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,Miami,Columbus,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,Montréal,New York,Stade Saputo,,
+soccer,pro,mls,2024-06-19,Wednesday,7:30PM,Toronto,Nashville,BMO Field,,
+soccer,pro,mls,2024-06-19,Wednesday,8:30PM,Austin,LAFC,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-06-19,Wednesday,8:30PM,Dallas,Minnesota,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-06-19,Wednesday,8:30PM,Houston,Seattle,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-06-19,Wednesday,8:30PM,Kansas City,Salt Lake,Children's Mercy Park,,
+soccer,pro,mls,2024-06-19,Wednesday,8:30PM,St. Louis,Colorado,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-06-19,Wednesday,10:30PM,LA,NYC,Dignity Health Sports Park,Los Angeles,CA
+soccer,pro,mls,2024-06-19,Wednesday,10:30PM,San Jose,Portland,PayPal Park,,

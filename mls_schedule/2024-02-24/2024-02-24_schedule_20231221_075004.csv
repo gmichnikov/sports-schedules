@@ -1,0 +1,12 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-02-24,Saturday,2:00PM,Columbus,Atlanta,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-02-24,Saturday,4:30PM,LAFC,Seattle,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-02-24,Saturday,7:30PM,Charlotte,NYC,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-02-24,Saturday,7:30PM,D.C.,New England,Audi Field,Washington,DC
+soccer,pro,mls,2024-02-24,Saturday,7:30PM,Orlando,Montréal,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-02-24,Saturday,7:30PM,Philadelphia,Chicago,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-02-24,Saturday,8:30PM,Austin,Minnesota,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-02-24,Saturday,8:30PM,Dallas,San Jose,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-02-24,Saturday,8:30PM,Houston,Kansas City,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-02-24,Saturday,8:30PM,St. Louis,Salt Lake,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-02-24,Saturday,10:30PM,Portland,Colorado,Providence Park,Portland,OR

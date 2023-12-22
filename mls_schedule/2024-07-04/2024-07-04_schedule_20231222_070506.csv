@@ -1,0 +1,4 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-07-04,Thursday,8:30PM,Dallas,Portland,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-07-04,Thursday,9:30PM,Colorado,Kansas City,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-07-04,Thursday,10:30PM,LA,LAFC,Rose Bowl,Los Angeles,CA

@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-09-14,Saturday,TBD,Vancouver,San Jose,BC Place,,
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Atlanta,Nashville,Mercedes-Benz Stadium,,
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Cincinnati,Columbus,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,D.C.,NYC,Audi Field,Washington,DC
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Miami,Philadelphia,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Montréal,Charlotte,Stade Saputo,,
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Orlando,New England,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-09-14,Saturday,7:30PM,Toronto,Austin,BMO Field,,
+soccer,pro,mls,2024-09-14,Saturday,8:30PM,Chicago,New York,Soldier Field,,
+soccer,pro,mls,2024-09-14,Saturday,8:30PM,Houston,Salt Lake,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-09-14,Saturday,8:30PM,St. Louis,Minnesota,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-09-14,Saturday,9:30PM,Colorado,Portland,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-09-14,Saturday,10:30PM,LA,LAFC,Dignity Health Sports Park,Los Angeles,CA

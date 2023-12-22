@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,Cincinnati,New England,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,Columbus,Kansas City,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,D.C.,Houston,Audi Field,Washington,DC
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,New York,Toronto,Red Bull Arena,,
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,Orlando,Chicago,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-06-22,Saturday,7:30PM,Philadelphia,Charlotte,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-06-22,Saturday,8:30PM,Minnesota,Austin,Allianz Field,,
+soccer,pro,mls,2024-06-22,Saturday,8:30PM,Nashville,NYC,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-06-22,Saturday,8:30PM,St. Louis,Atlanta,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-06-22,Saturday,9:30PM,Colorado,Montréal,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-06-22,Saturday,9:30PM,Salt Lake,LA,America First Field,,
+soccer,pro,mls,2024-06-22,Saturday,10:30PM,LAFC,San Jose,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-06-22,Saturday,10:30PM,Portland,Vancouver,Providence Park,Portland,OR
+soccer,pro,mls,2024-06-22,Saturday,10:30PM,Seattle,Dallas,Lumen Field,,

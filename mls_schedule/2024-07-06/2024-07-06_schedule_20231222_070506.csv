@@ -1,0 +1,9 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-07-06,Saturday,7:30PM,Cincinnati,Miami,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-07-06,Saturday,7:30PM,Columbus,Toronto,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-07-06,Saturday,7:30PM,Montréal,Vancouver,Stade Saputo,,
+soccer,pro,mls,2024-07-06,Saturday,7:30PM,Orlando,D.C.,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-07-06,Saturday,7:30PM,Philadelphia,New York,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-07-06,Saturday,8:30PM,Austin,NYC,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-07-06,Saturday,9:30PM,Salt Lake,Atlanta,America First Field,,
+soccer,pro,mls,2024-07-06,Saturday,10:30PM,Seattle,New England,Lumen Field,,

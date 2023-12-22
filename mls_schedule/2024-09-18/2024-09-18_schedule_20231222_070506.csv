@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-09-18,Wednesday,7:30PM,Atlanta,Miami,Mercedes-Benz Stadium,,
+soccer,pro,mls,2024-09-18,Wednesday,7:30PM,NYC,Philadelphia,Yankee Stadium,,
+soccer,pro,mls,2024-09-18,Wednesday,7:30PM,New England,Montréal,Gillette Stadium,,
+soccer,pro,mls,2024-09-18,Wednesday,7:30PM,Toronto,Columbus,BMO Field,,
+soccer,pro,mls,2024-09-18,Wednesday,8:00PM,Orlando,Charlotte,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-09-18,Wednesday,8:30PM,Houston,Vancouver,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-09-18,Wednesday,8:30PM,Kansas City,Colorado,Children's Mercy Park,,
+soccer,pro,mls,2024-09-18,Wednesday,8:30PM,Minnesota,Cincinnati,Allianz Field,,
+soccer,pro,mls,2024-09-18,Wednesday,8:30PM,Nashville,Chicago,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-09-18,Wednesday,9:30PM,Salt Lake,Dallas,America First Field,,
+soccer,pro,mls,2024-09-18,Wednesday,10:30PM,LAFC,Austin,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-09-18,Wednesday,10:30PM,Portland,LA,Providence Park,Portland,OR
+soccer,pro,mls,2024-09-18,Wednesday,10:30PM,Seattle,San Jose,Lumen Field,,

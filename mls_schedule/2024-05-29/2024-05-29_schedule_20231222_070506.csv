@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,Cincinnati,Nashville,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,Columbus,New England,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,Miami,Atlanta,DRV PNK Stadium,Miami,FL
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,Montréal,D.C.,Stade Saputo,,
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,New York,Charlotte,Red Bull Arena,,
+soccer,pro,mls,2024-05-29,Wednesday,7:30PM,Philadelphia,Toronto,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2024-05-29,Wednesday,8:30PM,Austin,Portland,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-05-29,Wednesday,8:30PM,Chicago,Orlando,Soldier Field,,
+soccer,pro,mls,2024-05-29,Wednesday,8:30PM,Houston,Colorado,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-05-29,Wednesday,8:30PM,Kansas City,Vancouver,Children's Mercy Park,,
+soccer,pro,mls,2024-05-29,Wednesday,10:30PM,LA,Dallas,Dignity Health Sports Park,Los Angeles,CA
+soccer,pro,mls,2024-05-29,Wednesday,10:30PM,LAFC,Minnesota,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-05-29,Wednesday,10:30PM,Seattle,Salt Lake,Lumen Field,,

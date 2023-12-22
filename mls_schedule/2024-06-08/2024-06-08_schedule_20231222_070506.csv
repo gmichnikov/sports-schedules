@@ -1,0 +1,5 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-06-08,Saturday,7:30PM,New England,New York,Gillette Stadium,,
+soccer,pro,mls,2024-06-08,Saturday,8:30PM,Kansas City,Seattle,Children's Mercy Park,,
+soccer,pro,mls,2024-06-08,Saturday,8:30PM,Minnesota,Dallas,Allianz Field,,
+soccer,pro,mls,2024-06-08,Saturday,8:30PM,St. Louis,Portland,CITYPARK,St. Louis,MO

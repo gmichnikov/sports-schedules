@@ -1,0 +1,13 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-03-16,Saturday,2:00PM,Chicago,Montréal,Soldier Field,,
+soccer,pro,mls,2024-03-16,Saturday,2:00PM,D.C.,Miami,Audi Field,Washington,DC
+soccer,pro,mls,2024-03-16,Saturday,3:30PM,Seattle,Colorado,Lumen Field,,
+soccer,pro,mls,2024-03-16,Saturday,7:30PM,Columbus,New York,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-03-16,Saturday,7:30PM,NYC,Toronto,Yankee Stadium,,
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Austin,Philadelphia,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Dallas,Vancouver,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Houston,Portland,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Kansas City,San Jose,Children's Mercy Park,,
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Minnesota,LAFC,Allianz Field,,
+soccer,pro,mls,2024-03-16,Saturday,8:30PM,Nashville,Charlotte,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-03-16,Saturday,10:30PM,LA,St. Louis,Dignity Health Sports Park,Los Angeles,CA

@@ -1,5 +1,5 @@
 import csv
-import nba, ncaab, nhl, nfl, mlb, ncaah, milb
+import nba, ncaab, nhl, nfl, mlb, ncaah, milb, mls
 import os
 from datetime import datetime
 import pandas as pd
@@ -55,6 +55,26 @@ def write_to_csv(sport, games, location_lookup):
                     writer.writerow(headers)
                 writer.writerow(game)  # Write the entire game array as it is
 
+    elif sport == 'mls':
+        for game in games:
+            game_date = game[3]  # Get the date field from the game array
+            folder = os.path.join(base_folder, game_date)
+            if not os.path.exists(folder):
+                os.makedirs(folder)
+
+            filename = f'{game_date}_schedule_{current_datetime}.csv'
+            filepath = os.path.join(folder, filename)
+
+            with open(filepath, 'a', newline='') as file:
+                writer = csv.writer(file)
+                if os.path.getsize(filepath) == 0:  # Write headers only if file is empty
+                    writer.writerow(headers)
+                league = game[2].lower()
+                home_team = game[6].lower()
+                print("debug" + league + " " + home_team)
+                city, state = location_lookup.get((league, home_team), ("", ""))
+                writer.writerow(game + [city, state])
+
     # For other sports, write all games to a single file
     else:
         filename = f'{sport}_schedule_{current_datetime}.csv'
@@ -78,6 +98,7 @@ def create_location_lookup():
             key = (row[0].lower(), row[1].lower())  # League and Team Name
             value = (row[2], row[3])  # City and State
             location_lookup[key] = value
+    # print(str(location_lookup))
     return location_lookup
 
 def get_most_recent_csv(folder):
@@ -86,7 +107,7 @@ def get_most_recent_csv(folder):
     most_recent_file = sorted(csv_files, key=lambda x: os.path.getctime(os.path.join(folder, x)), reverse=True)[0]
     return os.path.join(folder, most_recent_file)
 
-def combine_csv_files(delete_dupes):
+def combine_csv_files(delete_dupes, location_lookup):
     schedule_folders = [f for f in os.listdir('.') if os.path.isdir(f) and f.endswith('_schedule')]
     combined_folder = 'combined_schedules'
     if not os.path.exists(combined_folder):
@@ -114,12 +135,24 @@ def combine_csv_files(delete_dupes):
     column_order = ['primary_key'] + [col for col in combined_df.columns if col != 'primary_key']
     combined_df = combined_df[column_order]
 
+    for index, row in combined_df.iterrows():
+        if pd.isna(row['home_city']) or row['home_city'] == '':
+            lookup_key = (row['league'].lower(), row['home_team'].lower())
+            if lookup_key in location_lookup:
+                combined_df.at[index, 'home_city'] = location_lookup[lookup_key][0]
+
+        if pd.isna(row['home_state']) or row['home_state'] == '':
+            lookup_key = (row['league'].lower(), row['home_team'].lower())
+            if lookup_key in location_lookup:
+                combined_df.at[index, 'home_state'] = location_lookup[lookup_key][1]
+
+
     current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
     combined_filename = f'combined_schedule_{current_datetime}.csv'
     combined_df.to_csv(os.path.join(combined_folder, combined_filename), index=False)
 
 def add_missing_teams_to_locations(combined_df):
-    # filtered_df = combined_df[combined_df['sport'] != 'milb']
+    # milb does not use location lookup
     filtered_df = combined_df[~((combined_df['sport'] == 'baseball') & (combined_df['level'] == 'minors'))]
     locations_df = pd.read_csv('locations.csv')
 
@@ -150,7 +183,7 @@ def create_combined_df(folders):
             for team_folder in team_folders:
                 csv_file = get_most_recent_csv(team_folder)
                 if csv_file:
-                    print("combining csv: " + str(csv_file))
+                    # print("combining csv: " + str(csv_file))
                     df = pd.read_csv(csv_file, header=0)
                     combined_df = pd.concat([combined_df, df], ignore_index=True)
         elif 'milb' in folder:
@@ -161,10 +194,18 @@ def create_combined_df(folders):
                     # print("combining csv: " + str(csv_file))
                     df = pd.read_csv(csv_file, header=0)
                     combined_df = pd.concat([combined_df, df], ignore_index=True)
+        elif 'mls' in folder:
+            date_folders = [os.path.join(folder, d) for d in os.listdir(folder) if os.path.isdir(os.path.join(folder, d))]
+            for date_folder in date_folders:
+                csv_file = get_most_recent_csv(date_folder)
+                if csv_file:
+                    # print("combining csv: " + str(csv_file))
+                    df = pd.read_csv(csv_file, header=0)
+                    combined_df = pd.concat([combined_df, df], ignore_index=True)
         else:
             csv_file = get_most_recent_csv(folder)
             if csv_file:
-                print("combining csv: " + str(csv_file))
+                # print("combining csv: " + str(csv_file))
                 df = pd.read_csv(csv_file, header=0)
                 combined_df = pd.concat([combined_df, df], ignore_index=True)
 
@@ -182,6 +223,7 @@ def main(delete_dupes):
         # 'nfl': nfl,
         # 'mlb': mlb,
         # 'milb': milb,
+        # 'mls': mls,
     }
 
     for sport, module in sports_modules.items():
@@ -189,7 +231,7 @@ def main(delete_dupes):
         games = module.scrape_sites()
         write_to_csv(sport, games, location_lookup)
 
-    combine_csv_files(delete_dupes)
+    combine_csv_files(delete_dupes, location_lookup)
 
 if __name__ == "__main__":
     main(args.delete_dupes)

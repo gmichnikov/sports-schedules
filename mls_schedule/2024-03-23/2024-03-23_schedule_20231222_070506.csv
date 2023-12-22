@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-03-23,Saturday,TBD,Vancouver,Salt Lake,BC Place,,
+soccer,pro,mls,2024-03-23,Saturday,2:00PM,New England,Chicago,Gillette Stadium,,
+soccer,pro,mls,2024-03-23,Saturday,2:00PM,New York,Miami,Red Bull Arena,,
+soccer,pro,mls,2024-03-23,Saturday,7:30PM,Charlotte,Columbus,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-03-23,Saturday,7:30PM,Cincinnati,NYC,TQL Stadium,Cincinnati,OH
+soccer,pro,mls,2024-03-23,Saturday,7:30PM,Orlando,Austin,Exploria Stadium,Orlando,FL
+soccer,pro,mls,2024-03-23,Saturday,7:30PM,Toronto,Atlanta,BMO Field,,
+soccer,pro,mls,2024-03-23,Saturday,8:30PM,Kansas City,LA,Children's Mercy Park,,
+soccer,pro,mls,2024-03-23,Saturday,8:30PM,St. Louis,D.C.,CITYPARK,St. Louis,MO
+soccer,pro,mls,2024-03-23,Saturday,9:30PM,Colorado,Houston,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-03-23,Saturday,10:30PM,LAFC,Nashville,BMO Stadium,Los Angeles,CA
+soccer,pro,mls,2024-03-23,Saturday,10:30PM,Portland,Philadelphia,Providence Park,Portland,OR
+soccer,pro,mls,2024-03-23,Saturday,10:30PM,San Jose,Seattle,PayPal Park,,

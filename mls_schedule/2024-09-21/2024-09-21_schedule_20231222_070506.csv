@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2024-09-21,Saturday,2:00PM,NYC,Miami,Yankee Stadium,,
+soccer,pro,mls,2024-09-21,Saturday,7:30PM,Charlotte,New England,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2024-09-21,Saturday,7:30PM,Columbus,Orlando,Lower.com Field,Columbus,OH
+soccer,pro,mls,2024-09-21,Saturday,7:30PM,Montréal,Chicago,Stade Saputo,,
+soccer,pro,mls,2024-09-21,Saturday,7:30PM,New York,Atlanta,Red Bull Arena,,
+soccer,pro,mls,2024-09-21,Saturday,8:30PM,Austin,Houston,Q2 Stadium,Austin,TX
+soccer,pro,mls,2024-09-21,Saturday,8:30PM,Dallas,LAFC,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2024-09-21,Saturday,8:30PM,Kansas City,Minnesota,Children's Mercy Park,,
+soccer,pro,mls,2024-09-21,Saturday,8:30PM,Nashville,Cincinnati,GEODIS Park,Nashville,TN
+soccer,pro,mls,2024-09-21,Saturday,9:30PM,Colorado,Toronto,Dick's Sporting Goods Park,,
+soccer,pro,mls,2024-09-21,Saturday,9:30PM,Salt Lake,Portland,America First Field,,
+soccer,pro,mls,2024-09-21,Saturday,10:30PM,LA,Vancouver,Dignity Health Sports Park,Los Angeles,CA
+soccer,pro,mls,2024-09-21,Saturday,10:30PM,San Jose,St. Louis,PayPal Park,,
