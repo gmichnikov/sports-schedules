@@ -216,11 +216,11 @@ def main(delete_dupes):
 
     # Mapping of sports to their respective modules (assuming similar function names across modules)
     sports_modules = {
-        # 'nba': nba,
-        # 'nhl': nhl,
-        # 'ncaab': ncaab,
-        # 'ncaah': ncaah,
-        # 'nfl': nfl,
+        'nba': nba,
+        'nhl': nhl,
+        'ncaab': ncaab,
+        'ncaah': ncaah,
+        'nfl': nfl,
         # 'mlb': mlb,
         # 'milb': milb,
         # 'mls': mls,
