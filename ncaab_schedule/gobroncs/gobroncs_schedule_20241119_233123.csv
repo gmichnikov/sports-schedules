@@ -1,0 +1,38 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-10-26,Saturday,16:00:00,Rider University,Holy Family (Exhibition),"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-11-04,Monday,22:30:00,UCLA,Rider University,"Los Angeles, CA",Los Angeles,CA
+basketball,college,ncaab,2024-11-06,Wednesday,23:00:00,University of San Diego,Rider University,"San Diego, CA",San Diego,CA
+basketball,college,ncaab,2024-11-09,Saturday,14:00:00,Coppin State,Rider University,"Baltimore, MD",Baltimore,MD
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Navy,Rider University,"Annapolis, MD",Annapolis,MD
+basketball,college,ncaab,2024-11-19,Tuesday,20:00:00,Iowa,Rider University,"Iowa City, IA",Iowa City,IA
+basketball,college,ncaab,2024-11-23,Saturday,19:00:00,Bucknell,Rider University,"Lewisburg, PA",Lewisburg,PA
+basketball,college,ncaab,2024-11-27,Wednesday,19:00:00,Villanova,Rider University,"Villanova, PA - Finneran Pavilion",Villanova,PA
+basketball,college,ncaab,2024-11-30,Saturday,14:00:00,Rider University,Delaware,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-12-04,Wednesday,19:00:00,Fairfield,Rider University,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2024-12-06,Friday,19:00:00,Rider University,Quinnipiac,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-12-14,Saturday,13:00:00,Rider University,Stony Brook,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2024-12-22,Sunday,16:00:00,NC State,Rider University,"Raleigh, NC",Raleigh,NC
+basketball,college,ncaab,2024-12-20,Friday,18:00:00,Penn,Rider University,"Philadelphia, PA - The Palestra",Philadelphia,PA
+basketball,college,ncaab,2025-01-05,Sunday,14:00:00,Rider University,Manhattan,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-01-10,Friday,19:00:00,Canisius,Rider University,"Buffalo, NY",Buffalo,NY
+basketball,college,ncaab,2025-01-12,Sunday,14:00:00,Niagara,Rider University,"Niagara University, NY",Lewiston,NY
+basketball,college,ncaab,2025-01-16,Thursday,19:00:00,Rider University,Mount St. Mary's,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-01-18,Saturday,19:00:00,Marist,Rider University,"Poughkeepsie, NY",Poughkeepsie,NY
+basketball,college,ncaab,2025-01-23,Thursday,19:00:00,Rider University,Iona,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-01-25,Saturday,14:00:00,Quinnipiac,Rider University,"Hamden, CT",Hamden,CT
+basketball,college,ncaab,2025-01-31,Friday,19:00:00,Rider University,Saint Peter's,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-02-02,Sunday,16:00:00,Rider University,Merrimack,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-02-06,Thursday,19:00:00,Sacred Heart,Rider University,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2025-02-08,Saturday,19:00:00,Rider University,Siena,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-02-14,Friday,19:00:00,Iona,Rider University,"New Rochelle, NY",New Rochelle,NY
+basketball,college,ncaab,2025-02-16,Sunday,14:00:00,Saint Peter's,Rider University,"Jersey City, NJ",Jersey City,NJ
+basketball,college,ncaab,2025-02-21,Friday,19:00:00,Rider University,Fairfield,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-02-23,Sunday,14:00:00,Mount St. Mary's,Rider University,"Emmitsburg, MD",Emmitsburg,MD
+basketball,college,ncaab,2025-02-28,Friday,19:00:00,Merrimack,Rider University,"North Andover, MA",North Andover,MA
+basketball,college,ncaab,2025-03-06,Thursday,19:00:00,Rider University,Canisius,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Rider University,Niagara,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-11,Tuesday,00:00:00,Rider University,MAAC Championship First Round,"Atlantic City, NJ - Jim Whelan Boardwalk Hall",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-12,Wednesday,00:00:00,Rider University,MAAC Championship Quarterfinals,"Atlantic City, NJ - Jim Whelan Boardwalk Hall",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-13,Thursday,00:00:00,Rider University,MAAC Championship Quarterfinals,"Atlantic City, NJ - Jim Whelan Boardwalk Hall",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-14,Friday,00:00:00,Rider University,MAAC Championship Semifinals,"Atlantic City, NJ - Jim Whelan Boardwalk Hall",Lawrenceville,NJ
+basketball,college,ncaab,2025-03-15,Saturday,00:00:00,Rider University,MAAC Championship Game,"Atlantic City, NJ - Jim Whelan Boardwalk Hall",Lawrenceville,NJ

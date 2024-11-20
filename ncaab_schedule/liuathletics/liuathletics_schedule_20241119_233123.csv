@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,20:30:00,Ole Miss,LIU,The Sandy and John Black Pavilion at Ole Miss,Oxford,MS
+basketball,college,ncaab,2024-11-11,Monday,16:00:00,Air Force,LIU,Clune Arena,Colorado Springs,CO
+basketball,college,ncaab,2024-11-15,Friday,22:00:00,California Baptist,LIU,Dale E. and Sarah Ann Fowler Events Center,Riverside,CA
+basketball,college,ncaab,2024-11-20,Wednesday,19:00:00,LIU,Columbia,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-11-23,Saturday,00:00:00,Charlotte,LIU,Dale F. Halton Arena,Charlotte,NC
+basketball,college,ncaab,2024-11-25,Monday,18:30:00,Winthrop,LIU,Winthrop Coliseum,Rock Hill,SC
+basketball,college,ncaab,2024-11-29,Friday,16:30:00,Lafayette,LIU,Kirby Sports Center,Easton,PA
+basketball,college,ncaab,2024-11-30,Saturday,14:00:00,LIU,Binghamton,Kirby Sports Center,Brooklyn,NY
+basketball,college,ncaab,2024-12-01,Sunday,12:00:00,Niagara,LIU,Kirby Sports Center,Lewiston,NY
+basketball,college,ncaab,2025-01-03,Friday,19:00:00,LIU,Le Moyne College,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-01-05,Sunday,14:00:00,LIU,Chicago State,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-01-10,Friday,19:00:00,Stonehill,LIU,Merkert Gymnasium,Easton,MA
+basketball,college,ncaab,2025-01-12,Sunday,13:00:00,Central Connecticut State,LIU,Detrick Gymnasium,New Britain,CT
+basketball,college,ncaab,2025-01-18,Saturday,14:00:00,LIU,Saint Francis U,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-01-20,Monday,19:00:00,LIU,Mercyhurst,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-01-24,Friday,19:00:00,Saint Francis U,LIU,DeGol Arena,Loretto,PA
+basketball,college,ncaab,2025-01-26,Sunday,13:00:00,Mercyhurst,LIU,Mercyhurst Athletic Center,Erie,PA
+basketball,college,ncaab,2025-01-30,Thursday,19:00:00,LIU,Central Connecticut State,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-02-01,Saturday,13:00:00,Chicago State,LIU,Emil and Patricia Jones Convocation Center,Chicago,IL
+basketball,college,ncaab,2025-02-06,Thursday,19:00:00,Wagner,LIU,Spiro Sports Center,Staten Island,NY
+basketball,college,ncaab,2025-02-08,Saturday,14:00:00,LIU,Stonehill,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-02-15,Saturday,14:00:00,LIU,FDU,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-02-22,Saturday,16:00:00,Le Moyne,LIU,Ted Grant Court,Syracuse,NY
+basketball,college,ncaab,2025-02-27,Thursday,19:00:00,LIU,Wagner,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2025-03-01,Saturday,13:00:00,FDU,LIU,Bogota Savings Bank Center,Teaneck,NJ
+basketball,college,ncaab,2024-12-11,Wednesday,18:00:00,UMass Lowell,LIU,Tsongas Center,Lowell,MA
+basketball,college,ncaab,2024-12-14,Saturday,12:00:00,Missouri,LIU,Mizzou Arena,Columbia,MO
+basketball,college,ncaab,2024-12-18,Wednesday,19:00:00,LIU,Mount St. Mary's (Md.),Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-12-04,Wednesday,19:00:00,LIU,York College,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-11-09,Saturday,12:00:00,LIU,Pratt Institute,Steinberg Wellness Center,Brooklyn,NY
+basketball,college,ncaab,2024-12-21,Saturday,13:00:00,LIU,Lehigh,Steinberg Wellness Center,Brooklyn,NY

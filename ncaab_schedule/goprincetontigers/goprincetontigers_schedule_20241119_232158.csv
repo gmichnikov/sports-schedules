@@ -1,0 +1,30 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-06,Wednesday,7:00 PM,Princeton University,Rutgers,"Trenton, N.J. (CURE Insurance Arena)",Princeton,NJ
+basketball,college,ncaab,2024-11-10,Sunday,7:00 PM,Hofstra,Princeton University,"Hempstead, N.Y. (David S. Mack Sports and Exhibition Complex)",Hempstead,NY
+basketball,college,ncaab,2024-11-15,Friday,7:00 PM,Duquesne,Princeton University,"Pittsburgh, Pa. (UPMC Cooper Fieldhouse)",Pittsburgh,PA
+basketball,college,ncaab,2024-11-18,Monday,2:00 PM,Monmouth,Princeton University,"West Long Branch, N.J. (OceanFirst Bank Center)",West Long Branch,NJ
+basketball,college,ncaab,2024-11-22,Friday,4:00 PM,Old Dominion,Princeton University,"Norfolk, Va. (Chartway Arena)",Norfolk,VA
+basketball,college,ncaab,2024-11-25,Monday,2:00 PM,Princeton University,Northeastern,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-11-29,Friday,7:00 PM,Bucknell,Princeton University,"Lewisburg, Pa. (Sojka Pavilion)",Lewisburg,PA
+basketball,college,ncaab,2024-12-02,Monday,2:00 PM,Princeton University,Furman,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-05,Thursday,7:00 PM,Princeton University,Drexel,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-10,Tuesday,1:00 PM,Saint Joseph's,Princeton University,"Philadelphia, Pa. (Hagan Arena)",Philadelphia,PA
+basketball,college,ncaab,2024-12-13,Friday,4:00 PM,Princeton University,Bryn Athyn,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-22,Sunday,1:00 PM,Princeton University,Delaware Valley,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-30,Monday,2:00 PM,Delaware,Princeton University,"Newark, Del. (Bob Carpenter Center)",Newark,DE
+basketball,college,ncaab,2025-01-06,Monday,2:00 PM,Princeton University,Harvard,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-15,Wednesday,2:00 PM,Princeton University,Dartmouth,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-20,Monday,2:00 PM,Columbia,Princeton University,"New York, N.Y. (Levien Gymnasium)",New York,NY
+basketball,college,ncaab,2025-01-27,Monday,2:00 PM,Cornell,Princeton University,"Ithaca, N.Y. (Newman Arena )",Ithaca,NY
+basketball,college,ncaab,2025-02-02,Sunday,7:00 PM,Yale,Princeton University,"New Haven, Conn. (John J. Lee Amphitheater)",New Haven,CT
+basketball,college,ncaab,2025-02-03,Monday,6:00 PM,Brown,Princeton University,"Providence, R.I. (Pizzitola Sports Center)",Providence,RI
+basketball,college,ncaab,2025-02-10,Monday,6:00 PM,Princeton University,Penn,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-16,Sunday,7:00 PM,Princeton University,Brown,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-17,Monday,8:00 PM,Princeton University,Yale,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-23,Sunday,7:00 PM,Harvard,Princeton University,"Cambridge, Mass. (Lavietes Pavilion)",Cambridge,MA
+basketball,college,ncaab,2025-02-24,Monday,6:00 PM,Dartmouth,Princeton University,"Hanover, N.H. (Leede Arena)",Hanover,NH
+basketball,college,ncaab,2025-03-01,Saturday,8:00 PM,Princeton University,Columbia,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-03-02,Sunday,7:00 PM,Princeton University,Cornell,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-03-09,Sunday,6:00 PM,Penn,Princeton University,"Philadelphia, Pa. (The Palestra)",Philadelphia,PA
+basketball,college,ncaab,2025-03-16,Sunday,11:00 AM,Princeton University,Brown,"New York, N.Y. (Levien Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-03-20,Thursday,8:00 PM,Princeton University,UNLV,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ

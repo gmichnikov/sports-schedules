@@ -1,0 +1,33 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-12-29,Sunday,13:30:00,Northwestern,Northeastern University,"Evanston, Ill.",Evanston,IL
+basketball,college,ncaab,2025-01-02,Thursday,19:00:00,Northeastern University,Delaware,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-01-04,Saturday,12:00:00,Northeastern University,Hofstra,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-01-09,Thursday,19:00:00,Towson,Northeastern University,"Towson, Md.",Towson,MD
+basketball,college,ncaab,2025-01-11,Saturday,19:00:00,Stony Brook,Northeastern University,"Stony Brook, N.Y.",Stony Brook,NY
+basketball,college,ncaab,2025-01-16,Thursday,19:00:00,UNC Wilmington,Northeastern University,"Wilmington, N.C.",Wilmington,NC
+basketball,college,ncaab,2025-01-18,Saturday,00:00:00,Charleston,Northeastern University,"Charleston, S.C.",Charleston,SC
+basketball,college,ncaab,2025-01-23,Thursday,19:00:00,Northeastern University,Drexel,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-01-27,Monday,21:00:00,Northeastern University,Towson,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-01-30,Thursday,19:00:00,Hampton,Northeastern University,"Hampton, Va.",Hampton,VA
+basketball,college,ncaab,2025-02-01,Saturday,19:00:00,Elon,Northeastern University,"Elon, N.C.",Elon,NC
+basketball,college,ncaab,2025-02-06,Thursday,19:00:00,Hofstra,Northeastern University,"Hempstead, N.Y.",Hempstead,NY
+basketball,college,ncaab,2025-02-08,Saturday,16:00:00,Northeastern University,Hampton,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-02-13,Thursday,19:00:00,Northeastern University,Campbell,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-02-15,Saturday,15:30:00,Northeastern University,Stony Brook,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-02-20,Thursday,19:00:00,Northeastern University,Charleston,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-02-24,Monday,19:00:00,Monmouth,Northeastern University,"West Long Branch, N.J.",West Long Branch,NJ
+basketball,college,ncaab,2025-02-27,Thursday,20:00:00,Northeastern University,North Carolina A&T,Matthews Arena,Boston,MA
+basketball,college,ncaab,2025-03-01,Saturday,14:00:00,William & Mary,Northeastern University,"Williamsburg, Va.",Williamsburg,VA
+basketball,college,ncaab,2025-03-07,Friday,00:00:00,Northeastern University,CAA Championship,"Washington, D.C.",Boston,MA
+basketball,college,ncaab,2024-11-04,Monday,19:30:00,Boston University,Northeastern University,"Boston, Mass.",Boston,MA
+basketball,college,ncaab,2024-11-10,Sunday,14:00:00,Northeastern University,Princeton,Matthews Arena,Boston,MA
+basketball,college,ncaab,2024-11-13,Wednesday,19:00:00,Northeastern University,Harvard,Matthews Arena,Boston,MA
+basketball,college,ncaab,2024-11-16,Saturday,18:00:00,Northeastern University,Central Connecticut State,"Moncton, New Brunswick",Boston,MA
+basketball,college,ncaab,2024-11-22,Friday,13:00:00,Northeastern University,FIU,"Fort Myers, Fla.",Boston,MA
+basketball,college,ncaab,2024-11-30,Saturday,13:00:00,Vermont,Northeastern University,"Burlington, Vt.",Burlington,VT
+basketball,college,ncaab,2024-12-03,Tuesday,19:00:00,Northeastern University,La Salle,Matthews Arena,Boston,MA
+basketball,college,ncaab,2024-12-08,Sunday,14:00:00,Northeastern University,Colgate,Matthews Arena,Boston,MA
+basketball,college,ncaab,2024-12-15,Sunday,13:00:00,Old Dominion,Northeastern University,"Norfolk, Va.",Norfolk,VA
+basketball,college,ncaab,2024-12-18,Wednesday,19:00:00,Massachusetts,Northeastern University,"Amherst, Mass.",Amherst,MA
+basketball,college,ncaab,2024-11-23,Saturday,13:00:00,FGCU,Northeastern University,"Fort Myers, Fla.",Fort Myers,FL
+basketball,college,ncaab,2024-11-24,Sunday,12:00:00,Northeastern University,CSU Bakersfield,"Fort Myers, Fla.",Boston,MA

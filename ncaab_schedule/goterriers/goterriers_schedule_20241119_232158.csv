@@ -1,0 +1,36 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,19:30:00,Boston University,Northeastern,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-11-08,Friday,22:00:00,San Diego,Boston University,"San Diego, CA",,
+basketball,college,ncaab,2024-11-11,Monday,22:00:00,UCLA,Boston University,"Los Angeles, CA",Los Angeles,CA
+basketball,college,ncaab,2024-11-16,Saturday,13:00:00,Boston University,Dartmouth,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-11-19,Tuesday,19:00:00,Boston University,Wagner,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-11-23,Saturday,12:00:00,UMBC,Boston University,"Baltimore, MD",Baltimore,MD
+basketball,college,ncaab,2024-11-24,Sunday,12:00:00,Boston University,Howard,"Baltimore, MD",Boston,MA
+basketball,college,ncaab,2024-12-01,Sunday,16:00:00,Boston University,Sacred Heart,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-12-07,Saturday,13:00:00,Boston University,UAlbany,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-12-09,Monday,18:00:00,Boston University,Thomas College,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2024-12-13,Friday,19:00:00,Merrimack,Boston University,"North Andover, MA",North Andover,MA
+basketball,college,ncaab,2024-12-21,Saturday,14:00:00,UMass Lowell,Boston University,"Lowell, MA",Lowell,MA
+basketball,college,ncaab,2024-12-29,Sunday,14:00:00,Maine,Boston University,"Orono, ME",Orono,ME
+basketball,college,ncaab,2025-01-02,Thursday,19:00:00,Lafayette,Boston University,"Easton, PA",Easton,PA
+basketball,college,ncaab,2025-01-05,Sunday,13:00:00,Boston University,Army West Point,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-01-08,Wednesday,19:00:00,Boston University,American,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-01-11,Saturday,14:00:00,Colgate,Boston University,"Hamilton, NY",Hamilton,NY
+basketball,college,ncaab,2025-01-15,Wednesday,18:00:00,Boston University,Lehigh,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-01-18,Saturday,12:00:00,Army West Point,Boston University,"West Point, N.Y.",West Point,NY
+basketball,college,ncaab,2025-01-22,Wednesday,19:00:00,Navy,Boston University,"Annapolis, Md.",Annapolis,MD
+basketball,college,ncaab,2025-01-25,Saturday,13:00:00,Boston University,Bucknell,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-01-27,Monday,19:00:00,Boston University,Holy Cross,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-02-01,Saturday,14:00:00,Loyola Maryland,Boston University,"Baltimore, MD",Baltimore,MD
+basketball,college,ncaab,2025-02-05,Wednesday,19:00:00,Boston University,Navy,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-02-08,Saturday,12:00:00,Holy Cross,Boston University,"Worcester, MA",Worcester,MA
+basketball,college,ncaab,2025-02-12,Wednesday,19:00:00,Bucknell,Boston University,"Lewisburg, PA",Lewisburg,PA
+basketball,college,ncaab,2025-02-15,Saturday,13:00:00,Boston University,Colgate,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-02-19,Wednesday,19:00:00,Boston University,Loyola Maryland,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-02-22,Saturday,16:00:00,American,Boston University,"Washington, D.C.",Washington,DC
+basketball,college,ncaab,2025-02-26,Wednesday,18:00:00,Lehigh,Boston University,"Bethlehem, PA",Bethlehem,PA
+basketball,college,ncaab,2025-03-01,Saturday,13:00:00,Boston University,Lafayette,"Case Gym – ""The Roof""",Boston,MA
+basketball,college,ncaab,2025-03-04,Tuesday,00:00:00,PL First Round,Boston University,Higher Seed,, 
+basketball,college,ncaab,2025-03-06,Thursday,00:00:00,PL Quarterfinals,Boston University,Higher Seed,, 
+basketball,college,ncaab,2025-03-09,Sunday,00:00:00,PL Semifinals,Boston University,Higher Seed,, 
+basketball,college,ncaab,2025-03-12,Wednesday,00:00:00,PL Final,Boston University,Highest Remaining Seed,, 

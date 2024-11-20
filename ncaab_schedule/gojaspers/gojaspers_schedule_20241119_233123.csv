@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-12-08,Sunday,14:00:00,Manhattan University,Marist,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-01-05,Sunday,14:00:00,Rider,Manhattan University,"Lawrenceville, NJ",Lawrenceville,NJ
+basketball,college,ncaab,2025-01-10,Friday,19:00:00,Manhattan University,Mount St. Mary's,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-01-12,Sunday,14:00:00,Merrimack,Manhattan University,"North Andover, MA",North Andover,MA
+basketball,college,ncaab,2025-01-18,Saturday,14:00:00,Manhattan University,Niagara,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-01-23,Thursday,19:00:00,Manhattan University,Fairfield,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-01-25,Saturday,16:00:00,Mount St. Mary's,Manhattan University,"Emmitsburg, MD",Emmitsburg,MD
+basketball,college,ncaab,2025-01-31,Friday,19:00:00,Manhattan University,Iona,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-02-02,Sunday,14:00:00,Sacred Heart,Manhattan University,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2025-02-08,Saturday,14:00:00,Manhattan University,Saint Peter's,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-02-14,Friday,19:00:00,Manhattan University,Merrimack,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-02-16,Sunday,14:00:00,Fairfield,Manhattan University,"Fairfield, CT",Fairfield,CT
+basketball,college,ncaab,2025-02-21,Friday,19:00:00,Iona,Manhattan University,"New Rochelle, NY",New Rochelle,NY
+basketball,college,ncaab,2025-02-23,Sunday,14:00:00,Manhattan University,Quinnipiac,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-02-28,Friday,19:00:00,Canisius,Manhattan University,"Buffalo, NY",Buffalo,NY
+basketball,college,ncaab,2025-03-02,Sunday,14:00:00,Niagara,Manhattan University,"Niagara Falls, NY",Lewiston,NY
+basketball,college,ncaab,2025-03-06,Thursday,19:00:00,Manhattan University,Sacred Heart,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Manhattan University,Siena,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2024-11-04,Monday,19:00:00,Maryland,Manhattan University,"College Park, MD",College Park,MD
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Manhattan University,Mercy,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2024-11-15,Friday,19:00:00,Manhattan University,Fordham,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2024-11-17,Sunday,14:00:00,FDU,Manhattan University,"Teaneck, NJ",Teaneck,NJ
+basketball,college,ncaab,2024-11-22,Friday,19:00:00,Manhattan University,Army,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2024-11-26,Tuesday,19:00:00,Virginia,Manhattan University,"Charlottesville, VA",Charlottesville,VA
+basketball,college,ncaab,2024-11-29,Friday,19:00:00,Manhattan University,Le Moyne,Draddy Gymnasium,Riverdale,NY
+basketball,college,ncaab,2024-12-21,Saturday,13:00:00,Presbyterian,Manhattan University,"Clinton, SC",Clinton,SC
+basketball,college,ncaab,2024-12-06,Friday,19:00:00,Saint Peter's,Manhattan University,"Jersey City, NJ",Jersey City,NJ
+basketball,college,ncaab,2024-12-18,Wednesday,19:00:00,Wagner,Manhattan University,"Staten Island, NY",Staten Island,NY
+basketball,college,ncaab,2025-01-03,Friday,19:00:00,Siena,Manhattan University,"Albany, NY",Loudonville,NY
+basketball,college,ncaab,2025-03-11,Tuesday,00:00:00,Manhattan University,MAAC Championships,Jim Whelan Boardwalk Hall,Riverdale,NY

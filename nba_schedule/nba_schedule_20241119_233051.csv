@@ -1,0 +1,1201 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,pro,NBA,2024-10-22,Tuesday,,Boston Celtics,New York Knicks,TD Garden,Boston,MA
+basketball,pro,NBA,2024-10-22,Tuesday,,Los Angeles Lakers,Minnesota Timberwolves,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-10-23,Wednesday,,Detroit Pistons,Indiana Pacers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-10-23,Wednesday,,Atlanta Hawks,Brooklyn Nets,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-10-23,Wednesday,,Miami Heat,Orlando Magic,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-10-23,Wednesday,,Philadelphia 76ers,Milwaukee Bucks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-10-23,Wednesday,,Toronto Raptors,Cleveland Cavaliers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-10-23,Wednesday,,Houston Rockets,Charlotte Hornets,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-10-23,Wednesday,,New Orleans Pelicans,Chicago Bulls,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-10-23,Wednesday,,Utah Jazz,Memphis Grizzlies,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-10-23,Wednesday,,Los Angeles Clippers,Phoenix Suns,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-10-23,Wednesday,,Portland Trail Blazers,Golden State Warriors,Moda Center,Portland,OR
+basketball,pro,NBA,2024-10-24,Thursday,,Washington Wizards,Boston Celtics,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-10-24,Thursday,,Dallas Mavericks,San Antonio Spurs,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-10-24,Thursday,,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-10-24,Thursday,,Denver Nuggets,Oklahoma City Thunder,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-10-25,Friday,,Orlando Magic,Brooklyn Nets,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-10-25,Friday,,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-10-25,Friday,,Atlanta Hawks,Charlotte Hornets,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-10-25,Friday,,Cleveland Cavaliers,Detroit Pistons,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-10-25,Friday,,New York Knicks,Indiana Pacers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-10-25,Friday,,Houston Rockets,Memphis Grizzlies,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-10-25,Friday,,Milwaukee Bucks,Chicago Bulls,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-10-25,Friday,,Utah Jazz,Golden State Warriors,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-10-25,Friday,,Los Angeles Lakers,Phoenix Suns,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-10-25,Friday,,Portland Trail Blazers,New Orleans Pelicans,Moda Center,Portland,OR
+basketball,pro,NBA,2024-10-26,Saturday,,Denver Nuggets,Los Angeles Clippers,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-10-26,Saturday,,Washington Wizards,Cleveland Cavaliers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-10-26,Saturday,,Detroit Pistons,Boston Celtics,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-10-26,Saturday,,Charlotte Hornets,Miami Heat,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-10-26,Saturday,,Memphis Grizzlies,Orlando Magic,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-10-26,Saturday,,Minnesota Timberwolves,Toronto Raptors,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-10-26,Saturday,,Chicago Bulls,Oklahoma City Thunder,United Center,Chicago,IL
+basketball,pro,NBA,2024-10-26,Saturday,,San Antonio Spurs,Houston Rockets,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-10-26,Saturday,,Phoenix Suns,Dallas Mavericks,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-10-26,Saturday,,Los Angeles Lakers,Sacramento Kings,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-10-27,Sunday,,Indiana Pacers,Philadelphia 76ers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-10-27,Sunday,,Portland Trail Blazers,New Orleans Pelicans,Moda Center,Portland,OR
+basketball,pro,NBA,2024-10-27,Sunday,,Brooklyn Nets,Milwaukee Bucks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-10-27,Sunday,,Oklahoma City Thunder,Atlanta Hawks,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-10-27,Sunday,,Golden State Warriors,Los Angeles Clippers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-10-28,Monday,,Orlando Magic,Indiana Pacers,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-10-28,Monday,,Atlanta Hawks,Washington Wizards,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-10-28,Monday,,Boston Celtics,Milwaukee Bucks,TD Garden,Boston,MA
+basketball,pro,NBA,2024-10-28,Monday,,Toronto Raptors,Denver Nuggets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-10-28,Monday,,Miami Heat,Detroit Pistons,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-10-28,Monday,,New York Knicks,Cleveland Cavaliers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-10-28,Monday,,San Antonio Spurs,Houston Rockets,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-10-28,Monday,,Memphis Grizzlies,Chicago Bulls,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-10-28,Monday,,Dallas Mavericks,Utah Jazz,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-10-28,Monday,,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-10-28,Monday,,Phoenix Suns,Los Angeles Lakers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-10-29,Tuesday,,Brooklyn Nets,Denver Nuggets,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-10-29,Tuesday,,Minnesota Timberwolves,Dallas Mavericks,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-10-29,Tuesday,,Utah Jazz,Sacramento Kings,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-10-29,Tuesday,,Golden State Warriors,New Orleans Pelicans,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-10-30,Wednesday,,Philadelphia 76ers,Detroit Pistons,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-10-30,Wednesday,,Washington Wizards,Atlanta Hawks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-10-30,Wednesday,,Indiana Pacers,Boston Celtics,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-10-30,Wednesday,,Cleveland Cavaliers,Los Angeles Lakers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-10-30,Wednesday,,Charlotte Hornets,Toronto Raptors,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-10-30,Wednesday,,Miami Heat,New York Knicks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-10-30,Wednesday,,Chicago Bulls,Orlando Magic,United Center,Chicago,IL
+basketball,pro,NBA,2024-10-30,Wednesday,,Memphis Grizzlies,Brooklyn Nets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-10-30,Wednesday,,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-10-30,Wednesday,,Golden State Warriors,New Orleans Pelicans,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-10-30,Wednesday,,Los Angeles Clippers,Portland Trail Blazers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-10-31,Thursday,,Memphis Grizzlies,Milwaukee Bucks,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-10-31,Thursday,,Dallas Mavericks,Houston Rockets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-10-31,Thursday,,Utah Jazz,San Antonio Spurs,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-10-31,Thursday,,Los Angeles Clippers,Phoenix Suns,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-01,Friday,,Charlotte Hornets,Boston Celtics,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-01,Friday,,Cleveland Cavaliers,Orlando Magic,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-01,Friday,,Detroit Pistons,New York Knicks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-01,Friday,,Atlanta Hawks,Sacramento Kings,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-01,Friday,,Brooklyn Nets,Chicago Bulls,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-01,Friday,,Toronto Raptors,Los Angeles Lakers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-11-01,Friday,,New Orleans Pelicans,Indiana Pacers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-01,Friday,,Minnesota Timberwolves,Denver Nuggets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-01,Friday,,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-02,Saturday,,Charlotte Hornets,Boston Celtics,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-02,Saturday,,Philadelphia 76ers,Memphis Grizzlies,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-02,Saturday,,Toronto Raptors,Sacramento Kings,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-11-02,Saturday,,Houston Rockets,Golden State Warriors,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-02,Saturday,,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-02,Saturday,,San Antonio Spurs,Minnesota Timberwolves,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-02,Saturday,,Washington Wizards,Miami Heat,Mexico City Arena,Washington,DC
+basketball,pro,NBA,2024-11-02,Saturday,,Denver Nuggets,Utah Jazz,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-02,Saturday,,Phoenix Suns,Portland Trail Blazers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-02,Saturday,,Los Angeles Clippers,Oklahoma City Thunder,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-03,Sunday,,Brooklyn Nets,Detroit Pistons,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-03,Sunday,,New Orleans Pelicans,Atlanta Hawks,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-03,Sunday,,Dallas Mavericks,Orlando Magic,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-04,Monday,,Cleveland Cavaliers,Milwaukee Bucks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-04,Monday,,Washington Wizards,Golden State Warriors,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-11-04,Monday,,Detroit Pistons,Los Angeles Lakers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-04,Monday,,Atlanta Hawks,Boston Celtics,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-04,Monday,,Brooklyn Nets,Memphis Grizzlies,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-04,Monday,,Miami Heat,Sacramento Kings,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-11-04,Monday,,Chicago Bulls,Utah Jazz,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-04,Monday,,Houston Rockets,New York Knicks,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-04,Monday,,Minnesota Timberwolves,Charlotte Hornets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-04,Monday,,Oklahoma City Thunder,Orlando Magic,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-04,Monday,,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-04,Monday,,Dallas Mavericks,Indiana Pacers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-04,Monday,,Denver Nuggets,Toronto Raptors,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-04,Monday,,Phoenix Suns,Philadelphia 76ers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-04,Monday,,Los Angeles Clippers,San Antonio Spurs,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-06,Wednesday,,Charlotte Hornets,Detroit Pistons,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-06,Wednesday,,Indiana Pacers,Orlando Magic,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-06,Wednesday,,Atlanta Hawks,New York Knicks,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-06,Wednesday,,Boston Celtics,Golden State Warriors,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-06,Wednesday,,Houston Rockets,San Antonio Spurs,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-06,Wednesday,,Memphis Grizzlies,Los Angeles Lakers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-06,Wednesday,,New Orleans Pelicans,Cleveland Cavaliers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-06,Wednesday,,Dallas Mavericks,Chicago Bulls,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-06,Wednesday,,Denver Nuggets,Oklahoma City Thunder,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-06,Wednesday,,Phoenix Suns,Miami Heat,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-06,Wednesday,,Los Angeles Clippers,Philadelphia 76ers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-06,Wednesday,,Sacramento Kings,Toronto Raptors,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-07,Thursday,,Chicago Bulls,Minnesota Timberwolves,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-07,Thursday,,Milwaukee Bucks,Utah Jazz,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-07,Thursday,,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-08,Friday,,Charlotte Hornets,Indiana Pacers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-08,Friday,,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-08,Friday,,Orlando Magic,New Orleans Pelicans,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-08,Friday,,Boston Celtics,Brooklyn Nets,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-08,Friday,,Cleveland Cavaliers,Golden State Warriors,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-08,Friday,,Dallas Mavericks,Phoenix Suns,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-08,Friday,,New York Knicks,Milwaukee Bucks,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-11-08,Friday,,Memphis Grizzlies,Washington Wizards,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-08,Friday,,Oklahoma City Thunder,Houston Rockets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-08,Friday,,Denver Nuggets,Miami Heat,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-08,Friday,,Minnesota Timberwolves,Portland Trail Blazers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-08,Friday,,Los Angeles Lakers,Philadelphia 76ers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-08,Friday,,Sacramento Kings,Los Angeles Clippers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-09,Saturday,,San Antonio Spurs,Utah Jazz,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-09,Saturday,,Atlanta Hawks,Chicago Bulls,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-09,Saturday,,Cleveland Cavaliers,Brooklyn Nets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-09,Saturday,,Los Angeles Clippers,Toronto Raptors,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-10,Sunday,,Detroit Pistons,Houston Rockets,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-10,Sunday,,Milwaukee Bucks,Boston Celtics,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-10,Sunday,,Indiana Pacers,New York Knicks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-10,Sunday,,Orlando Magic,Washington Wizards,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-10,Sunday,,Minnesota Timberwolves,Miami Heat,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-10,Sunday,,Oklahoma City Thunder,Golden State Warriors,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-10,Sunday,,Philadelphia 76ers,Charlotte Hornets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-10,Sunday,,Denver Nuggets,Dallas Mavericks,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-10,Sunday,,Phoenix Suns,Sacramento Kings,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-10,Sunday,,Portland Trail Blazers,Memphis Grizzlies,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-10,Sunday,,Los Angeles Lakers,Toronto Raptors,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-11,Monday,,Chicago Bulls,Cleveland Cavaliers,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-11,Monday,,Houston Rockets,Washington Wizards,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-11,Monday,,New Orleans Pelicans,Brooklyn Nets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-11,Monday,,Oklahoma City Thunder,Los Angeles Clippers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-11,Monday,,San Antonio Spurs,Sacramento Kings,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-12,Tuesday,,Boston Celtics,Atlanta Hawks,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-12,Tuesday,,Detroit Pistons,Miami Heat,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-12,Tuesday,,Orlando Magic,Charlotte Hornets,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-12,Tuesday,,Philadelphia 76ers,New York Knicks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-12,Tuesday,,Milwaukee Bucks,Toronto Raptors,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-12,Tuesday,,Utah Jazz,Phoenix Suns,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-11-12,Tuesday,,Golden State Warriors,Dallas Mavericks,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-11-12,Tuesday,,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-13,Wednesday,,Orlando Magic,Indiana Pacers,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-13,Wednesday,,Brooklyn Nets,Boston Celtics,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-13,Wednesday,,New York Knicks,Chicago Bulls,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-11-13,Wednesday,,Oklahoma City Thunder,New Orleans Pelicans,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-13,Wednesday,,Philadelphia 76ers,Cleveland Cavaliers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-13,Wednesday,,Houston Rockets,Los Angeles Clippers,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-13,Wednesday,,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-13,Wednesday,,San Antonio Spurs,Washington Wizards,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-13,Wednesday,,Los Angeles Lakers,Memphis Grizzlies,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-13,Wednesday,,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-13,Wednesday,,Sacramento Kings,Phoenix Suns,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-14,Thursday,,Utah Jazz,Dallas Mavericks,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-11-15,Friday,,Indiana Pacers,Miami Heat,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-15,Friday,,Orlando Magic,Philadelphia 76ers,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-15,Friday,,Toronto Raptors,Detroit Pistons,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-11-15,Friday,,Atlanta Hawks,Washington Wizards,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-15,Friday,,Cleveland Cavaliers,Chicago Bulls,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-15,Friday,,New York Knicks,Brooklyn Nets,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-11-15,Friday,,San Antonio Spurs,Los Angeles Lakers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-15,Friday,,Houston Rockets,Los Angeles Clippers,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-15,Friday,,New Orleans Pelicans,Denver Nuggets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-15,Friday,,Oklahoma City Thunder,Phoenix Suns,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-15,Friday,,Golden State Warriors,Memphis Grizzlies,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-11-15,Friday,,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-16,Saturday,,Charlotte Hornets,Milwaukee Bucks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-16,Saturday,,Boston Celtics,Toronto Raptors,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-16,Saturday,,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-16,Saturday,,Dallas Mavericks,San Antonio Spurs,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-16,Saturday,,Sacramento Kings,Utah Jazz,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-17,Sunday,,Minnesota Timberwolves,Phoenix Suns,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-17,Sunday,,Indiana Pacers,Miami Heat,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-17,Sunday,,Cleveland Cavaliers,Charlotte Hornets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-17,Sunday,,Memphis Grizzlies,Denver Nuggets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-17,Sunday,,Portland Trail Blazers,Atlanta Hawks,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-17,Sunday,,Washington Wizards,Detroit Pistons,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-11-17,Sunday,,Chicago Bulls,Houston Rockets,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-17,Sunday,,New York Knicks,Brooklyn Nets,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-11-17,Sunday,,Oklahoma City Thunder,Dallas Mavericks,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-17,Sunday,,Los Angeles Clippers,Utah Jazz,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-18,Monday,,Detroit Pistons,Chicago Bulls,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-18,Monday,,Miami Heat,Philadelphia 76ers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-11-18,Monday,,New York Knicks,Washington Wizards,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-11-18,Monday,,Toronto Raptors,Indiana Pacers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-11-18,Monday,,Milwaukee Bucks,Houston Rockets,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-18,Monday,,Phoenix Suns,Orlando Magic,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-18,Monday,,Sacramento Kings,Atlanta Hawks,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-18,Monday,,Los Angeles Clippers,Golden State Warriors,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-19,Tuesday,,Boston Celtics,Cleveland Cavaliers,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-19,Tuesday,,Brooklyn Nets,Charlotte Hornets,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-19,Tuesday,,Memphis Grizzlies,Denver Nuggets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-19,Tuesday,,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-19,Tuesday,,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-19,Tuesday,,Los Angeles Lakers,Utah Jazz,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-20,Wednesday,,Cleveland Cavaliers,New Orleans Pelicans,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-20,Wednesday,,Milwaukee Bucks,Chicago Bulls,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-20,Wednesday,,Houston Rockets,Indiana Pacers,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-20,Wednesday,,Memphis Grizzlies,Philadelphia 76ers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-20,Wednesday,,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-11-20,Wednesday,,Golden State Warriors,Atlanta Hawks,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-11-20,Wednesday,,Phoenix Suns,New York Knicks,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-20,Wednesday,,Los Angeles Clippers,Orlando Magic,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-21,Thursday,,Charlotte Hornets,Detroit Pistons,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-21,Thursday,,Toronto Raptors,Minnesota Timberwolves,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-11-21,Thursday,,San Antonio Spurs,Utah Jazz,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-21,Thursday,,Los Angeles Lakers,Orlando Magic,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-22,Friday,,Philadelphia 76ers,Brooklyn Nets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-22,Friday,,Washington Wizards,Boston Celtics,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-11-22,Friday,,New Orleans Pelicans,Golden State Warriors,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-22,Friday,,Chicago Bulls,Atlanta Hawks,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-22,Friday,,Houston Rockets,Portland Trail Blazers,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-22,Friday,,Milwaukee Bucks,Indiana Pacers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-22,Friday,,Denver Nuggets,Dallas Mavericks,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-22,Friday,,Los Angeles Clippers,Sacramento Kings,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-11-23,Saturday,,Utah Jazz,New York Knicks,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-11-23,Saturday,,Orlando Magic,Detroit Pistons,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-23,Saturday,,Chicago Bulls,Memphis Grizzlies,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-23,Saturday,,Houston Rockets,Portland Trail Blazers,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-11-23,Saturday,,Milwaukee Bucks,Charlotte Hornets,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-23,Saturday,,San Antonio Spurs,Golden State Warriors,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-23,Saturday,,Los Angeles Lakers,Denver Nuggets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-24,Sunday,,Boston Celtics,Minnesota Timberwolves,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-24,Sunday,,Indiana Pacers,Washington Wizards,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-24,Sunday,,Miami Heat,Dallas Mavericks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-11-24,Sunday,,Philadelphia 76ers,Los Angeles Clippers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-24,Sunday,,Cleveland Cavaliers,Toronto Raptors,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-24,Sunday,,Sacramento Kings,Brooklyn Nets,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-25,Monday,,Charlotte Hornets,Orlando Magic,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-25,Monday,,Detroit Pistons,Toronto Raptors,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-25,Monday,,Indiana Pacers,New Orleans Pelicans,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-25,Monday,,Atlanta Hawks,Dallas Mavericks,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-25,Monday,,Boston Celtics,Los Angeles Clippers,TD Garden,Boston,MA
+basketball,pro,NBA,2024-11-25,Monday,,Memphis Grizzlies,Portland Trail Blazers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-25,Monday,,Denver Nuggets,New York Knicks,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-11-25,Monday,,Golden State Warriors,Brooklyn Nets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-11-25,Monday,,Sacramento Kings,Oklahoma City Thunder,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-11-26,Tuesday,,Washington Wizards,Chicago Bulls,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-11-26,Tuesday,,Miami Heat,Milwaukee Bucks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-11-26,Tuesday,,Minnesota Timberwolves,Houston Rockets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-26,Tuesday,,Utah Jazz,San Antonio Spurs,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-11-26,Tuesday,,Phoenix Suns,Los Angeles Lakers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-27,Wednesday,,Charlotte Hornets,Miami Heat,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-27,Wednesday,,Cleveland Cavaliers,Atlanta Hawks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-11-27,Wednesday,,Indiana Pacers,Portland Trail Blazers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-27,Wednesday,,Orlando Magic,Chicago Bulls,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-11-27,Wednesday,,Philadelphia 76ers,Houston Rockets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-11-27,Wednesday,,Washington Wizards,Los Angeles Clippers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-11-27,Wednesday,,Dallas Mavericks,New York Knicks,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-11-27,Wednesday,,Memphis Grizzlies,Detroit Pistons,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-27,Wednesday,,Minnesota Timberwolves,Sacramento Kings,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-27,Wednesday,,New Orleans Pelicans,Toronto Raptors,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-11-27,Wednesday,,San Antonio Spurs,Los Angeles Lakers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-11-27,Wednesday,,Phoenix Suns,Brooklyn Nets,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-27,Wednesday,,Utah Jazz,Denver Nuggets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-11-27,Wednesday,,Golden State Warriors,Oklahoma City Thunder,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-11-29,Friday,,Charlotte Hornets,New York Knicks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-29,Friday,,Atlanta Hawks,Cleveland Cavaliers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-11-29,Friday,,Memphis Grizzlies,New Orleans Pelicans,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-11-29,Friday,,Brooklyn Nets,Orlando Magic,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-11-29,Friday,,Minnesota Timberwolves,Los Angeles Clippers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-11-29,Friday,,Chicago Bulls,Boston Celtics,United Center,Chicago,IL
+basketball,pro,NBA,2024-11-29,Friday,,Indiana Pacers,Detroit Pistons,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-11-29,Friday,,Miami Heat,Toronto Raptors,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-11-29,Friday,,Los Angeles Lakers,Oklahoma City Thunder,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-11-29,Friday,,Portland Trail Blazers,Sacramento Kings,Moda Center,Portland,OR
+basketball,pro,NBA,2024-11-30,Saturday,,Charlotte Hornets,Atlanta Hawks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-11-30,Saturday,,Detroit Pistons,Philadelphia 76ers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-11-30,Saturday,,Milwaukee Bucks,Washington Wizards,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-11-30,Saturday,,Phoenix Suns,Golden State Warriors,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-11-30,Saturday,,Utah Jazz,Dallas Mavericks,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-12-01,Sunday,,Brooklyn Nets,Orlando Magic,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-12-01,Sunday,,Memphis Grizzlies,Indiana Pacers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-12-01,Sunday,,Cleveland Cavaliers,Boston Celtics,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-01,Sunday,,New York Knicks,New Orleans Pelicans,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-01,Sunday,,Toronto Raptors,Miami Heat,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-01,Sunday,,Houston Rockets,Oklahoma City Thunder,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-12-01,Sunday,,Utah Jazz,Los Angeles Lakers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-12-01,Sunday,,Portland Trail Blazers,Dallas Mavericks,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-01,Sunday,,Sacramento Kings,San Antonio Spurs,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-01,Sunday,,Los Angeles Clippers,Denver Nuggets,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-12-02,Monday,,Atlanta Hawks,New Orleans Pelicans,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-02,Monday,,Boston Celtics,Miami Heat,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-02,Monday,,Chicago Bulls,Brooklyn Nets,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-02,Monday,,Minnesota Timberwolves,Los Angeles Lakers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-12-03,Tuesday,,Charlotte Hornets,Philadelphia 76ers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-12-03,Tuesday,,Cleveland Cavaliers,Washington Wizards,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-03,Tuesday,,Detroit Pistons,Milwaukee Bucks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-12-03,Tuesday,,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-12-03,Tuesday,,New York Knicks,Orlando Magic,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-03,Tuesday,,Toronto Raptors,Indiana Pacers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-03,Tuesday,,Oklahoma City Thunder,Utah Jazz,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-12-03,Tuesday,,Phoenix Suns,San Antonio Spurs,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-12-03,Tuesday,,Denver Nuggets,Golden State Warriors,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-12-03,Tuesday,,Sacramento Kings,Houston Rockets,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-03,Tuesday,,Los Angeles Clippers,Portland Trail Blazers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-12-04,Wednesday,,Boston Celtics,Detroit Pistons,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-04,Wednesday,,Brooklyn Nets,Indiana Pacers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-12-04,Wednesday,,Miami Heat,Los Angeles Lakers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-12-04,Wednesday,,Philadelphia 76ers,Orlando Magic,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-12-04,Wednesday,,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-12-04,Wednesday,,Los Angeles Clippers,Minnesota Timberwolves,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-12-05,Thursday,,Cleveland Cavaliers,Denver Nuggets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-05,Thursday,,Washington Wizards,Dallas Mavericks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-05,Thursday,,New York Knicks,Charlotte Hornets,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-05,Thursday,,Toronto Raptors,Oklahoma City Thunder,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-05,Thursday,,Memphis Grizzlies,Sacramento Kings,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-12-05,Thursday,,New Orleans Pelicans,Phoenix Suns,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-05,Thursday,,San Antonio Spurs,Chicago Bulls,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-05,Thursday,,Golden State Warriors,Houston Rockets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-06,Friday,,Philadelphia 76ers,Orlando Magic,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-12-06,Friday,,Atlanta Hawks,Los Angeles Lakers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-06,Friday,,Boston Celtics,Milwaukee Bucks,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-06,Friday,,Chicago Bulls,Indiana Pacers,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-06,Friday,,San Antonio Spurs,Sacramento Kings,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-06,Friday,,Golden State Warriors,Minnesota Timberwolves,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-06,Friday,,Portland Trail Blazers,Utah Jazz,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-07,Saturday,,Charlotte Hornets,Cleveland Cavaliers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-12-07,Saturday,,New Orleans Pelicans,Oklahoma City Thunder,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-07,Saturday,,Washington Wizards,Denver Nuggets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-07,Saturday,,New York Knicks,Detroit Pistons,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-07,Saturday,,Toronto Raptors,Dallas Mavericks,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-07,Saturday,,Boston Celtics,Memphis Grizzlies,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-07,Saturday,,Miami Heat,Phoenix Suns,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-12-08,Sunday,,Chicago Bulls,Philadelphia 76ers,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-08,Sunday,,Brooklyn Nets,Milwaukee Bucks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-12-08,Sunday,,Indiana Pacers,Charlotte Hornets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-12-08,Sunday,,Atlanta Hawks,Denver Nuggets,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-08,Sunday,,Miami Heat,Cleveland Cavaliers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-12-08,Sunday,,Orlando Magic,Phoenix Suns,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-08,Sunday,,San Antonio Spurs,New Orleans Pelicans,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-08,Sunday,,Washington Wizards,Memphis Grizzlies,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-08,Sunday,,Golden State Warriors,Minnesota Timberwolves,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-08,Sunday,,Los Angeles Clippers,Houston Rockets,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-12-08,Sunday,,Sacramento Kings,Utah Jazz,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-08,Sunday,,Los Angeles Lakers,Portland Trail Blazers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-12-09,Monday,,Toronto Raptors,New York Knicks,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-19,Thursday,,Detroit Pistons,Utah Jazz,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2024-12-19,Thursday,,Orlando Magic,Oklahoma City Thunder,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-19,Thursday,,Washington Wizards,Charlotte Hornets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-19,Thursday,,Boston Celtics,Chicago Bulls,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-19,Thursday,,Toronto Raptors,Brooklyn Nets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-19,Thursday,,Houston Rockets,New Orleans Pelicans,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-12-19,Thursday,,Memphis Grizzlies,Golden State Warriors,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-12-19,Thursday,,San Antonio Spurs,Atlanta Hawks,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-19,Thursday,,Dallas Mavericks,Los Angeles Clippers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-12-19,Thursday,,Phoenix Suns,Indiana Pacers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-12-19,Thursday,,Minnesota Timberwolves,New York Knicks,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-12-19,Thursday,,Portland Trail Blazers,Denver Nuggets,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-19,Thursday,,Sacramento Kings,Los Angeles Lakers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-20,Friday,,Philadelphia 76ers,Charlotte Hornets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-12-20,Friday,,Cleveland Cavaliers,Milwaukee Bucks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-20,Friday,,Miami Heat,Oklahoma City Thunder,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-12-21,Saturday,,Sacramento Kings,Los Angeles Lakers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-21,Saturday,,Orlando Magic,Miami Heat,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-21,Saturday,,Atlanta Hawks,Memphis Grizzlies,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-21,Saturday,,Brooklyn Nets,Utah Jazz,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-12-21,Saturday,,Chicago Bulls,Boston Celtics,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-21,Saturday,,Cleveland Cavaliers,Philadelphia 76ers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-21,Saturday,,Milwaukee Bucks,Washington Wizards,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-12-21,Saturday,,Minnesota Timberwolves,Golden State Warriors,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-12-21,Saturday,,New Orleans Pelicans,New York Knicks,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-21,Saturday,,Dallas Mavericks,Los Angeles Clippers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-12-21,Saturday,,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-21,Saturday,,Phoenix Suns,Detroit Pistons,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-12-22,Sunday,,Sacramento Kings,Indiana Pacers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-22,Sunday,,Toronto Raptors,Houston Rockets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-22,Sunday,,New Orleans Pelicans,Denver Nuggets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-23,Monday,,Charlotte Hornets,Houston Rockets,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-12-23,Monday,,Cleveland Cavaliers,Utah Jazz,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2024-12-23,Monday,,Orlando Magic,Boston Celtics,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-23,Monday,,Philadelphia 76ers,San Antonio Spurs,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2024-12-23,Monday,,Atlanta Hawks,Minnesota Timberwolves,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-23,Monday,,Miami Heat,Brooklyn Nets,Kaseya Center,Miami,FL
+basketball,pro,NBA,2024-12-23,Monday,,New York Knicks,Toronto Raptors,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-23,Monday,,Chicago Bulls,Milwaukee Bucks,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-23,Monday,,Memphis Grizzlies,Los Angeles Clippers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-12-23,Monday,,Oklahoma City Thunder,Washington Wizards,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-12-23,Monday,,Dallas Mavericks,Portland Trail Blazers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-12-23,Monday,,Denver Nuggets,Phoenix Suns,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-12-23,Monday,,Golden State Warriors,Indiana Pacers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-23,Monday,,Los Angeles Lakers,Detroit Pistons,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-12-25,Wednesday,,New York Knicks,San Antonio Spurs,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2024-12-25,Wednesday,,Dallas Mavericks,Minnesota Timberwolves,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2024-12-25,Wednesday,,Boston Celtics,Philadelphia 76ers,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-25,Wednesday,,Golden State Warriors,Los Angeles Lakers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-25,Wednesday,,Phoenix Suns,Denver Nuggets,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-12-26,Thursday,,Indiana Pacers,Oklahoma City Thunder,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-12-26,Thursday,,Orlando Magic,Miami Heat,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-26,Thursday,,Washington Wizards,Charlotte Hornets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-26,Thursday,,Atlanta Hawks,Chicago Bulls,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-26,Thursday,,Memphis Grizzlies,Toronto Raptors,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2024-12-26,Thursday,,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2024-12-26,Thursday,,New Orleans Pelicans,Houston Rockets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-26,Thursday,,Portland Trail Blazers,Utah Jazz,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-26,Thursday,,Sacramento Kings,Detroit Pistons,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-27,Friday,,Orlando Magic,New York Knicks,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-27,Friday,,Boston Celtics,Indiana Pacers,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-27,Friday,,Brooklyn Nets,San Antonio Spurs,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2024-12-27,Friday,,Houston Rockets,Minnesota Timberwolves,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-12-27,Friday,,New Orleans Pelicans,Memphis Grizzlies,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-27,Friday,,Denver Nuggets,Cleveland Cavaliers,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-12-27,Friday,,Phoenix Suns,Dallas Mavericks,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2024-12-27,Friday,,Los Angeles Clippers,Golden State Warriors,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2024-12-28,Saturday,,Atlanta Hawks,Miami Heat,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2024-12-28,Saturday,,Charlotte Hornets,Oklahoma City Thunder,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-12-28,Saturday,,Washington Wizards,New York Knicks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-28,Saturday,,Chicago Bulls,Milwaukee Bucks,United Center,Chicago,IL
+basketball,pro,NBA,2024-12-28,Saturday,,Golden State Warriors,Phoenix Suns,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-28,Saturday,,Denver Nuggets,Detroit Pistons,Ball Arena,Denver,CO
+basketball,pro,NBA,2024-12-28,Saturday,,Utah Jazz,Philadelphia 76ers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-12-28,Saturday,,Portland Trail Blazers,Dallas Mavericks,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-28,Saturday,,Los Angeles Lakers,Sacramento Kings,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-12-29,Sunday,,Orlando Magic,Brooklyn Nets,Kia Center,Orlando,FL
+basketball,pro,NBA,2024-12-29,Sunday,,Boston Celtics,Indiana Pacers,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-29,Sunday,,Toronto Raptors,Atlanta Hawks,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2024-12-29,Sunday,,Houston Rockets,Miami Heat,Toyota Center,Houston,TX
+basketball,pro,NBA,2024-12-29,Sunday,,Oklahoma City Thunder,Memphis Grizzlies,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-12-29,Sunday,,Minnesota Timberwolves,San Antonio Spurs,Target Center,Minneapolis,MN
+basketball,pro,NBA,2024-12-30,Monday,,Charlotte Hornets,Chicago Bulls,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2024-12-30,Monday,,Washington Wizards,New York Knicks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2024-12-30,Monday,,New Orleans Pelicans,Los Angeles Clippers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2024-12-30,Monday,,Utah Jazz,Denver Nuggets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2024-12-30,Monday,,Golden State Warriors,Cleveland Cavaliers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2024-12-30,Monday,,Portland Trail Blazers,Philadelphia 76ers,Moda Center,Portland,OR
+basketball,pro,NBA,2024-12-30,Monday,,Sacramento Kings,Dallas Mavericks,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2024-12-31,Tuesday,,Boston Celtics,Toronto Raptors,TD Garden,Boston,MA
+basketball,pro,NBA,2024-12-31,Tuesday,,Indiana Pacers,Milwaukee Bucks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2024-12-31,Tuesday,,San Antonio Spurs,Los Angeles Clippers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2024-12-31,Tuesday,,Oklahoma City Thunder,Minnesota Timberwolves,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2024-12-31,Tuesday,,Los Angeles Lakers,Cleveland Cavaliers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2024-12-31,Tuesday,,Phoenix Suns,Memphis Grizzlies,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-01,Wednesday,,Detroit Pistons,Orlando Magic,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-01,Wednesday,,Washington Wizards,Chicago Bulls,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-01,Wednesday,,Miami Heat,New Orleans Pelicans,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-01,Wednesday,,New York Knicks,Utah Jazz,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-01,Wednesday,,Toronto Raptors,Brooklyn Nets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-01,Wednesday,,Houston Rockets,Dallas Mavericks,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-01,Wednesday,,Denver Nuggets,Atlanta Hawks,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-01,Wednesday,,Sacramento Kings,Philadelphia 76ers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-02,Thursday,,Miami Heat,Indiana Pacers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-02,Thursday,,Minnesota Timberwolves,Boston Celtics,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-02,Thursday,,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-02,Thursday,,Oklahoma City Thunder,Los Angeles Clippers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-02,Thursday,,Golden State Warriors,Philadelphia 76ers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-02,Thursday,,Los Angeles Lakers,Portland Trail Blazers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-03,Friday,,Detroit Pistons,Charlotte Hornets,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-03,Friday,,Toronto Raptors,Orlando Magic,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-03,Friday,,Houston Rockets,Boston Celtics,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-03,Friday,,New Orleans Pelicans,Washington Wizards,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-03,Friday,,Oklahoma City Thunder,New York Knicks,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-03,Friday,,Dallas Mavericks,Cleveland Cavaliers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-03,Friday,,Denver Nuggets,San Antonio Spurs,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-03,Friday,,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-03,Friday,,Los Angeles Lakers,Atlanta Hawks,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-04,Saturday,,Brooklyn Nets,Philadelphia 76ers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-04,Saturday,,Detroit Pistons,Minnesota Timberwolves,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-04,Saturday,,Indiana Pacers,Phoenix Suns,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-04,Saturday,,Chicago Bulls,New York Knicks,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-04,Saturday,,Miami Heat,Utah Jazz,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-04,Saturday,,Milwaukee Bucks,Portland Trail Blazers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-04,Saturday,,San Antonio Spurs,Denver Nuggets,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-01-04,Saturday,,Golden State Warriors,Memphis Grizzlies,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-04,Saturday,,Los Angeles Clippers,Atlanta Hawks,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-05,Sunday,,Oklahoma City Thunder,Boston Celtics,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-05,Sunday,,Cleveland Cavaliers,Charlotte Hornets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-05,Sunday,,Washington Wizards,New Orleans Pelicans,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-05,Sunday,,Orlando Magic,Utah Jazz,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-05,Sunday,,Houston Rockets,Los Angeles Lakers,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-05,Sunday,,Golden State Warriors,Sacramento Kings,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-06,Monday,,Detroit Pistons,Portland Trail Blazers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-06,Monday,,Philadelphia 76ers,Phoenix Suns,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-06,Monday,,Brooklyn Nets,Indiana Pacers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-06,Monday,,New York Knicks,Orlando Magic,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-06,Monday,,Toronto Raptors,Milwaukee Bucks,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-06,Monday,,Chicago Bulls,San Antonio Spurs,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-06,Monday,,Memphis Grizzlies,Dallas Mavericks,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-06,Monday,,Minnesota Timberwolves,Los Angeles Clippers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-06,Monday,,Sacramento Kings,Miami Heat,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-07,Tuesday,,Charlotte Hornets,Phoenix Suns,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-07,Tuesday,,Washington Wizards,Houston Rockets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-07,Tuesday,,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-07,Tuesday,,New Orleans Pelicans,Minnesota Timberwolves,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-07,Tuesday,,Utah Jazz,Atlanta Hawks,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-07,Tuesday,,Denver Nuggets,Boston Celtics,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-07,Tuesday,,Golden State Warriors,Miami Heat,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-08,Wednesday,,Cleveland Cavaliers,Oklahoma City Thunder,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-08,Wednesday,,Indiana Pacers,Chicago Bulls,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-08,Wednesday,,New York Knicks,Toronto Raptors,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-08,Wednesday,,Philadelphia 76ers,Washington Wizards,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-08,Wednesday,,Brooklyn Nets,Detroit Pistons,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-08,Wednesday,,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-08,Wednesday,,Denver Nuggets,Los Angeles Clippers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-08,Wednesday,,Milwaukee Bucks,San Antonio Spurs,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-09,Thursday,,Cleveland Cavaliers,Toronto Raptors,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-09,Thursday,,Detroit Pistons,Golden State Warriors,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-09,Thursday,,Orlando Magic,Minnesota Timberwolves,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-09,Thursday,,Memphis Grizzlies,Houston Rockets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-09,Thursday,,Dallas Mavericks,Portland Trail Blazers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-09,Thursday,,Phoenix Suns,Atlanta Hawks,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-09,Thursday,,Utah Jazz,Miami Heat,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-09,Thursday,,Los Angeles Lakers,Charlotte Hornets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-10,Friday,,Indiana Pacers,Golden State Warriors,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-10,Friday,,Orlando Magic,Milwaukee Bucks,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-10,Friday,,Philadelphia 76ers,New Orleans Pelicans,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-10,Friday,,Boston Celtics,Sacramento Kings,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-10,Friday,,New York Knicks,Oklahoma City Thunder,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-10,Friday,,Chicago Bulls,Washington Wizards,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-10,Friday,,Denver Nuggets,Brooklyn Nets,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-11,Saturday,,Atlanta Hawks,Houston Rockets,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-01-11,Saturday,,Phoenix Suns,Utah Jazz,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-11,Saturday,,Detroit Pistons,Toronto Raptors,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-11,Saturday,,Minnesota Timberwolves,Memphis Grizzlies,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-11,Saturday,,Portland Trail Blazers,Miami Heat,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-11,Saturday,,Los Angeles Clippers,Charlotte Hornets,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-11,Saturday,,Los Angeles Lakers,San Antonio Spurs,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-12,Sunday,,Dallas Mavericks,Denver Nuggets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-12,Sunday,,New York Knicks,Milwaukee Bucks,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-12,Sunday,,Chicago Bulls,Sacramento Kings,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-12,Sunday,,Boston Celtics,New Orleans Pelicans,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-12,Sunday,,Cleveland Cavaliers,Indiana Pacers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-12,Sunday,,Orlando Magic,Philadelphia 76ers,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-12,Sunday,,Washington Wizards,Oklahoma City Thunder,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-12,Sunday,,Utah Jazz,Brooklyn Nets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-12,Sunday,,Phoenix Suns,Charlotte Hornets,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-13,Monday,,Washington Wizards,Minnesota Timberwolves,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-13,Monday,,New York Knicks,Detroit Pistons,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-13,Monday,,Toronto Raptors,Golden State Warriors,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-13,Monday,,Houston Rockets,Memphis Grizzlies,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-13,Monday,,Los Angeles Clippers,Miami Heat,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-13,Monday,,Los Angeles Lakers,San Antonio Spurs,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-14,Tuesday,,Indiana Pacers,Cleveland Cavaliers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-14,Tuesday,,Philadelphia 76ers,Oklahoma City Thunder,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-14,Tuesday,,Atlanta Hawks,Phoenix Suns,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-01-14,Tuesday,,Chicago Bulls,New Orleans Pelicans,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-14,Tuesday,,Milwaukee Bucks,Sacramento Kings,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-14,Tuesday,,Dallas Mavericks,Denver Nuggets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-14,Tuesday,,Portland Trail Blazers,Brooklyn Nets,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-15,Wednesday,,Philadelphia 76ers,New York Knicks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-15,Wednesday,,Toronto Raptors,Boston Celtics,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-15,Wednesday,,Chicago Bulls,Atlanta Hawks,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-15,Wednesday,,Milwaukee Bucks,Orlando Magic,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-15,Wednesday,,Minnesota Timberwolves,Golden State Warriors,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-15,Wednesday,,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-15,Wednesday,,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-01-15,Wednesday,,Denver Nuggets,Houston Rockets,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-15,Wednesday,,Utah Jazz,Charlotte Hornets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-15,Wednesday,,Los Angeles Lakers,Miami Heat,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-15,Wednesday,,Los Angeles Clippers,Brooklyn Nets,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-16,Thursday,,Detroit Pistons,Indiana Pacers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-16,Thursday,,Washington Wizards,Phoenix Suns,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-16,Thursday,,Oklahoma City Thunder,Cleveland Cavaliers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-16,Thursday,,Portland Trail Blazers,Los Angeles Clippers,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-16,Thursday,,Sacramento Kings,Houston Rockets,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-17,Friday,,Boston Celtics,Orlando Magic,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-17,Friday,,New York Knicks,Minnesota Timberwolves,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-17,Friday,,Miami Heat,Denver Nuggets,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-17,Friday,,Milwaukee Bucks,Toronto Raptors,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-17,Friday,,New Orleans Pelicans,Utah Jazz,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-17,Friday,,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-01-17,Friday,,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-17,Friday,,Chicago Bulls,Charlotte Hornets,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-17,Friday,,Los Angeles Lakers,Brooklyn Nets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-18,Saturday,,Detroit Pistons,Phoenix Suns,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-18,Saturday,,Boston Celtics,Atlanta Hawks,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-18,Saturday,,Indiana Pacers,Philadelphia 76ers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-18,Saturday,,Golden State Warriors,Washington Wizards,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-18,Saturday,,Minnesota Timberwolves,Cleveland Cavaliers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-18,Saturday,,Portland Trail Blazers,Houston Rockets,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-19,Sunday,,Miami Heat,San Antonio Spurs,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-19,Sunday,,Orlando Magic,Denver Nuggets,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-19,Sunday,,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-19,Sunday,,Oklahoma City Thunder,Brooklyn Nets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-19,Sunday,,Los Angeles Clippers,Los Angeles Lakers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-19,Sunday,,Portland Trail Blazers,Chicago Bulls,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-19,Sunday,,Sacramento Kings,Washington Wizards,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-20,Monday,,Charlotte Hornets,Dallas Mavericks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-20,Monday,,Houston Rockets,Detroit Pistons,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-20,Monday,,Memphis Grizzlies,Minnesota Timberwolves,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-20,Monday,,New York Knicks,Atlanta Hawks,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-20,Monday,,Cleveland Cavaliers,Phoenix Suns,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-20,Monday,,Golden State Warriors,Boston Celtics,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-20,Monday,,New Orleans Pelicans,Utah Jazz,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-21,Tuesday,,Brooklyn Nets,New York Knicks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-21,Tuesday,,Miami Heat,Portland Trail Blazers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-21,Tuesday,,Toronto Raptors,Orlando Magic,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-21,Tuesday,,Denver Nuggets,Philadelphia 76ers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-21,Tuesday,,Los Angeles Clippers,Chicago Bulls,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-21,Tuesday,,Los Angeles Lakers,Washington Wizards,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-22,Wednesday,,Atlanta Hawks,Detroit Pistons,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-01-22,Wednesday,,Brooklyn Nets,Phoenix Suns,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-22,Wednesday,,Dallas Mavericks,Minnesota Timberwolves,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-22,Wednesday,,Houston Rockets,Cleveland Cavaliers,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-01-22,Wednesday,,Memphis Grizzlies,Charlotte Hornets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-22,Wednesday,,New Orleans Pelicans,Milwaukee Bucks,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-22,Wednesday,,Oklahoma City Thunder,Utah Jazz,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-22,Wednesday,,Sacramento Kings,Golden State Warriors,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-01-22,Wednesday,,Los Angeles Clippers,Boston Celtics,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-23,Thursday,,Indiana Pacers,San Antonio Spurs,AccorHotels Arena,Indianapolis,IN
+basketball,pro,NBA,2025-01-23,Thursday,,Orlando Magic,Portland Trail Blazers,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-23,Thursday,,Atlanta Hawks,Toronto Raptors,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-01-23,Thursday,,Milwaukee Bucks,Miami Heat,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-01-23,Thursday,,Oklahoma City Thunder,Dallas Mavericks,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-01-23,Thursday,,Denver Nuggets,Sacramento Kings,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-01-23,Thursday,,Utah Jazz,Washington Wizards,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-23,Thursday,,Golden State Warriors,Chicago Bulls,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-23,Thursday,,Los Angeles Lakers,Boston Celtics,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-01-24,Friday,,Charlotte Hornets,Portland Trail Blazers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-24,Friday,,Philadelphia 76ers,Cleveland Cavaliers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-24,Friday,,Memphis Grizzlies,New Orleans Pelicans,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-25,Saturday,,San Antonio Spurs,Indiana Pacers,AccorHotels Arena,San Antonio,TX
+basketball,pro,NBA,2025-01-25,Saturday,,Minnesota Timberwolves,Denver Nuggets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-25,Saturday,,Dallas Mavericks,Boston Celtics,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-25,Saturday,,Brooklyn Nets,Miami Heat,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-25,Saturday,,Charlotte Hornets,New Orleans Pelicans,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-25,Saturday,,Orlando Magic,Detroit Pistons,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-01-25,Saturday,,Atlanta Hawks,Toronto Raptors,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-01-25,Saturday,,Cleveland Cavaliers,Houston Rockets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-25,Saturday,,New York Knicks,Sacramento Kings,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-25,Saturday,,Chicago Bulls,Philadelphia 76ers,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-25,Saturday,,Memphis Grizzlies,Utah Jazz,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-25,Saturday,,Golden State Warriors,Los Angeles Lakers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-25,Saturday,,Phoenix Suns,Washington Wizards,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-25,Saturday,,Los Angeles Clippers,Milwaukee Bucks,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-01-26,Sunday,,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-27,Monday,,Charlotte Hornets,Los Angeles Lakers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-27,Monday,,Cleveland Cavaliers,Detroit Pistons,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-27,Monday,,Boston Celtics,Houston Rockets,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-27,Monday,,Brooklyn Nets,Sacramento Kings,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-01-27,Monday,,Miami Heat,Orlando Magic,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-27,Monday,,New York Knicks,Memphis Grizzlies,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-27,Monday,,Toronto Raptors,New Orleans Pelicans,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-27,Monday,,Chicago Bulls,Denver Nuggets,United Center,Chicago,IL
+basketball,pro,NBA,2025-01-27,Monday,,Minnesota Timberwolves,Atlanta Hawks,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-01-27,Monday,,Dallas Mavericks,Washington Wizards,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-01-27,Monday,,Utah Jazz,Milwaukee Bucks,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-27,Monday,,Phoenix Suns,Los Angeles Clippers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-28,Tuesday,,Philadelphia 76ers,Los Angeles Lakers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-28,Tuesday,,Golden State Warriors,Utah Jazz,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-28,Tuesday,,Portland Trail Blazers,Milwaukee Bucks,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-29,Wednesday,,Charlotte Hornets,Brooklyn Nets,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-29,Wednesday,,Indiana Pacers,Detroit Pistons,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-01-29,Wednesday,,Washington Wizards,Toronto Raptors,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-29,Wednesday,,Boston Celtics,Chicago Bulls,TD Garden,Boston,MA
+basketball,pro,NBA,2025-01-29,Wednesday,,Miami Heat,Cleveland Cavaliers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-01-29,Wednesday,,New York Knicks,Denver Nuggets,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-01-29,Wednesday,,Philadelphia 76ers,Sacramento Kings,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-29,Wednesday,,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-29,Wednesday,,San Antonio Spurs,Los Angeles Clippers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-01-29,Wednesday,,Phoenix Suns,Minnesota Timberwolves,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-01-29,Wednesday,,Golden State Warriors,Oklahoma City Thunder,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-01-30,Thursday,,Washington Wizards,Los Angeles Lakers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-01-30,Thursday,,Cleveland Cavaliers,Atlanta Hawks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-01-30,Thursday,,Memphis Grizzlies,Houston Rockets,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-01-30,Thursday,,Portland Trail Blazers,Orlando Magic,Moda Center,Portland,OR
+basketball,pro,NBA,2025-01-30,Thursday,,Utah Jazz,Minnesota Timberwolves,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-01-31,Friday,,Charlotte Hornets,Los Angeles Clippers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-01-31,Friday,,Detroit Pistons,Dallas Mavericks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-01-31,Friday,,Philadelphia 76ers,Denver Nuggets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-01-31,Friday,,Toronto Raptors,Chicago Bulls,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-01-31,Friday,,New Orleans Pelicans,Boston Celtics,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-01-31,Friday,,San Antonio Spurs,Milwaukee Bucks,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-01-31,Friday,,Golden State Warriors,Phoenix Suns,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-02-01,Saturday,,Indiana Pacers,Atlanta Hawks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-01,Saturday,,Utah Jazz,Orlando Magic,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-01,Saturday,,Charlotte Hornets,Denver Nuggets,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-02-01,Saturday,,Houston Rockets,Brooklyn Nets,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-01,Saturday,,Minnesota Timberwolves,Washington Wizards,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-01,Saturday,,Oklahoma City Thunder,Sacramento Kings,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-01,Saturday,,New York Knicks,Los Angeles Lakers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-01,Saturday,,San Antonio Spurs,Miami Heat,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-02-01,Saturday,,Portland Trail Blazers,Phoenix Suns,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-02,Sunday,,Detroit Pistons,Chicago Bulls,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-02,Sunday,,Cleveland Cavaliers,Dallas Mavericks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-02-02,Sunday,,Toronto Raptors,Los Angeles Clippers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-02,Sunday,,Philadelphia 76ers,Boston Celtics,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-02,Sunday,,Milwaukee Bucks,Memphis Grizzlies,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-03,Monday,,Charlotte Hornets,Washington Wizards,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-02-03,Monday,,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-03,Monday,,New York Knicks,Houston Rockets,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-03,Monday,,Memphis Grizzlies,San Antonio Spurs,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-02-03,Monday,,Minnesota Timberwolves,Sacramento Kings,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-03,Monday,,Oklahoma City Thunder,Milwaukee Bucks,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-03,Monday,,Denver Nuggets,New Orleans Pelicans,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-03,Monday,,Utah Jazz,Indiana Pacers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-03,Monday,,Golden State Warriors,Orlando Magic,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-02-03,Monday,,Portland Trail Blazers,Phoenix Suns,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-04,Tuesday,,Cleveland Cavaliers,Boston Celtics,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-02-04,Tuesday,,Brooklyn Nets,Houston Rockets,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-04,Tuesday,,Philadelphia 76ers,Dallas Mavericks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-04,Tuesday,,Toronto Raptors,New York Knicks,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-04,Tuesday,,Chicago Bulls,Miami Heat,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-04,Tuesday,,Los Angeles Clippers,Los Angeles Lakers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-02-04,Tuesday,,Portland Trail Blazers,Indiana Pacers,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-05,Wednesday,,Charlotte Hornets,Milwaukee Bucks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-02-05,Wednesday,,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-05,Wednesday,,Atlanta Hawks,San Antonio Spurs,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-05,Wednesday,,Brooklyn Nets,Washington Wizards,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-05,Wednesday,,Philadelphia 76ers,Miami Heat,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-05,Wednesday,,Toronto Raptors,Memphis Grizzlies,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-05,Wednesday,,Minnesota Timberwolves,Chicago Bulls,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-05,Wednesday,,Oklahoma City Thunder,Phoenix Suns,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-05,Wednesday,,Utah Jazz,Golden State Warriors,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-05,Wednesday,,Denver Nuggets,New Orleans Pelicans,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-05,Wednesday,,Sacramento Kings,Orlando Magic,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-02-06,Thursday,,Boston Celtics,Dallas Mavericks,TD Garden,Boston,MA
+basketball,pro,NBA,2025-02-06,Thursday,,Minnesota Timberwolves,Houston Rockets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-06,Thursday,,Denver Nuggets,Orlando Magic,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-06,Thursday,,Los Angeles Lakers,Golden State Warriors,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-02-06,Thursday,,Portland Trail Blazers,Sacramento Kings,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-06,Thursday,,Los Angeles Clippers,Indiana Pacers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-02-07,Friday,,Charlotte Hornets,San Antonio Spurs,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-02-07,Friday,,Washington Wizards,Cleveland Cavaliers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-07,Friday,,Atlanta Hawks,Milwaukee Bucks,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-07,Friday,,Brooklyn Nets,Miami Heat,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-07,Friday,,Detroit Pistons,Philadelphia 76ers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-07,Friday,,Oklahoma City Thunder,Toronto Raptors,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-07,Friday,,Phoenix Suns,Utah Jazz,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-02-08,Saturday,,Dallas Mavericks,Houston Rockets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-08,Saturday,,Los Angeles Lakers,Indiana Pacers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-02-08,Saturday,,Orlando Magic,San Antonio Spurs,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-08,Saturday,,Washington Wizards,Atlanta Hawks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-08,Saturday,,Chicago Bulls,Golden State Warriors,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-08,Saturday,,Memphis Grizzlies,Oklahoma City Thunder,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-02-08,Saturday,,Minnesota Timberwolves,Portland Trail Blazers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-08,Saturday,,New York Knicks,Boston Celtics,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-08,Saturday,,Phoenix Suns,Denver Nuggets,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-02-08,Saturday,,Sacramento Kings,New Orleans Pelicans,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-02-08,Saturday,,Los Angeles Clippers,Utah Jazz,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-02-09,Sunday,,Detroit Pistons,Charlotte Hornets,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-09,Sunday,,Houston Rockets,Toronto Raptors,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-09,Sunday,,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-10,Monday,,Cleveland Cavaliers,Minnesota Timberwolves,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-02-10,Monday,,Orlando Magic,Atlanta Hawks,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-10,Monday,,Washington Wizards,San Antonio Spurs,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-10,Monday,,Brooklyn Nets,Charlotte Hornets,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-10,Monday,,Miami Heat,Boston Celtics,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-02-10,Monday,,Milwaukee Bucks,Golden State Warriors,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-10,Monday,,Oklahoma City Thunder,New Orleans Pelicans,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-10,Monday,,Dallas Mavericks,Sacramento Kings,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-10,Monday,,Denver Nuggets,Portland Trail Blazers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-11,Tuesday,,Philadelphia 76ers,Toronto Raptors,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-11,Tuesday,,Indiana Pacers,New York Knicks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-11,Tuesday,,Chicago Bulls,Detroit Pistons,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-11,Tuesday,,Phoenix Suns,Memphis Grizzlies,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-02-11,Tuesday,,Los Angeles Lakers,Utah Jazz,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-02-12,Wednesday,,Boston Celtics,San Antonio Spurs,TD Garden,Boston,MA
+basketball,pro,NBA,2025-02-12,Wednesday,,Orlando Magic,Charlotte Hornets,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-12,Wednesday,,Washington Wizards,Indiana Pacers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-12,Wednesday,,Brooklyn Nets,Philadelphia 76ers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-12,Wednesday,,New York Knicks,Atlanta Hawks,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-12,Wednesday,,Toronto Raptors,Cleveland Cavaliers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-12,Wednesday,,Chicago Bulls,Detroit Pistons,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-12,Wednesday,,Minnesota Timberwolves,Milwaukee Bucks,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-12,Wednesday,,New Orleans Pelicans,Sacramento Kings,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-02-12,Wednesday,,Oklahoma City Thunder,Miami Heat,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-12,Wednesday,,Houston Rockets,Phoenix Suns,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-12,Wednesday,,Denver Nuggets,Portland Trail Blazers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-12,Wednesday,,Utah Jazz,Los Angeles Lakers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-12,Wednesday,,Dallas Mavericks,Golden State Warriors,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-12,Wednesday,,Los Angeles Clippers,Memphis Grizzlies,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-02-13,Thursday,,Houston Rockets,Golden State Warriors,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-13,Thursday,,New Orleans Pelicans,Sacramento Kings,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-02-13,Thursday,,Dallas Mavericks,Miami Heat,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-13,Thursday,,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-20,Thursday,,Indiana Pacers,Memphis Grizzlies,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-20,Thursday,,Philadelphia 76ers,Boston Celtics,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-20,Thursday,,Atlanta Hawks,Orlando Magic,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-20,Thursday,,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-20,Thursday,,New York Knicks,Chicago Bulls,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-20,Thursday,,Milwaukee Bucks,Los Angeles Clippers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-20,Thursday,,Denver Nuggets,Charlotte Hornets,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-20,Thursday,,San Antonio Spurs,Phoenix Suns,Moody Center,San Antonio,TX
+basketball,pro,NBA,2025-02-20,Thursday,,Portland Trail Blazers,Los Angeles Lakers,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-21,Friday,,Cleveland Cavaliers,New York Knicks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-02-21,Friday,,Orlando Magic,Memphis Grizzlies,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-21,Friday,,Washington Wizards,Milwaukee Bucks,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-21,Friday,,Toronto Raptors,Miami Heat,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-21,Friday,,Houston Rockets,Minnesota Timberwolves,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-21,Friday,,San Antonio Spurs,Detroit Pistons,Moody Center,San Antonio,TX
+basketball,pro,NBA,2025-02-21,Friday,,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-21,Friday,,Utah Jazz,Oklahoma City Thunder,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-21,Friday,,Sacramento Kings,Golden State Warriors,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-02-22,Saturday,,Chicago Bulls,Phoenix Suns,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-22,Saturday,,Philadelphia 76ers,Brooklyn Nets,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-22,Saturday,,Denver Nuggets,Los Angeles Lakers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-02-22,Saturday,,Utah Jazz,Houston Rockets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-22,Saturday,,Portland Trail Blazers,Charlotte Hornets,Moda Center,Portland,OR
+basketball,pro,NBA,2025-02-23,Sunday,,Boston Celtics,New York Knicks,TD Garden,Boston,MA
+basketball,pro,NBA,2025-02-23,Sunday,,Golden State Warriors,Dallas Mavericks,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-02-23,Sunday,,Indiana Pacers,Los Angeles Clippers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-23,Sunday,,Atlanta Hawks,Detroit Pistons,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-23,Sunday,,Orlando Magic,Washington Wizards,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-23,Sunday,,Toronto Raptors,Phoenix Suns,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-23,Sunday,,Milwaukee Bucks,Miami Heat,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-23,Sunday,,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-02-23,Sunday,,Cleveland Cavaliers,Memphis Grizzlies,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-02-23,Sunday,,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-02-24,Monday,,Detroit Pistons,Los Angeles Clippers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-24,Monday,,Indiana Pacers,Denver Nuggets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-24,Monday,,Philadelphia 76ers,Chicago Bulls,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-02-24,Monday,,Washington Wizards,Brooklyn Nets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-24,Monday,,Atlanta Hawks,Miami Heat,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-24,Monday,,Oklahoma City Thunder,Minnesota Timberwolves,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-02-24,Monday,,Utah Jazz,Portland Trail Blazers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-24,Monday,,Sacramento Kings,Charlotte Hornets,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-02-25,Tuesday,,Toronto Raptors,Boston Celtics,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-02-25,Tuesday,,Orlando Magic,Cleveland Cavaliers,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-25,Tuesday,,Houston Rockets,Milwaukee Bucks,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-25,Tuesday,,Memphis Grizzlies,Phoenix Suns,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-02-25,Tuesday,,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-02-25,Tuesday,,Golden State Warriors,Charlotte Hornets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-02-25,Tuesday,,Los Angeles Lakers,Dallas Mavericks,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-02-26,Wednesday,,Detroit Pistons,Boston Celtics,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-26,Wednesday,,Indiana Pacers,Toronto Raptors,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-02-26,Wednesday,,New York Knicks,Philadelphia 76ers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-02-26,Wednesday,,Washington Wizards,Portland Trail Blazers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-02-26,Wednesday,,Brooklyn Nets,Oklahoma City Thunder,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-26,Wednesday,,Miami Heat,Atlanta Hawks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-02-26,Wednesday,,Chicago Bulls,Los Angeles Clippers,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-26,Wednesday,,Utah Jazz,Sacramento Kings,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-26,Wednesday,,Houston Rockets,San Antonio Spurs,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-02-27,Thursday,,Orlando Magic,Golden State Warriors,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-02-27,Thursday,,Milwaukee Bucks,Denver Nuggets,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-02-27,Thursday,,Dallas Mavericks,Charlotte Hornets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-02-27,Thursday,,Phoenix Suns,New Orleans Pelicans,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-02-27,Thursday,,Los Angeles Lakers,Minnesota Timberwolves,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-02-28,Friday,,Detroit Pistons,Denver Nuggets,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-02-28,Friday,,Atlanta Hawks,Oklahoma City Thunder,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-02-28,Friday,,Boston Celtics,Cleveland Cavaliers,TD Garden,Boston,MA
+basketball,pro,NBA,2025-02-28,Friday,,Brooklyn Nets,Portland Trail Blazers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-02-28,Friday,,Chicago Bulls,Toronto Raptors,United Center,Chicago,IL
+basketball,pro,NBA,2025-02-28,Friday,,Memphis Grizzlies,New York Knicks,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-02-28,Friday,,Miami Heat,Indiana Pacers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-02-28,Friday,,Phoenix Suns,New Orleans Pelicans,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-02-28,Friday,,Utah Jazz,Minnesota Timberwolves,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-02-28,Friday,,Los Angeles Lakers,Los Angeles Clippers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-01,Saturday,,Charlotte Hornets,Washington Wizards,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-01,Saturday,,Detroit Pistons,Brooklyn Nets,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-01,Saturday,,Houston Rockets,Sacramento Kings,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-01,Saturday,,Memphis Grizzlies,San Antonio Spurs,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-01,Saturday,,Dallas Mavericks,Milwaukee Bucks,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-01,Saturday,,Philadelphia 76ers,Golden State Warriors,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-02,Sunday,,Boston Celtics,Denver Nuggets,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-02,Sunday,,Cleveland Cavaliers,Portland Trail Blazers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-02,Sunday,,Indiana Pacers,Chicago Bulls,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-02,Sunday,,Miami Heat,New York Knicks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-02,Sunday,,Orlando Magic,Toronto Raptors,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-02,Sunday,,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-02,Sunday,,Utah Jazz,New Orleans Pelicans,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-02,Sunday,,Los Angeles Lakers,Los Angeles Clippers,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-02,Sunday,,Phoenix Suns,Minnesota Timberwolves,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-03,Monday,,Charlotte Hornets,Golden State Warriors,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-03,Monday,,Philadelphia 76ers,Portland Trail Blazers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-03,Monday,,Miami Heat,Washington Wizards,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-03,Monday,,Memphis Grizzlies,Atlanta Hawks,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-03,Monday,,Oklahoma City Thunder,Houston Rockets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-03,Monday,,Dallas Mavericks,Sacramento Kings,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-03,Monday,,Utah Jazz,Detroit Pistons,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-04,Tuesday,,Indiana Pacers,Houston Rockets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-04,Tuesday,,Orlando Magic,Toronto Raptors,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-04,Tuesday,,Atlanta Hawks,Milwaukee Bucks,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-04,Tuesday,,New York Knicks,Golden State Warriors,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-04,Tuesday,,Chicago Bulls,Cleveland Cavaliers,United Center,Chicago,IL
+basketball,pro,NBA,2025-03-04,Tuesday,,Minnesota Timberwolves,Philadelphia 76ers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-04,Tuesday,,San Antonio Spurs,Brooklyn Nets,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-04,Tuesday,,Phoenix Suns,Los Angeles Clippers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-04,Tuesday,,Los Angeles Lakers,New Orleans Pelicans,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-05,Wednesday,,Boston Celtics,Portland Trail Blazers,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-05,Wednesday,,Charlotte Hornets,Minnesota Timberwolves,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-05,Wednesday,,Cleveland Cavaliers,Miami Heat,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-05,Wednesday,,Washington Wizards,Utah Jazz,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-05,Wednesday,,Memphis Grizzlies,Oklahoma City Thunder,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-05,Wednesday,,Denver Nuggets,Sacramento Kings,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-05,Wednesday,,Milwaukee Bucks,Dallas Mavericks,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-05,Wednesday,,Los Angeles Clippers,Detroit Pistons,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-06,Thursday,,Atlanta Hawks,Indiana Pacers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-06,Thursday,,Boston Celtics,Philadelphia 76ers,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-06,Thursday,,Brooklyn Nets,Golden State Warriors,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-06,Thursday,,New Orleans Pelicans,Houston Rockets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-06,Thursday,,Los Angeles Lakers,New York Knicks,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-07,Friday,,Charlotte Hornets,Cleveland Cavaliers,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-07,Friday,,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-07,Friday,,Toronto Raptors,Utah Jazz,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-07,Friday,,Miami Heat,Minnesota Timberwolves,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-07,Friday,,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-07,Friday,,Denver Nuggets,Phoenix Suns,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-07,Friday,,Sacramento Kings,San Antonio Spurs,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-07,Friday,,Los Angeles Clippers,New York Knicks,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-08,Saturday,,Charlotte Hornets,Brooklyn Nets,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-08,Saturday,,Houston Rockets,New Orleans Pelicans,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-08,Saturday,,Atlanta Hawks,Indiana Pacers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-08,Saturday,,Toronto Raptors,Washington Wizards,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-08,Saturday,,Miami Heat,Chicago Bulls,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-08,Saturday,,Milwaukee Bucks,Orlando Magic,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-08,Saturday,,Boston Celtics,Los Angeles Lakers,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-08,Saturday,,Golden State Warriors,Detroit Pistons,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-09,Sunday,,Oklahoma City Thunder,Denver Nuggets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-09,Sunday,,Dallas Mavericks,Phoenix Suns,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-09,Sunday,,New Orleans Pelicans,Memphis Grizzlies,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-09,Sunday,,Philadelphia 76ers,Utah Jazz,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-09,Sunday,,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-09,Sunday,,Minnesota Timberwolves,San Antonio Spurs,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-09,Sunday,,Portland Trail Blazers,Detroit Pistons,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-09,Sunday,,Los Angeles Clippers,Sacramento Kings,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-10,Monday,,Atlanta Hawks,Philadelphia 76ers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-10,Monday,,Boston Celtics,Utah Jazz,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-10,Monday,,Brooklyn Nets,Los Angeles Lakers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-10,Monday,,Miami Heat,Charlotte Hornets,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-10,Monday,,Toronto Raptors,Washington Wizards,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-10,Monday,,Chicago Bulls,Indiana Pacers,United Center,Chicago,IL
+basketball,pro,NBA,2025-03-10,Monday,,Houston Rockets,Orlando Magic,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-10,Monday,,Memphis Grizzlies,Phoenix Suns,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-10,Monday,,Oklahoma City Thunder,Denver Nuggets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-10,Monday,,San Antonio Spurs,Dallas Mavericks,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-10,Monday,,Golden State Warriors,Portland Trail Blazers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-10,Monday,,Sacramento Kings,New York Knicks,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-11,Tuesday,,Cleveland Cavaliers,Brooklyn Nets,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-11,Tuesday,,Detroit Pistons,Washington Wizards,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-11,Tuesday,,Indiana Pacers,Milwaukee Bucks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-11,Tuesday,,New Orleans Pelicans,Los Angeles Clippers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-12,Wednesday,,Orlando Magic,Chicago Bulls,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-12,Wednesday,,Atlanta Hawks,Charlotte Hornets,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-12,Wednesday,,Boston Celtics,Oklahoma City Thunder,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-12,Wednesday,,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-12,Wednesday,,Houston Rockets,Phoenix Suns,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-12,Wednesday,,Memphis Grizzlies,Utah Jazz,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-12,Wednesday,,Miami Heat,Los Angeles Clippers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-12,Wednesday,,San Antonio Spurs,Dallas Mavericks,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-12,Wednesday,,Denver Nuggets,Minnesota Timberwolves,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-12,Wednesday,,Portland Trail Blazers,New York Knicks,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-13,Thursday,,Detroit Pistons,Washington Wizards,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-13,Thursday,,Milwaukee Bucks,Los Angeles Lakers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-13,Thursday,,Chicago Bulls,Brooklyn Nets,United Center,Chicago,IL
+basketball,pro,NBA,2025-03-13,Thursday,,Golden State Warriors,Sacramento Kings,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-14,Friday,,Miami Heat,Boston Celtics,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-14,Friday,,Philadelphia 76ers,Indiana Pacers,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-14,Friday,,Atlanta Hawks,Los Angeles Clippers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-14,Friday,,Houston Rockets,Dallas Mavericks,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-14,Friday,,Memphis Grizzlies,Cleveland Cavaliers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-14,Friday,,Minnesota Timberwolves,Orlando Magic,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-14,Friday,,San Antonio Spurs,Charlotte Hornets,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-14,Friday,,Denver Nuggets,Los Angeles Lakers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-14,Friday,,Utah Jazz,Toronto Raptors,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-14,Friday,,Phoenix Suns,Sacramento Kings,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-15,Saturday,,Brooklyn Nets,Boston Celtics,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-15,Saturday,,Detroit Pistons,Oklahoma City Thunder,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-15,Saturday,,Houston Rockets,Chicago Bulls,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-15,Saturday,,Memphis Grizzlies,Miami Heat,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-15,Saturday,,Milwaukee Bucks,Indiana Pacers,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-15,Saturday,,Golden State Warriors,New York Knicks,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-15,Saturday,,San Antonio Spurs,New Orleans Pelicans,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-15,Saturday,,Denver Nuggets,Washington Wizards,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-16,Sunday,,Dallas Mavericks,Philadelphia 76ers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-16,Sunday,,Los Angeles Lakers,Phoenix Suns,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-16,Sunday,,Brooklyn Nets,Atlanta Hawks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-16,Sunday,,Cleveland Cavaliers,Orlando Magic,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-16,Sunday,,Portland Trail Blazers,Toronto Raptors,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-16,Sunday,,Minnesota Timberwolves,Utah Jazz,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-16,Sunday,,Milwaukee Bucks,Oklahoma City Thunder,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-16,Sunday,,Los Angeles Clippers,Washington Wizards,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-17,Monday,,New York Knicks,Miami Heat,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-17,Monday,,Houston Rockets,Philadelphia 76ers,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-17,Monday,,Minnesota Timberwolves,Indiana Pacers,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-17,Monday,,New Orleans Pelicans,Detroit Pistons,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-17,Monday,,San Antonio Spurs,Orlando Magic,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-17,Monday,,Utah Jazz,Chicago Bulls,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-17,Monday,,Golden State Warriors,Denver Nuggets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-17,Monday,,Phoenix Suns,Toronto Raptors,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-17,Monday,,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-18,Tuesday,,Charlotte Hornets,Atlanta Hawks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-18,Tuesday,,Boston Celtics,Brooklyn Nets,TD Garden,Boston,MA
+basketball,pro,NBA,2025-03-18,Tuesday,,Portland Trail Blazers,Washington Wizards,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-18,Tuesday,,Los Angeles Clippers,Cleveland Cavaliers,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-18,Tuesday,,Los Angeles Lakers,Milwaukee Bucks,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-19,Wednesday,,Indiana Pacers,Dallas Mavericks,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-19,Wednesday,,Orlando Magic,Houston Rockets,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-19,Wednesday,,Miami Heat,Detroit Pistons,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-19,Wednesday,,Minnesota Timberwolves,New Orleans Pelicans,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-19,Wednesday,,Oklahoma City Thunder,Philadelphia 76ers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-19,Wednesday,,San Antonio Spurs,New York Knicks,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-19,Wednesday,,Utah Jazz,Los Angeles Clippers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-19,Wednesday,,Golden State Warriors,Toronto Raptors,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-19,Wednesday,,Los Angeles Lakers,Denver Nuggets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-19,Wednesday,,Phoenix Suns,Chicago Bulls,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-19,Wednesday,,Portland Trail Blazers,Memphis Grizzlies,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-19,Wednesday,,Sacramento Kings,Cleveland Cavaliers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-20,Thursday,,Charlotte Hornets,New York Knicks,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-20,Thursday,,Indiana Pacers,Brooklyn Nets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-20,Thursday,,Golden State Warriors,Milwaukee Bucks,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-03-20,Thursday,,Sacramento Kings,Chicago Bulls,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-21,Friday,,Washington Wizards,Orlando Magic,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-21,Friday,,Miami Heat,Houston Rockets,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-21,Friday,,Minnesota Timberwolves,New Orleans Pelicans,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-21,Friday,,Oklahoma City Thunder,Charlotte Hornets,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-21,Friday,,San Antonio Spurs,Philadelphia 76ers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-21,Friday,,Dallas Mavericks,Detroit Pistons,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-21,Friday,,Utah Jazz,Boston Celtics,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-21,Friday,,Phoenix Suns,Cleveland Cavaliers,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-21,Friday,,Portland Trail Blazers,Denver Nuggets,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-21,Friday,,Los Angeles Clippers,Memphis Grizzlies,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-22,Saturday,,Indiana Pacers,Brooklyn Nets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-22,Saturday,,Atlanta Hawks,Golden State Warriors,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-22,Saturday,,New York Knicks,Washington Wizards,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-22,Saturday,,Sacramento Kings,Milwaukee Bucks,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-22,Saturday,,Los Angeles Lakers,Chicago Bulls,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-03-23,Sunday,,Detroit Pistons,New Orleans Pelicans,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-23,Sunday,,Utah Jazz,Cleveland Cavaliers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-23,Sunday,,Atlanta Hawks,Philadelphia 76ers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-03-23,Sunday,,Miami Heat,Charlotte Hornets,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-23,Sunday,,Portland Trail Blazers,Boston Celtics,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-23,Sunday,,Toronto Raptors,San Antonio Spurs,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-23,Sunday,,Houston Rockets,Denver Nuggets,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-23,Sunday,,Los Angeles Clippers,Oklahoma City Thunder,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-03-24,Monday,,Indiana Pacers,Minnesota Timberwolves,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-24,Monday,,Orlando Magic,Los Angeles Lakers,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-24,Monday,,Washington Wizards,Toronto Raptors,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-24,Monday,,Brooklyn Nets,Dallas Mavericks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-24,Monday,,New Orleans Pelicans,Philadelphia 76ers,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-24,Monday,,Denver Nuggets,Chicago Bulls,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-24,Monday,,Phoenix Suns,Milwaukee Bucks,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-24,Monday,,Sacramento Kings,Boston Celtics,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-25,Tuesday,,Charlotte Hornets,Orlando Magic,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-25,Tuesday,,Detroit Pistons,San Antonio Spurs,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-25,Tuesday,,Miami Heat,Golden State Warriors,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-25,Tuesday,,New York Knicks,Dallas Mavericks,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-25,Tuesday,,Houston Rockets,Atlanta Hawks,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-03-25,Tuesday,,Utah Jazz,Memphis Grizzlies,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-25,Tuesday,,Portland Trail Blazers,Cleveland Cavaliers,Moda Center,Portland,OR
+basketball,pro,NBA,2025-03-25,Tuesday,,Sacramento Kings,Oklahoma City Thunder,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-26,Wednesday,,Philadelphia 76ers,Washington Wizards,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-26,Wednesday,,Brooklyn Nets,Toronto Raptors,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-26,Wednesday,,Indiana Pacers,Los Angeles Lakers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-26,Wednesday,,New York Knicks,Los Angeles Clippers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-26,Wednesday,,Denver Nuggets,Milwaukee Bucks,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-26,Wednesday,,Phoenix Suns,Boston Celtics,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-27,Thursday,,Cleveland Cavaliers,San Antonio Spurs,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-27,Thursday,,Orlando Magic,Dallas Mavericks,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-27,Thursday,,Washington Wizards,Indiana Pacers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-27,Thursday,,Miami Heat,Atlanta Hawks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-03-27,Thursday,,Chicago Bulls,Los Angeles Lakers,United Center,Chicago,IL
+basketball,pro,NBA,2025-03-27,Thursday,,Oklahoma City Thunder,Memphis Grizzlies,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-27,Thursday,,Utah Jazz,Houston Rockets,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-03-27,Thursday,,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-03-28,Friday,,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-03-28,Friday,,Brooklyn Nets,Los Angeles Clippers,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-03-28,Friday,,Toronto Raptors,Charlotte Hornets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-03-28,Friday,,Milwaukee Bucks,New York Knicks,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-28,Friday,,Minnesota Timberwolves,Phoenix Suns,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-28,Friday,,New Orleans Pelicans,Golden State Warriors,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-28,Friday,,Denver Nuggets,Utah Jazz,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-03-29,Saturday,,Orlando Magic,Sacramento Kings,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-29,Saturday,,Washington Wizards,Brooklyn Nets,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-29,Saturday,,Philadelphia 76ers,Miami Heat,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-29,Saturday,,Chicago Bulls,Dallas Mavericks,United Center,Chicago,IL
+basketball,pro,NBA,2025-03-29,Saturday,,Memphis Grizzlies,Los Angeles Lakers,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-29,Saturday,,Oklahoma City Thunder,Indiana Pacers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-29,Saturday,,San Antonio Spurs,Boston Celtics,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-30,Sunday,,Cleveland Cavaliers,Los Angeles Clippers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-03-30,Sunday,,New York Knicks,Portland Trail Blazers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-03-30,Sunday,,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-03-30,Sunday,,Minnesota Timberwolves,Detroit Pistons,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-03-30,Sunday,,New Orleans Pelicans,Charlotte Hornets,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-03-30,Sunday,,San Antonio Spurs,Golden State Warriors,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-03-30,Sunday,,Philadelphia 76ers,Toronto Raptors,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-03-30,Sunday,,Phoenix Suns,Houston Rockets,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-03-31,Monday,,Charlotte Hornets,Utah Jazz,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-03-31,Monday,,Indiana Pacers,Sacramento Kings,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-03-31,Monday,,Orlando Magic,Los Angeles Clippers,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-03-31,Monday,,Washington Wizards,Miami Heat,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-03-31,Monday,,Memphis Grizzlies,Boston Celtics,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-03-31,Monday,,Oklahoma City Thunder,Chicago Bulls,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-03-31,Monday,,Dallas Mavericks,Brooklyn Nets,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-03-31,Monday,,Los Angeles Lakers,Houston Rockets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-04-01,Tuesday,,Atlanta Hawks,Portland Trail Blazers,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-04-01,Tuesday,,New York Knicks,Philadelphia 76ers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-04-01,Tuesday,,Chicago Bulls,Toronto Raptors,United Center,Chicago,IL
+basketball,pro,NBA,2025-04-01,Tuesday,,Memphis Grizzlies,Golden State Warriors,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-04-01,Tuesday,,Milwaukee Bucks,Phoenix Suns,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-04-01,Tuesday,,Denver Nuggets,Minnesota Timberwolves,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-04-02,Wednesday,,Cleveland Cavaliers,New York Knicks,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-04-02,Wednesday,,Indiana Pacers,Charlotte Hornets,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-04-02,Wednesday,,Washington Wizards,Sacramento Kings,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-04-02,Wednesday,,Boston Celtics,Miami Heat,TD Garden,Boston,MA
+basketball,pro,NBA,2025-04-02,Wednesday,,Houston Rockets,Utah Jazz,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-04-02,Wednesday,,Oklahoma City Thunder,Detroit Pistons,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-04-02,Wednesday,,Dallas Mavericks,Atlanta Hawks,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-04-02,Wednesday,,Denver Nuggets,San Antonio Spurs,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-04-02,Wednesday,,Los Angeles Clippers,New Orleans Pelicans,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-04-03,Thursday,,Washington Wizards,Orlando Magic,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-04-03,Thursday,,Brooklyn Nets,Minnesota Timberwolves,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-04-03,Thursday,,Miami Heat,Memphis Grizzlies,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-04-03,Thursday,,Philadelphia 76ers,Milwaukee Bucks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-04-03,Thursday,,Toronto Raptors,Portland Trail Blazers,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-04-03,Thursday,,Los Angeles Lakers,Golden State Warriors,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-04-04,Friday,,Charlotte Hornets,Sacramento Kings,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-04-04,Friday,,Indiana Pacers,Utah Jazz,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-04-04,Friday,,Boston Celtics,Phoenix Suns,TD Garden,Boston,MA
+basketball,pro,NBA,2025-04-04,Friday,,Toronto Raptors,Detroit Pistons,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-04-04,Friday,,Chicago Bulls,Portland Trail Blazers,United Center,Chicago,IL
+basketball,pro,NBA,2025-04-04,Friday,,Houston Rockets,Oklahoma City Thunder,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-04-04,Friday,,San Antonio Spurs,Cleveland Cavaliers,Frost Bank Center,San Antonio,TX
+basketball,pro,NBA,2025-04-04,Friday,,Golden State Warriors,Denver Nuggets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-04-04,Friday,,Los Angeles Clippers,Dallas Mavericks,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-04-04,Friday,,Los Angeles Lakers,New Orleans Pelicans,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-04-05,Saturday,,Atlanta Hawks,New York Knicks,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-04-05,Saturday,,Detroit Pistons,Memphis Grizzlies,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-04-05,Saturday,,Philadelphia 76ers,Minnesota Timberwolves,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-04-05,Saturday,,Miami Heat,Milwaukee Bucks,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-04-05,Saturday,,Los Angeles Clippers,Dallas Mavericks,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-04-06,Sunday,,Charlotte Hornets,Chicago Bulls,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-04-06,Sunday,,Brooklyn Nets,Toronto Raptors,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-04-06,Sunday,,Oklahoma City Thunder,Los Angeles Lakers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-04-06,Sunday,,Atlanta Hawks,Utah Jazz,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-04-06,Sunday,,Boston Celtics,Washington Wizards,TD Garden,Boston,MA
+basketball,pro,NBA,2025-04-06,Sunday,,Cleveland Cavaliers,Sacramento Kings,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-04-06,Sunday,,Portland Trail Blazers,San Antonio Spurs,Moda Center,Portland,OR
+basketball,pro,NBA,2025-04-06,Sunday,,New Orleans Pelicans,Orlando Magic,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-04-06,Sunday,,New York Knicks,Phoenix Suns,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-04-06,Sunday,,Denver Nuggets,Indiana Pacers,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-04-06,Sunday,,Golden State Warriors,Houston Rockets,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-04-07,Monday,,Detroit Pistons,Sacramento Kings,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-04-07,Monday,,Miami Heat,Philadelphia 76ers,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-04-08,Tuesday,,Charlotte Hornets,Memphis Grizzlies,Spectrum Center,Charlotte,NC
+basketball,pro,NBA,2025-04-08,Tuesday,,Cleveland Cavaliers,Chicago Bulls,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-04-08,Tuesday,,Indiana Pacers,Washington Wizards,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-04-08,Tuesday,,Orlando Magic,Atlanta Hawks,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-04-08,Tuesday,,Brooklyn Nets,New Orleans Pelicans,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-04-08,Tuesday,,New York Knicks,Boston Celtics,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-04-08,Tuesday,,Milwaukee Bucks,Minnesota Timberwolves,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-04-08,Tuesday,,Oklahoma City Thunder,Los Angeles Lakers,Paycom Center,Oklahoma City,OK
+basketball,pro,NBA,2025-04-08,Tuesday,,Phoenix Suns,Golden State Warriors,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-04-08,Tuesday,,Los Angeles Clippers,San Antonio Spurs,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-04-09,Wednesday,,Orlando Magic,Boston Celtics,Kia Center,Orlando,FL
+basketball,pro,NBA,2025-04-09,Wednesday,,Washington Wizards,Philadelphia 76ers,Capital One Arena,Washington,DC
+basketball,pro,NBA,2025-04-09,Wednesday,,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-04-09,Wednesday,,Toronto Raptors,Charlotte Hornets,Scotiabank Arena,Toronto,ON
+basketball,pro,NBA,2025-04-09,Wednesday,,Chicago Bulls,Miami Heat,United Center,Chicago,IL
+basketball,pro,NBA,2025-04-09,Wednesday,,Milwaukee Bucks,New Orleans Pelicans,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-04-09,Wednesday,,Utah Jazz,Portland Trail Blazers,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-04-09,Wednesday,,Golden State Warriors,San Antonio Spurs,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-04-09,Wednesday,,Phoenix Suns,Oklahoma City Thunder,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-04-09,Wednesday,,Sacramento Kings,Denver Nuggets,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-04-09,Wednesday,,Los Angeles Clippers,Houston Rockets,Intuit Dome,Los Angeles,CA
+basketball,pro,NBA,2025-04-10,Thursday,,Detroit Pistons,New York Knicks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-04-10,Thursday,,Indiana Pacers,Cleveland Cavaliers,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-04-10,Thursday,,Brooklyn Nets,Atlanta Hawks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-04-10,Thursday,,Memphis Grizzlies,Minnesota Timberwolves,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-04-11,Friday,,Detroit Pistons,Milwaukee Bucks,Little Caesars Arena,Detroit,MI
+basketball,pro,NBA,2025-04-11,Friday,,Indiana Pacers,Orlando Magic,Gainbridge Fieldhouse,Indianapolis,IN
+basketball,pro,NBA,2025-04-11,Friday,,Philadelphia 76ers,Atlanta Hawks,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-04-11,Friday,,Boston Celtics,Charlotte Hornets,TD Garden,Boston,MA
+basketball,pro,NBA,2025-04-11,Friday,,New York Knicks,Cleveland Cavaliers,Madison Square Garden (IV),New York,NY
+basketball,pro,NBA,2025-04-11,Friday,,Chicago Bulls,Washington Wizards,United Center,Chicago,IL
+basketball,pro,NBA,2025-04-11,Friday,,New Orleans Pelicans,Miami Heat,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-04-11,Friday,,Dallas Mavericks,Toronto Raptors,American Airlines Center,Dallas,TX
+basketball,pro,NBA,2025-04-11,Friday,,Denver Nuggets,Memphis Grizzlies,Ball Arena,Denver,CO
+basketball,pro,NBA,2025-04-11,Friday,,Minnesota Timberwolves,Brooklyn Nets,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-04-11,Friday,,Utah Jazz,Oklahoma City Thunder,Delta Center,Salt Lake City,UT
+basketball,pro,NBA,2025-04-11,Friday,,Phoenix Suns,San Antonio Spurs,Footprint Center,Phoenix,AZ
+basketball,pro,NBA,2025-04-11,Friday,,Portland Trail Blazers,Golden State Warriors,Moda Center,Portland,OR
+basketball,pro,NBA,2025-04-11,Friday,,Sacramento Kings,Los Angeles Clippers,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-04-11,Friday,,Los Angeles Lakers,Houston Rockets,Crypto.com Arena,Los Angeles,CA
+basketball,pro,NBA,2025-04-13,Sunday,,Atlanta Hawks,Orlando Magic,State Farm Arena,Atlanta,GA
+basketball,pro,NBA,2025-04-13,Sunday,,Boston Celtics,Charlotte Hornets,TD Garden,Boston,MA
+basketball,pro,NBA,2025-04-13,Sunday,,Brooklyn Nets,New York Knicks,Barclays Center,Brooklyn,NY
+basketball,pro,NBA,2025-04-13,Sunday,,Cleveland Cavaliers,Indiana Pacers,Rocket Mortgage Fieldhouse,Cleveland,OH
+basketball,pro,NBA,2025-04-13,Sunday,,Miami Heat,Washington Wizards,Kaseya Center,Miami,FL
+basketball,pro,NBA,2025-04-13,Sunday,,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,Milwaukee,WI
+basketball,pro,NBA,2025-04-13,Sunday,,Philadelphia 76ers,Chicago Bulls,Wells Fargo Center,Philadelphia,PA
+basketball,pro,NBA,2025-04-13,Sunday,,Golden State Warriors,Los Angeles Clippers,Chase Center,San Francisco,CA
+basketball,pro,NBA,2025-04-13,Sunday,,Houston Rockets,Denver Nuggets,Toyota Center,Houston,TX
+basketball,pro,NBA,2025-04-13,Sunday,,Memphis Grizzlies,Dallas Mavericks,FedEx Forum,Memphis,TN
+basketball,pro,NBA,2025-04-13,Sunday,,Minnesota Timberwolves,Utah Jazz,Target Center,Minneapolis,MN
+basketball,pro,NBA,2025-04-13,Sunday,,New Orleans Pelicans,Oklahoma City Thunder,Smoothie King Center,New Orleans,LA
+basketball,pro,NBA,2025-04-13,Sunday,,Portland Trail Blazers,Los Angeles Lakers,Moda Center,Portland,OR
+basketball,pro,NBA,2025-04-13,Sunday,,Sacramento Kings,Phoenix Suns,Golden 1 Center,Sacramento,CA
+basketball,pro,NBA,2025-04-13,Sunday,,San Antonio Spurs,Toronto Raptors,Frost Bank Center,San Antonio,TX

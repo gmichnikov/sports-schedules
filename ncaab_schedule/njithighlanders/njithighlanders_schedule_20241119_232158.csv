@@ -1,0 +1,35 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2025-01-09,Thursday,19:00:00,New Jersey Institute of Technology,UMBC,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-01-11,Saturday,13:00:00,UMass Lowell,New Jersey Institute of Technology,"Lowell, MA",Lowell,MA
+basketball,college,ncaab,2025-01-16,Thursday,11:00:00,New Jersey Institute of Technology,Maine,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-01-18,Saturday,15:00:00,New Jersey Institute of Technology,New Hampshire,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-01-23,Thursday,19:00:00,Vermont,New Jersey Institute of Technology,"Burlington, VT",Burlington,VT
+basketball,college,ncaab,2025-01-25,Saturday,16:00:00,UAlbany,New Jersey Institute of Technology,"Albany, NY",Albany,NY
+basketball,college,ncaab,2025-01-30,Thursday,19:00:00,New Jersey Institute of Technology,UMass Lowell,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-02-06,Thursday,18:00:00,Maine,New Jersey Institute of Technology,"Orono, ME",Orono,ME
+basketball,college,ncaab,2025-02-01,Saturday,14:00:00,New Jersey Institute of Technology,Bryant,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-02-08,Saturday,13:00:00,New Hampshire,New Jersey Institute of Technology,"Durham, NH",Durham,NH
+basketball,college,ncaab,2025-02-13,Thursday,18:00:00,Bryant,New Jersey Institute of Technology,"Smithfield, RI",Smithfield,RI
+basketball,college,ncaab,2025-02-15,Saturday,14:00:00,New Jersey Institute of Technology,Binghamton,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-02-22,Saturday,12:00:00,UMBC,New Jersey Institute of Technology,"Baltimore, MD",Baltimore,MD
+basketball,college,ncaab,2025-02-27,Thursday,19:00:00,New Jersey Institute of Technology,Vermont,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-03-01,Saturday,14:00:00,New Jersey Institute of Technology,UAlbany,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2025-03-04,Tuesday,18:07:00,Binghamton,New Jersey Institute of Technology,"Vestal, NY",Vestal,NY
+basketball,college,ncaab,2025-03-08,Saturday,00:00:00,America East Quarterfinals,New Jersey Institute of Technology,TBD,,
+basketball,college,ncaab,2025-03-11,Tuesday,00:00:00,America East Semifinals,New Jersey Institute of Technology,TBD,,
+basketball,college,ncaab,2025-03-15,Saturday,00:00:00,America East Finals,New Jersey Institute of Technology,TBD,,
+basketball,college,ncaab,2024-11-04,Monday,19:00:00,New Jersey Institute of Technology,Penn,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2024-11-08,Friday,20:30:00,Villanova,New Jersey Institute of Technology,"Villanova, PA",Villanova,PA
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,New Jersey Institute of Technology,Loyola (Md.),Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2024-11-16,Saturday,11:00:00,Morgan State,New Jersey Institute of Technology,"Baltimore, MD",,
+basketball,college,ncaab,2024-11-18,Monday,19:00:00,George Washington,New Jersey Institute of Technology,"Washington, D.C",Washington,DC
+basketball,college,ncaab,2024-11-21,Thursday,19:00:00,Bucknell,New Jersey Institute of Technology,"Lewisburg, PA",Lewisburg,PA
+basketball,college,ncaab,2024-11-26,Tuesday,18:00:00,Cleveland State,New Jersey Institute of Technology,"Cleveland, OH",,
+basketball,college,ncaab,2024-11-27,Wednesday,16:00:00,New Jersey Institute of Technology,Morehead State,"Cleveland, OH",Newark,NJ
+basketball,college,ncaab,2024-12-01,Sunday,12:00:00,UMass,New Jersey Institute of Technology,"Amherst, MA",,
+basketball,college,ncaab,2024-12-04,Wednesday,20:30:00,Seton Hall,New Jersey Institute of Technology,"Newark, NJ",South Orange,NJ
+basketball,college,ncaab,2024-12-07,Saturday,14:00:00,New Jersey Institute of Technology,Navy,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2024-12-11,Wednesday,19:00:00,Delaware State,New Jersey Institute of Technology,"Dover, DE",,
+basketball,college,ncaab,2024-12-14,Saturday,16:00:00,New Jersey Institute of Technology,Wagner,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ
+basketball,college,ncaab,2024-12-29,Sunday,15:00:00,Washington,New Jersey Institute of Technology,"Seattle, WA",,
+basketball,college,ncaab,2025-01-04,Saturday,14:00:00,New Jersey Institute of Technology,Medgar Evers,Joel & Diane Bloom Wellness and Events Center (WEC),Newark,NJ

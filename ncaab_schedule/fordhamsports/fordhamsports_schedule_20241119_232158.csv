@@ -1,0 +1,34 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,18:30:00,St. John's,Fordham University,"Queens, N.Y. / Carnesecca Arena",Queens,NY
+basketball,college,ncaab,2024-11-25,Monday,16:00:00,Fordham University,Penn State,"Daytona Beach, Fla. / Ocean Center",Bronx,NY
+basketball,college,ncaab,2024-12-14,Saturday,14:30:00,Fordham University,Bryant,"Uncasville, Conn. / Mohegan Sun Arena",Bronx,NY
+basketball,college,ncaab,2024-11-09,Saturday,12:00:00,Seton Hall,Fordham University,"South Orange, N.J. / Walsh Gym",South Orange,NJ
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Fordham University,Binghamton,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-11-15,Friday,19:00:00,Manhattan,Fordham University,"Riverdale, N.Y. / Draddy Gymnasium",New York,NY
+basketball,college,ncaab,2024-11-19,Tuesday,19:00:00,Fordham University,Georgian Court,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-11-22,Friday,19:00:00,Fordham University,Drexel,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-12-01,Sunday,14:00:00,Fordham University,New Hampshire,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-12-04,Wednesday,19:00:00,Fordham University,FDU,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-12-08,Sunday,12:00:00,Fordham University,Maine,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-12-21,Saturday,14:00:00,Fordham University,UAlbany,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-12-31,Tuesday,14:00:00,Fordham University,Saint Louis,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-01-04,Saturday,14:00:00,Fordham University,St. Bonaventure,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-01-08,Wednesday,19:00:00,VCU,Fordham University,"Richmond, Va.",,
+basketball,college,ncaab,2025-01-11,Saturday,14:00:00,Davidson,Fordham University,"Davidson, N.C.",Davidson,NC
+basketball,college,ncaab,2025-01-15,Wednesday,19:00:00,Fordham University,Massachusetts,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-01-22,Wednesday,20:00:00,Loyola Chicago,Fordham University,"Chicago, Ill.",,
+basketball,college,ncaab,2025-01-26,Sunday,12:00:00,Fordham University,Duquesne,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-01-29,Wednesday,19:00:00,La Salle,Fordham University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2025-02-01,Saturday,12:30:00,St. Bonaventure,Fordham University,"St. Bonaventure, N.Y.",St. Bonaventure,NY
+basketball,college,ncaab,2025-02-05,Wednesday,19:00:00,Fordham University,Rhode Island,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-02-12,Wednesday,19:00:00,Fordham University,Dayton,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-02-15,Saturday,18:00:00,Richmond,Fordham University,"Richmond, Va.",,
+basketball,college,ncaab,2025-02-19,Wednesday,19:00:00,Duquesne,Fordham University,"Pittsburgh, Pa.",Pittsburgh,PA
+basketball,college,ncaab,2025-02-22,Saturday,14:00:00,Fordham University,Davidson,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-02-26,Wednesday,19:00:00,George Mason,Fordham University,"Fairfax, Va.",Fairfax,VA
+basketball,college,ncaab,2025-03-01,Saturday,12:00:00,Fordham University,Saint Joseph's,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-03-05,Wednesday,19:00:00,Fordham University,George Washington,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Rhode Island,Fordham University,"Kingston, R.I.",Kingston,RI
+basketball,college,ncaab,2025-03-12,Wednesday,00:00:00,Fordham University,Atlantic 10 Championship,"Washington, D.C. / Capital One Arena",Bronx,NY
+basketball,college,ncaab,2024-10-19,Saturday,14:00:00,Fordham University,Holy Cross,Rose Hill Gym,Bronx,NY
+basketball,college,ncaab,2024-10-27,Sunday,14:00:00,Fordham University,UMBC,Rose Hill Gym,Bronx,NY

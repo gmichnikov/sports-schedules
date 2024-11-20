@@ -1,0 +1,27 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,20:00:00,Yale University,Quinnipiac,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-11-08,Friday,20:00:00,UIC,Yale University,"Chicago, IL",,
+basketball,college,ncaab,2024-11-11,Monday,20:00:00,Purdue,Yale University,"West Lafayette, Ind.",West Lafayette,IN
+basketball,college,ncaab,2024-11-13,Wednesday,19:00:00,Yale University,Emerson,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-11-16,Saturday,16:00:00,Minnesota,Yale University,"Minneapolis, Minn.",Minneapolis,MN
+basketball,college,ncaab,2024-11-20,Wednesday,18:30:00,Stony Brook,Yale University,"Stony Brook, N,Y.",Stony Brook,NY
+basketball,college,ncaab,2024-11-23,Saturday,14:30:00,Yale University,Fairfield,"Mohegan Sun Arena/Uncasville, Conn.",New Haven,CT
+basketball,college,ncaab,2024-11-24,Sunday,17:30:00,Yale University,Delaware,"Mohegan Sun Arena/Uncasville, Conn.",New Haven,CT
+basketball,college,ncaab,2024-12-02,Monday,19:00:00,Rhode Island,Yale University,"Kingston, R.I.",Kingston,RI
+basketball,college,ncaab,2024-12-07,Saturday,14:00:00,Yale University,Vermont,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2024-12-20,Friday,17:00:00,Yale University,Akron,"El Paso, Texas",New Haven,CT
+basketball,college,ncaab,2025-01-01,Wednesday,13:00:00,Yale University,Howard,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-01-11,Saturday,12:00:00,Yale University,Brown,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-01-18,Saturday,14:00:00,Columbia,Yale University,"New York, N.Y.",New York,NY
+basketball,college,ncaab,2025-01-20,Monday,14:00:00,Yale University,Dartmouth,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-01-25,Saturday,14:00:00,Yale University,Harvard,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-01-31,Friday,17:00:00,Princeton,Yale University,"Princeton, N.J.",Princeton,NJ
+basketball,college,ncaab,2025-02-01,Saturday,18:00:00,Penn,Yale University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2025-02-08,Saturday,14:00:00,Cornell,Yale University,"Ithaca, N.Y.",Ithaca,NY
+basketball,college,ncaab,2025-02-14,Friday,19:00:00,Yale University,Penn,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-02-15,Saturday,20:00:00,Yale University,Princeton,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-02-21,Friday,19:00:00,Yale University,Cornell,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-02-22,Saturday,19:00:00,Yale University,Columbia,John J. Lee Amphitheater,New Haven,CT
+basketball,college,ncaab,2025-02-28,Friday,17:00:00,Dartmouth,Yale University,"Hanover, N.H.",Hanover,NH
+basketball,college,ncaab,2025-03-01,Saturday,16:00:00,Harvard,Yale University,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Brown,Yale University,"Providence, R.I.",Providence,RI
