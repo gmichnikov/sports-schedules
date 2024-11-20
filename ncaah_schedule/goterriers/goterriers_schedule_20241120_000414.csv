@@ -1,0 +1,37 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+ice-hockey,college,ncaah,2024-10-05,Saturday,19:00:00,Boston University,Holy Cross,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-10-12,Saturday,19:00:00,Boston University,Union,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-10-18,Friday,19:00:00,Boston University,UConn,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-10-19,Saturday,19:00:00,Boston University,Harvard (exh.),Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-10-25,Friday,20:07:00,North Dakota,Boston University,"Grand Forks, ND",Grand Forks,ND
+ice-hockey,college,ncaah,2024-10-26,Saturday,19:07:00,North Dakota,Boston University,"Grand Forks, ND",Grand Forks,ND
+ice-hockey,college,ncaah,2024-11-01,Friday,19:00:00,Boston University,Michigan,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-11-02,Saturday,19:00:00,Boston University,Michigan,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-11-08,Friday,19:00:00,Boston University,UMass Lowell,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-11-09,Saturday,18:05:00,UMass Lowell,Boston University,"Lowell, MA",Lowell,MA
+ice-hockey,college,ncaah,2024-11-15,Friday,19:00:00,Maine,Boston University,"Orono, ME",Orono,ME
+ice-hockey,college,ncaah,2024-11-16,Saturday,19:00:00,Maine,Boston University,"Orono, ME",Orono,ME
+ice-hockey,college,ncaah,2024-11-22,Friday,19:00:00,Boston University,Merrimack,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-12-07,Saturday,18:00:00,Boston University,UMass,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-12-11,Wednesday,19:00:00,UMass,Boston University,"Amherst, MA",Amherst,MA
+ice-hockey,college,ncaah,2024-12-13,Friday,19:00:00,Boston University,U.S. Under-18 Team (exh.),Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2024-12-29,Sunday,16:00:00,Yale,Boston University,"New Haven, CT",New Haven,CT
+ice-hockey,college,ncaah,2025-01-10,Friday,19:00:00,Boston University,Vermont,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-01-11,Saturday,17:00:00,Boston University,Vermont,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-01-17,Friday,19:00:00,New Hampshire,Boston University,"Durham, NH",Durham,NH
+ice-hockey,college,ncaah,2025-01-18,Saturday,18:00:00,Boston University,New Hampshire,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-01-31,Friday,19:00:00,Boston University,New Hampshire,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-01-24,Friday,19:00:00,Boston University,Boston College,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-01-25,Saturday,19:00:00,Boston College,Boston University,"Chestnut Hill, MA",Chestnut Hill,MA
+ice-hockey,college,ncaah,2025-02-03,Monday,00:00:00,Boston University,Harvard,"Boston, MA (TD Garden)",Boston,MA
+ice-hockey,college,ncaah,2025-02-10,Monday,00:00:00,Boston University,Boston College/Northeastern,"Boston, MA (TD Garden)",Boston,MA
+ice-hockey,college,ncaah,2025-02-14,Friday,19:00:00,Providence,Boston University,"Providence, RI",Providence,RI
+ice-hockey,college,ncaah,2025-02-15,Saturday,19:00:00,Boston University,Providence,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-02-21,Friday,19:00:00,Boston University,Northeastern,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-02-22,Saturday,19:00:00,Northeastern,Boston University,"Boston, MA",Boston,MA
+ice-hockey,college,ncaah,2025-02-25,Tuesday,19:00:00,UConn,Boston University,"Storrs, CT",Storrs,CT
+ice-hockey,college,ncaah,2025-03-06,Thursday,19:00:00,Boston University,Providence,Agganis Arena,Boston,MA
+ice-hockey,college,ncaah,2025-03-08,Saturday,19:00:00,Vermont,Boston University,"Burlington, VT",Burlington,VT
+ice-hockey,college,ncaah,2025-02-07,Friday,19:00:00,Merrimack,Boston University,"North Andover, MA",North Andover,MA
+ice-hockey,college,ncaah,2024-11-29,Friday,09:00:00,Boston University,Merrimack,"Belfast, Northern Ireland",Boston,MA
+ice-hockey,college,ncaah,2024-11-30,Saturday,00:00:00,Boston University,Harvard/Notre Dame,"Belfast, Northern Ireland",Boston,MA

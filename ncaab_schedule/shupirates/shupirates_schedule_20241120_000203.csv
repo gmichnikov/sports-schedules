@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,7:30 p.m.,Seton Hall University,Saint Peter's,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-11-09,Saturday,12 p.m.,Seton Hall University,Fordham,"South Orange, N.J. (Walsh Gymnasium)",South Orange,NJ
+basketball,college,ncaab,2024-11-13,Wednesday,8 p.m.,Seton Hall University,Hofstra,"Uniondale, N.Y.",South Orange,NJ
+basketball,college,ncaab,2024-11-16,Saturday,12 p.m.,Seton Hall University,Wagner,"South Orange, N.J. (Walsh Gymnasium)",South Orange,NJ
+basketball,college,ncaab,2024-11-21,Thursday,5 p.m.,Seton Hall University,VCU,"Charleston, S.C.",South Orange,NJ
+basketball,college,ncaab,2024-11-22,Friday,5 or 7:30 p.m.,Seton Hall University,TBD,"Charleston, S.C.",South Orange,NJ
+basketball,college,ncaab,2024-11-24,Sunday,TBA,Seton Hall University,TBD,"Charleston, S.C.",South Orange,NJ
+basketball,college,ncaab,2024-11-30,Saturday,12 p.m.,Seton Hall University,Monmouth,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-12-04,Wednesday,8:30 p.m.,Seton Hall University,NJIT,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-12-08,Sunday,12 p.m.,Seton Hall University,Oklahoma State,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-12-14,Saturday,3 p.m.,Rutgers,Seton Hall University,"Piscataway, N.J.",New Brunswick,NJ
+basketball,college,ncaab,2024-12-17,Tuesday,7:30 p.m.,Villanova,Seton Hall University,"Villanova, Pa.",Villanova,PA
+basketball,college,ncaab,2024-12-22,Sunday,7 p.m.,Seton Hall University,Georgetown,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2024-12-31,Tuesday,2 p.m.,Xavier,Seton Hall University,"Cincinnati, OH",Cincinnati,OH
+basketball,college,ncaab,2025-01-08,Wednesday,6:30 p.m.,Seton Hall University,DePaul,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-01-11,Saturday,5 p.m.,Providence,Seton Hall University,"Providence, RI",Providence,RI
+basketball,college,ncaab,2025-01-15,Wednesday,7 p.m.,Butler,Seton Hall University,"Indianapolis, IN",Indianapolis,IN
+basketball,college,ncaab,2025-01-18,Saturday,8 p.m.,Seton Hall University,St. John's,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-01-21,Tuesday,8 p.m.,Seton Hall University,Marquette,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-01-25,Saturday,1:30 p.m.,Creighton,Seton Hall University,"Omaha, NE",Omaha,NE
+basketball,college,ncaab,2025-01-28,Tuesday,7 p.m.,Seton Hall University,Providence,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-02-02,Sunday,6 p.m.,DePaul,Seton Hall University,"Chicago, IL",Chicago,IL
+basketball,college,ncaab,2025-02-05,Wednesday,6:30 p.m.,Seton Hall University,Butler,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-02-08,Saturday,12 p.m.,Georgetown,Seton Hall University,"Washington, DC",Washington,DC
+basketball,college,ncaab,2025-02-15,Saturday,2:30 p.m.,Seton Hall University,UConn,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-02-18,Tuesday,8 p.m.,Marquette,Seton Hall University,"Milwaukee, WI",Milwaukee,WI
+basketball,college,ncaab,2025-02-23,Sunday,2 p.m.,Seton Hall University,Xavier,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-02-26,Wednesday,8:30 p.m.,Seton Hall University,Villanova,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-03-01,Saturday,2:15 p.m.,St. John's,Seton Hall University,"Queens, N.Y.",Queens,NY
+basketball,college,ncaab,2025-03-04,Tuesday,7 p.m.,Seton Hall University,Creighton,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-03-08,Saturday,TBD,UConn,Seton Hall University,"Storrs, CT",Storrs,CT

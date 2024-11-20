@@ -1,0 +1,32 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,7:00 PM,Princeton University,Iona,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-11-08,Friday,8:30 PM,Princeton University,Duquesne,"Trenton, N.J. (CURE Insurance Arena)",Princeton,NJ
+basketball,college,ncaab,2024-11-10,Sunday,2:00 PM,Northeastern,Princeton University,"Boston, Mass. (Matthews Arena)",Boston,MA
+basketball,college,ncaab,2024-11-15,Friday,7:00 PM,Princeton University,Loyola,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-11-17,Sunday,1:00 PM,Merrimack,Princeton University,"North Andover, Mass. (Lawler Arena)",North Andover,MA
+basketball,college,ncaab,2024-11-21,Thursday,8:00 PM,Princeton University,Wright State,"Conway, S.C. (HTC Center)",Princeton,NJ
+basketball,college,ncaab,2024-11-22,Friday,TBA,Princeton University,TBA,Conway. S.C. (HTC Center),Princeton,NJ
+basketball,college,ncaab,2024-11-24,Sunday,TBA,Princeton University,TBA,Conway. S.C. (HTC Center),Princeton,NJ
+basketball,college,ncaab,2024-11-27,Wednesday,4:00 PM,Princeton University,Nazareth,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-03,Tuesday,7:00 PM,Saint Joseph's,Princeton University,"Philadelphia, Pa. (Hagan Arena)",Philadelphia,PA
+basketball,college,ncaab,2024-12-07,Saturday,12:00 PM,Furman,Princeton University,"Greenville, S.C. (Timmons Arena)",Greenville,SC
+basketball,college,ncaab,2024-12-10,Tuesday,7:00 PM,Princeton University,Monmouth,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2024-12-21,Saturday,12:00 PM,Princeton University,Rutgers,"Newark, N.J. (Prudential Center)",Princeton,NJ
+basketball,college,ncaab,2024-12-30,Monday,1:00 PM,Princeton University,Akron,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-04,Saturday,11:30 AM,Princeton University,Kean,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-11,Saturday,2:00 PM,Harvard,Princeton University,"Cambridge, Mass. (Lavietes Pavilion)",Cambridge,MA
+basketball,college,ncaab,2025-01-18,Saturday,2:00 PM,Dartmouth,Princeton University,"Hanover, N.H. (Leede Arena)",Hanover,NH
+basketball,college,ncaab,2025-01-20,Monday,2:00 PM,Princeton University,Columbia,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-25,Saturday,2:00 PM,Princeton University,Cornell,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-01-31,Friday,5:00 PM,Princeton University,Yale,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-01,Saturday,5:00 PM,Princeton University,Brown,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-07,Friday,7:00 PM,Penn,Princeton University,"Philadelphia, Pa. (The Palestra)",Philadelphia,PA
+basketball,college,ncaab,2025-02-14,Friday,7:00 PM,Brown,Princeton University,"Providence, R.I. (Pizzitola Sports Center)",Providence,RI
+basketball,college,ncaab,2025-02-15,Saturday,8:00 PM,Yale,Princeton University,"New Haven, Conn. (John J. Lee Amphitheater)",New Haven,CT
+basketball,college,ncaab,2025-02-21,Friday,7:00 PM,Princeton University,Harvard,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-22,Saturday,8:00 PM,Princeton University,Dartmouth,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-02-28,Friday,7:00 PM,Columbia,Princeton University,"New York, N.Y. (Levien Gymnasium)",New York,NY
+basketball,college,ncaab,2025-03-02,Sunday,2:00 PM,Cornell,Princeton University,"Ithaca, N.Y. (Newman Arena )",Ithaca,NY
+basketball,college,ncaab,2025-03-08,Saturday,2:00 PM,Princeton University,Penn,"Princeton, N.J. (Jadwin Gymnasium)",Princeton,NJ
+basketball,college,ncaab,2025-03-15,Saturday,TBA,Princeton University,Ivy Tournament Semifinal,"Providence, R.I. (Pizzitola Sports Center)",Princeton,NJ
+basketball,college,ncaab,2025-03-16,Sunday,TBA,Princeton University,Ivy Tournament Final,"Providence, R.I. (Pizzitola Sports Center)",Princeton,NJ

@@ -1,0 +1,27 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-15,Friday,20:00:00,University of Pennsylvania,Saint Joseph's,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-11-19,Tuesday,19:00:00,Villanova,University of Pennsylvania,"Villanova, Pa.",Villanova,PA
+basketball,college,ncaab,2024-11-04,Monday,19:00:00,NJIT,University of Pennsylvania,"Newark, N.J.",Newark,NJ
+basketball,college,ncaab,2024-11-07,Thursday,19:00:00,University of Pennsylvania,UMES,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-11-29,Friday,16:30:00,University of Pennsylvania,Navy,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-11-30,Saturday,16:30:00,University of Pennsylvania,Maine,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-12-01,Sunday,14:30:00,University of Pennsylvania,Elon,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Lafayette,University of Pennsylvania,"Easton, Pa.",Easton,PA
+basketball,college,ncaab,2024-12-09,Monday,19:00:00,VCU,University of Pennsylvania,"Richmond, Va.",Richmond,VA
+basketball,college,ncaab,2024-12-20,Friday,18:00:00,University of Pennsylvania,Rider,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2024-12-22,Sunday,14:00:00,George Mason,University of Pennsylvania,"Fairfax, Va.",Fairfax,VA
+basketball,college,ncaab,2024-12-29,Sunday,13:00:00,Penn State,University of Pennsylvania,"University Park, Pa.",University Park,PA
+basketball,college,ncaab,2025-01-11,Saturday,14:00:00,Dartmouth,University of Pennsylvania,"Hanover, N.H.",Hanover,NH
+basketball,college,ncaab,2025-01-18,Saturday,14:00:00,University of Pennsylvania,Cornell,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-01-20,Monday,14:00:00,Harvard,University of Pennsylvania,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2025-01-25,Saturday,14:00:00,University of Pennsylvania,Columbia,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-01-31,Friday,19:00:00,University of Pennsylvania,Brown,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-02-01,Saturday,18:00:00,University of Pennsylvania,Yale,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-02-07,Friday,19:00:00,University of Pennsylvania,Princeton,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-02-14,Friday,19:00:00,Yale,University of Pennsylvania,"New Haven, Conn.",New Haven,CT
+basketball,college,ncaab,2025-02-15,Saturday,18:00:00,Brown,University of Pennsylvania,"Providence, R.I.",Providence,RI
+basketball,college,ncaab,2025-02-21,Friday,19:00:00,University of Pennsylvania,Dartmouth,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-02-22,Saturday,18:00:00,University of Pennsylvania,Harvard,The Palestra,Philadelphia,PA
+basketball,college,ncaab,2025-02-28,Friday,19:00:00,Cornell,University of Pennsylvania,"Ithaca, N.Y.",Ithaca,NY
+basketball,college,ncaab,2025-03-01,Saturday,19:00:00,Columbia,University of Pennsylvania,"New York, N.Y.",New York,NY
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Princeton,University of Pennsylvania,"Princeton, N.J.",Princeton,NJ

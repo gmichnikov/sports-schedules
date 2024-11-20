@@ -1,0 +1,39 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+ice-hockey,college,ncaah,2024-10-18,Friday,19:00:00,Harvard University,U.S. NTDP,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2024-10-19,Saturday,19:00:00,Boston University,Harvard University,"Boston, MA",Boston,MA
+ice-hockey,college,ncaah,2024-11-01,Friday,19:00:00,Harvard University,Dartmouth College,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2024-11-08,Friday,19:00:00,Princeton University,Harvard University,"Princeton, NJ",Princeton,NJ
+ice-hockey,college,ncaah,2024-11-09,Saturday,19:00:00,Quinnipiac University,Harvard University,"Hamden, CT",Hamden,CT
+ice-hockey,college,ncaah,2024-11-15,Friday,19:00:00,Harvard University,Colgate University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2024-11-16,Saturday,19:00:00,Harvard University,Cornell University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2024-11-22,Friday,19:00:00,University of Massachusetts,Harvard University,"Amherst, MA",Amherst,MA
+ice-hockey,college,ncaah,2024-11-29,Friday,15:00:00,Harvard University,University of Notre Dame,"Belfast, Northern Ireland ",Cambridge,MA
+ice-hockey,college,ncaah,2024-11-30,Saturday,00:00:00,Harvard University,BU / Merrimack,"Belfast, Northern Ireland ",Cambridge,MA
+ice-hockey,college,ncaah,2024-12-06,Friday,19:00:00,Harvard University,Clarkson University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2024-12-07,Saturday,19:00:00,Harvard University,St. Lawrence University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-01-01,Wednesday,19:00:00,Harvard University,Quinnipiac University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-01-04,Saturday,19:00:00,Harvard University,University of Connecticut,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-01-10,Friday,19:00:00,Harvard University,Brown University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-01-11,Saturday,19:00:00,Harvard University,Yale University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-01-14,Tuesday,19:00:00,Boston College,Harvard University,"Chestnut Hill, MA",Chestnut Hill,MA
+ice-hockey,college,ncaah,2025-01-17,Friday,19:00:00,Rensselaer Polytechnic Institute,Harvard University,"Troy, NY",Troy,NY
+ice-hockey,college,ncaah,2025-01-18,Saturday,16:00:00,Union College,Harvard University,"Schenectady, NY",Schenectady,NY
+ice-hockey,college,ncaah,2025-01-24,Friday,19:00:00,Cornell University,Harvard University,"Ithaca, NY",Ithaca,NY
+ice-hockey,college,ncaah,2025-01-25,Saturday,19:00:00,Colgate University,Harvard University,"Hamilton, NY",Hamilton,NY
+ice-hockey,college,ncaah,2025-01-31,Friday,19:00:00,Harvard University,Princeton University,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-02-03,Monday,19:00:00,Harvard University,Boston University,T.D. Garden,Cambridge,MA
+ice-hockey,college,ncaah,2025-02-07,Friday,19:00:00,Dartmouth College,Harvard University,"Hanover, NH",Hanover,NH
+ice-hockey,college,ncaah,2025-02-10,Monday,00:00:00,Harvard University,BC / Northeastern,T.D. Garden,Cambridge,MA
+ice-hockey,college,ncaah,2025-02-14,Friday,19:00:00,St. Lawrence University,Harvard University,"Canton, NY",Canton,NY
+ice-hockey,college,ncaah,2025-02-15,Saturday,16:00:00,Clarkson University,Harvard University,"Potsdam, NY",Potsdam,NY
+ice-hockey,college,ncaah,2025-02-21,Friday,19:00:00,Harvard University,Union College,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-02-22,Saturday,19:00:00,Harvard University,Rensselaer Polytechnic Institute,Bright-Landry Hockey Center,Cambridge,MA
+ice-hockey,college,ncaah,2025-03-01,Saturday,19:00:00,Brown University,Harvard University,"Providence, RI",Providence,RI
+ice-hockey,college,ncaah,2025-02-28,Friday,19:00:00,Yale University,Harvard University,"New Haven, CT",New Haven,CT
+ice-hockey,college,ncaah,2025-03-07,Friday,00:00:00,ECAC Hockey First Round,Harvard University,Campus Sites,,
+ice-hockey,college,ncaah,2025-03-14,Friday,00:00:00,ECAC Hockey Quarterfinals,Harvard University,Campus Sites,,
+ice-hockey,college,ncaah,2025-03-21,Friday,00:00:00,Harvard University,ECAC Hockey Semifinals,"Lake Placid, NY",Cambridge,MA
+ice-hockey,college,ncaah,2025-03-22,Saturday,00:00:00,Harvard University,ECAC Hockey Finals,"Lake Placid, NY",Cambridge,MA
+ice-hockey,college,ncaah,2025-03-27,Thursday,00:00:00,Harvard University,NCAA Regionals,TBA,Cambridge,MA
+ice-hockey,college,ncaah,2025-04-10,Thursday,00:00:00,Harvard University,NCAA Tournament Semifinals,"St. Louis, MO ",Cambridge,MA
+ice-hockey,college,ncaah,2025-04-12,Saturday,00:00:00,Harvard University,NCAA Tournament Finals,"St. Louis, MO ",Cambridge,MA

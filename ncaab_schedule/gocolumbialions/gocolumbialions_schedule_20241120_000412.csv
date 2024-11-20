@@ -1,0 +1,30 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,19:00:00,Loyola (Md.),Columbia University,"Baltimore, Md.",Baltimore,MD
+basketball,college,ncaab,2024-11-09,Saturday,14:00:00,Columbia University,Delaware State,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Columbia University,Lehigh,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-11-16,Saturday,12:00:00,Columbia University,Mercyhurst,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-11-20,Wednesday,19:00:00,LIU,Columbia University,"Brooklyn, N.Y.",Brooklyn,NY
+basketball,college,ncaab,2024-11-23,Saturday,19:00:00,Columbia University,Stony Brook,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-11-25,Monday,19:00:00,Columbia University,New Hampshire,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-11-06,Wednesday,19:00:00,Villanova,Columbia University,"Villanova, Pa.",Villanova,PA
+basketball,college,ncaab,2024-12-04,Wednesday,18:30:00,UAlbany,Columbia University,"Albany, N.Y.",Albany,NY
+basketball,college,ncaab,2024-12-07,Saturday,14:00:00,Columbia University,United States Merchant Marine Academy,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-12-09,Monday,19:00:00,Columbia University,Sarah Lawrence,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-12-28,Saturday,16:00:00,Columbia University,Fairfield,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2024-12-30,Monday,17:00:00,Rutgers,Columbia University,"Piscataway, N.J.",New Brunswick,NJ
+basketball,college,ncaab,2025-01-11,Saturday,14:00:00,Columbia University,Cornell,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-01-18,Saturday,14:00:00,Columbia University,Yale,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-01-20,Monday,14:00:00,Princeton,Columbia University,"Princeton, N.J.",Princeton,NJ
+basketball,college,ncaab,2025-01-25,Saturday,14:00:00,Penn,Columbia University,"Philadelphia, Pa.",Philadelphia,PA
+basketball,college,ncaab,2025-01-31,Friday,19:00:00,Columbia University,Harvard,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-02-01,Saturday,18:00:00,Columbia University,Dartmouth,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-02-08,Saturday,14:00:00,Columbia University,Brown,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-02-14,Friday,18:00:00,Dartmouth,Columbia University,"Hanover, N.H.",Hanover,NH
+basketball,college,ncaab,2025-02-15,Saturday,18:00:00,Harvard,Columbia University,"Cambridge, Mass.",Cambridge,MA
+basketball,college,ncaab,2025-02-21,Friday,19:00:00,Brown,Columbia University,"Providence, R.I.",Providence,RI
+basketball,college,ncaab,2025-02-22,Saturday,19:00:00,Yale,Columbia University,"New Haven, Conn.",New Haven,CT
+basketball,college,ncaab,2025-02-28,Friday,19:00:00,Columbia University,Princeton,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-03-01,Saturday,18:00:00,Columbia University,Penn,SCHILLER COURT AT LEVIEN GYMNASIUM,New York,NY
+basketball,college,ncaab,2025-03-08,Saturday,14:00:00,Cornell,Columbia University,"Ithaca, N.Y.",Ithaca,NY
+basketball,college,ncaab,2025-03-15,Saturday,00:00:00,Columbia University,Ivy League Semifinals,"Providence, R.I.",New York,NY
+basketball,college,ncaab,2025-03-16,Sunday,00:00:00,Columbia University,Ivy League Final,"Providence, R.I.",New York,NY

@@ -1,0 +1,35 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-10-17,Thursday,6:30 p.m.,No. 25 Rutgers (Exh.),St. John's University,"Piscataway, N.J. (Jersey Mike's Arena)",,
+basketball,college,ncaab,2024-10-26,Saturday,12 p.m.,St. John's University,Towson (Exh.),"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-11-04,Monday,6:30 p.m.,St. John's University,Fordham,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-11-09,Saturday,2 p.m.,St. John's University,Quinnipiac,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-11-13,Wednesday,6:30 p.m.,St. John's University,Wagner,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-11-17,Sunday,12 p.m.,St. John's University,New Mexico,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2024-11-21,Thursday,7 p.m.,St. John's University,No. 13/15 Baylor,"Nassau, Bahamas (Baha Mar Convention, Arts & Entertainment Center)",Queens,NY
+basketball,college,ncaab,2024-11-22,Friday,7/9:30 p.m.,St. John's University,No. 11/9 Tennessee/Virginia,"Nassau, Bahamas (Baha Mar Convention, Arts & Entertainment Center)",Queens,NY
+basketball,college,ncaab,2024-11-24,Sunday,11 a.m.,St. John's University,Georgia,"Paradise Island, Bahamas (Imperial Arena)",Queens,NY
+basketball,college,ncaab,2024-11-30,Saturday,5 p.m.,St. John's University,Harvard,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-12-07,Saturday,11:30 a.m.,St. John's University,Kansas State,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-12-11,Wednesday,7 p.m.,St. John's University,Bryant,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-12-17,Tuesday,6:30 p.m.,St. John's University,DePaul,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-12-20,Friday,8 p.m.,Providence,St. John's University,"Providence, R.I. (Amica Mutual Pavilion",Providence,RI
+basketball,college,ncaab,2024-12-28,Saturday,6 p.m.,St. John's University,Delaware,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2024-12-31,Tuesday,4 p.m.,Creighton,St. John's University,"Omaha, Neb. (CHI Health Center Omaha)",Omaha,NE
+basketball,college,ncaab,2025-01-04,Saturday,2 p.m.,St. John's University,Butler,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2025-01-07,Tuesday,6:30 p.m.,Xavier,St. John's University,"Cincinnati, Ohio (Cintas Center)",Cincinnati,OH
+basketball,college,ncaab,2025-01-11,Saturday,7 p.m.,St. John's University,Villanova,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-01-14,Tuesday,7:30 p.m.,St. John's University,Georgetown,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-01-18,Saturday,8 p.m.,Seton Hall,St. John's University,"Newark, N.J. (Prudential Center)",South Orange,NJ
+basketball,college,ncaab,2025-01-22,Wednesday,7 p.m.,St. John's University,Xavier,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-01-28,Tuesday,6:30 p.m.,Georgetown,St. John's University,"Washington, D.C. (Capital One Arena)",Washington,DC
+basketball,college,ncaab,2025-02-01,Saturday,12 p.m.,St. John's University,Providence,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-02-04,Tuesday,6:30 p.m.,St. John's University,Marquette,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-02-07,Friday,8 p.m.,UConn,St. John's University,"Storrs, Conn. (Gampel Pavilion)",Storrs,CT
+basketball,college,ncaab,2025-02-12,Wednesday,6 p.m.,Villanova,St. John's University,"Villanova, Pa. (Finneran Pavilion)",Villanova,PA
+basketball,college,ncaab,2025-02-16,Sunday,3 p.m.,St. John's University,Creighton,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-02-19,Wednesday,9 p.m.,DePaul,St. John's University,"Chicago, Ill. (Wintrust Arena)",Chicago,IL
+basketball,college,ncaab,2025-02-23,Sunday,12 p.m.,St. John's University,UConn,"New York, N.Y. (Madison Square Garden)",Queens,NY
+basketball,college,ncaab,2025-02-26,Wednesday,9 p.m.,Butler,St. John's University,"Indianapolis, Ind. (Hinkle Fieldhouse)",Indianapolis,IN
+basketball,college,ncaab,2025-03-01,Saturday,2:15 p.m.,St. John's University,Seton Hall,"Queens, N.Y. (Carnesecca Arena)",Queens,NY
+basketball,college,ncaab,2025-03-08,Saturday,TBD,Marquette,St. John's University,"Milwaukee, Wis. (Fiserv Forum)",Milwaukee,WI
+basketball,college,ncaab,2025-03-12,Wednesday,TBD,St. John's University,BIG EAST Tournament,"New York, N.Y. (Madison Square Garden)",Queens,NY

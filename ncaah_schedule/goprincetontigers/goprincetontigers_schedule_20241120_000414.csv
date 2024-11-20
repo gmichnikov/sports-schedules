@@ -1,0 +1,31 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+ice-hockey,college,ncaah,2024-10-26,Saturday,7:00 PM,Princeton University,University of Waterloo,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-11-08,Friday,7:00 PM,Princeton University,Harvard,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-11-09,Saturday,7:00 PM,Princeton University,Dartmouth,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-11-15,Friday,7:00 PM,Yale,Princeton University,"New Haven, Conn.",New Haven,CT
+ice-hockey,college,ncaah,2024-11-16,Saturday,7:00 PM,Brown,Princeton University,"Providence, R.I.",Providence,RI
+ice-hockey,college,ncaah,2024-11-22,Friday,7:00 PM,Colgate,Princeton University,"Hamilton, N.Y.",Hamilton,NY
+ice-hockey,college,ncaah,2024-11-23,Saturday,7:00 PM,No. 7 Cornell,Princeton University,"Ithaca, N.Y.",Ithaca,NY
+ice-hockey,college,ncaah,2024-11-29,Friday,7:00 PM,Princeton University,Ohio State,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-11-30,Saturday,4:00 PM,Princeton University,Ohio State,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-12-06,Friday,7:00 PM,Princeton University,Union,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-12-07,Saturday,7:00 PM,Princeton University,RPI,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2024-12-28,Saturday,4:00 PM,Army West Point,Princeton University,"West Point, N.Y.",West Point,NY
+ice-hockey,college,ncaah,2025-01-03,Friday,7:00 PM,Princeton University,New Hampshire,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-04,Saturday,4:00 PM,Princeton University,New Hampshire,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-10,Friday,7:00 PM,Princeton University,Quinnipiac,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-11,Saturday,7:00 PM,Quinnipiac,Princeton University,"Hamden, Conn.",Hamden,CT
+ice-hockey,college,ncaah,2025-01-17,Friday,7:00 PM,Princeton University,Cornell,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-18,Saturday,7:00 PM,Princeton University,Colgate,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-25,Saturday,7:00 PM,Princeton University,Bentley,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-26,Sunday,4:00 PM,Princeton University,Bentley,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-01-31,Friday,7:00 PM,Harvard,Princeton University,"Cambridge, Mass.",Cambridge,MA
+ice-hockey,college,ncaah,2025-02-01,Saturday,7:00 PM,Dartmouth,Princeton University,"Hanover, N.H.",Hanover,NH
+ice-hockey,college,ncaah,2025-02-07,Friday,7:00 PM,Princeton University,Clarkson,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-02-08,Saturday,7:00 PM,Princeton University,St. Lawrence,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-02-14,Friday,7:00 PM,RPI,Princeton University,"Troy, N.Y.",Troy,NY
+ice-hockey,college,ncaah,2025-02-15,Saturday,7:00 PM,Union,Princeton University,"Schenectady, N.Y.",Schenectady,NY
+ice-hockey,college,ncaah,2025-02-21,Friday,7:00 PM,Princeton University,Brown,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-02-22,Saturday,7:00 PM,Princeton University,Yale,TBD (Hobey Baker Rink),Princeton,NJ
+ice-hockey,college,ncaah,2025-02-28,Friday,7:00 PM,St. Lawrence,Princeton University,"Canton, N.Y.",Canton,NY
+ice-hockey,college,ncaah,2025-03-01,Saturday,7:00 PM,Clarkson,Princeton University,"Potsdam, N.Y.",Potsdam,NY

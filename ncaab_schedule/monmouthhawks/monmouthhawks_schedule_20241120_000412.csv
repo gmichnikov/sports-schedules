@@ -1,0 +1,33 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+basketball,college,ncaab,2024-11-04,Monday,00:00:00,Michigan State,Monmouth University,"Breslin Center - East Lansing, MI",East Lansing,MI
+basketball,college,ncaab,2024-11-08,Friday,18:00:00,Monmouth University,Temple,"CURE Insurance Arena - Trenton, NJ",West Long Branch,NJ
+basketball,college,ncaab,2024-11-12,Tuesday,19:00:00,Northern Illinois,Monmouth University,"Convocation Center - DeKalb, IL",DeKalb,IL
+basketball,college,ncaab,2024-11-15,Friday,00:00:00,Rutgers University,Monmouth University,"Piscataway, NJ",New Brunswick,NJ
+basketball,college,ncaab,2024-11-18,Monday,00:00:00,Wichita State,Monmouth University,"Charles Koch Arena - Wichita, KS",Wichita,KS
+basketball,college,ncaab,2024-11-21,Thursday,17:00:00,Monmouth University,Youngstown State,"William R. Johnson Coliseum - Nacogdoches, TX",West Long Branch,NJ
+basketball,college,ncaab,2024-11-30,Saturday,12:00:00,Seton Hall,Monmouth University,"Prudential Center - Newark, NJ",South Orange,NJ
+basketball,college,ncaab,2024-12-04,Wednesday,19:00:00,Lehigh,Monmouth University,"Stabler Arena - Bethlehem, PA",Bethlehem,PA
+basketball,college,ncaab,2024-12-10,Tuesday,19:00:00,Princeton,Monmouth University,"Jadwin Gymnasium - Princeton, NJ",Princeton,NJ
+basketball,college,ncaab,2024-12-21,Saturday,00:00:00,Monmouth University,Fairfield,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2024-12-30,Monday,00:00:00,Auburn,Monmouth University,"Neville Arena - Auburn, AL",Auburn,AL
+basketball,college,ncaab,2025-01-02,Thursday,00:00:00,Monmouth University,Stony Brook,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-01-04,Saturday,00:00:00,Delaware,Monmouth University,"Bob Carpenter Center - Newark, DE",Newark,DE
+basketball,college,ncaab,2025-01-09,Thursday,00:00:00,Monmouth University,UNC Wilmington,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-01-11,Saturday,00:00:00,Monmouth University,Charleston,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-01-16,Thursday,19:00:00,North Carolina A&T,Monmouth University,"Corbett Sports Center - Greensboro, NC",Greensboro,NC
+basketball,college,ncaab,2025-01-18,Saturday,00:00:00,Campbell,Monmouth University,"Gore Arena - Buies Creek, NC",Buies Creek,NC
+basketball,college,ncaab,2025-01-23,Thursday,19:00:00,Elon,Monmouth University,"Schar Center - Elon, NC",Elon,NC
+basketball,college,ncaab,2025-01-25,Saturday,14:00:00,William & Mary,Monmouth University,"Kaplan Arena - Williamsburg, VA",Williamsburg,VA
+basketball,college,ncaab,2025-01-30,Thursday,00:00:00,Monmouth University,Drexel,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-02-01,Saturday,00:00:00,Monmouth University,Delaware,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-02-06,Thursday,00:00:00,Monmouth University,Hampton,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-02-08,Saturday,00:00:00,Monmouth University,Towson,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-02-13,Thursday,00:00:00,Stony Brook,Monmouth University,"Island Federal Arena - Stony Brook, NY",Stony Brook,NY
+basketball,college,ncaab,2025-02-15,Saturday,00:00:00,Towson,Monmouth University,"TU Arena - Towson, MD",Towson,MD
+basketball,college,ncaab,2025-02-20,Thursday,19:00:00,Hofstra,Monmouth University,"David S. Mack Sports and Exhibition Complex - Hempstead, NY",Hempstead,NY
+basketball,college,ncaab,2025-02-24,Monday,00:00:00,Monmouth University,Northeastern,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-02-27,Thursday,00:00:00,Monmouth University,Elon,"OceanFirst Bank Center - West Long Branch, NJ",West Long Branch,NJ
+basketball,college,ncaab,2025-03-01,Saturday,14:00:00,Drexel,Monmouth University,"Daskalakis Athletic Center - Philadelphia, PA",Philadelphia,PA
+basketball,college,ncaab,2024-11-22,Friday,18:00:00,Stephen F. Austin,Monmouth University,"William R. Johnson Coliseum - Nacogdoches, TX",Nacogdoches,TX
+basketball,college,ncaab,2024-11-23,Saturday,12:00:00,Monmouth University,Presbyterian,"William R. Johnson Coliseum - Nacogdoches, TX",West Long Branch,NJ
+basketball,college,ncaab,2024-10-25,Friday,19:00:00,Monmouth University,Rhode Island College (exhibition),"West Long Branch, NJ",West Long Branch,NJ
