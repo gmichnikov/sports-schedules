@@ -137,12 +137,18 @@ def combine_csv_files(delete_dupes, location_lookup):
 
     for index, row in combined_df.iterrows():
         if pd.isna(row['home_city']) or row['home_city'] == '':
-            lookup_key = (row['league'].lower(), row['home_team'].lower())
+            # Handle NaN values by converting to string and checking if it's not 'nan'
+            league = str(row['league']).lower() if not pd.isna(row['league']) else 'unknown'
+            home_team = str(row['home_team']).lower() if not pd.isna(row['home_team']) else 'unknown'
+            lookup_key = (league, home_team)
             if lookup_key in location_lookup:
                 combined_df.at[index, 'home_city'] = location_lookup[lookup_key][0]
 
         if pd.isna(row['home_state']) or row['home_state'] == '':
-            lookup_key = (row['league'].lower(), row['home_team'].lower())
+            # Handle NaN values by converting to string and checking if it's not 'nan'
+            league = str(row['league']).lower() if not pd.isna(row['league']) else 'unknown'
+            home_team = str(row['home_team']).lower() if not pd.isna(row['home_team']) else 'unknown'
+            lookup_key = (league, home_team)
             if lookup_key in location_lookup:
                 combined_df.at[index, 'home_state'] = location_lookup[lookup_key][1]
 
@@ -165,7 +171,7 @@ def add_missing_teams_to_locations(combined_df):
         if not ((locations_df['league'] == row['league']) & (locations_df['team_name'] == row['home_team'])).any():
             # Add missing combination
             new_row = {'league': row['league'], 'team_name': row['home_team'], 'city': '', 'state': ''}
-            locations_df = locations_df.append(new_row, ignore_index=True)
+            locations_df = pd.concat([locations_df, pd.DataFrame([new_row])], ignore_index=True)
             added_locations += 1
 
     # Save updated DataFrame back to locations.csv
@@ -216,12 +222,12 @@ def main(delete_dupes):
 
     # Mapping of sports to their respective modules (assuming similar function names across modules)
     sports_modules = {
-        'nba': nba,
-        'nhl': nhl,
-        #'ncaab': ncaab,
-        #'ncaah': ncaah,
-        'nfl': nfl,
-        'mlb': mlb,
+        # 'nba': nba,
+        # 'nhl': nhl,
+        # 'ncaab': ncaab,
+        # 'ncaah': ncaah,
+        # 'nfl': nfl,
+        # 'mlb': mlb,
         # 'milb': milb,
         'mls': mls,
     }

@@ -1,0 +1,15 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2025-09-27,Saturday,4:30PM,Toronto,Miami,BMO Field,Toronto,ON
+soccer,pro,mls,2025-09-27,Saturday,7:30PM,Charlotte,Montréal,Bank of America Stadium,Charlotte,NC
+soccer,pro,mls,2025-09-27,Saturday,7:30PM,D.C. United,Philadelphia,Audi Field,,
+soccer,pro,mls,2025-09-27,Saturday,7:30PM,New England,Atlanta,Gillette Stadium,Foxborough,MA
+soccer,pro,mls,2025-09-27,Saturday,7:30PM,New York,New York City,Sports Illustrated Stadium,Harrison,NJ
+soccer,pro,mls,2025-09-27,Saturday,8:30PM,Chicago,Columbus,Soldier Field,Chicago,IL
+soccer,pro,mls,2025-09-27,Saturday,8:30PM,Nashville,Houston,GEODIS Park,Nashville,TN
+soccer,pro,mls,2025-09-27,Saturday,8:30PM,St. Louis,LAFC,Energizer Park,St. Louis,MO
+soccer,pro,mls,2025-09-27,Saturday,9:30PM,Colorado,Minnesota,DICK'S Sporting Goods Park,Denver,CO
+soccer,pro,mls,2025-09-27,Saturday,9:30PM,Salt Lake,Austin,America First Field,Salt Lake City,UT
+soccer,pro,mls,2025-09-27,Saturday,10:30PM,LA Galaxy,Kansas City,Dignity Health Sports Park,,
+soccer,pro,mls,2025-09-27,Saturday,10:30PM,Portland,Dallas,Providence Park,Portland,OR
+soccer,pro,mls,2025-09-27,Saturday,10:30PM,San Diego,San Jose,Snapdragon Stadium,,
+soccer,pro,mls,2025-09-27,Saturday,10:30PM,Seattle,Vancouver,Lumen Field,Seattle,WA

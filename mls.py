@@ -42,6 +42,13 @@ def scrape_sites():
 
         # Get the page source and close the browser
         page_source = driver.page_source
+        
+        # Check if page_source is valid
+        if page_source is None or len(page_source) == 0:
+            print(f"No page content found for date {schedule_date}")
+            driver.quit()
+            current_date += timedelta(days=7)
+            continue
 
         # You can continue with BeautifulSoup to parse the page_source
         soup = BeautifulSoup(page_source, 'html.parser')
@@ -67,7 +74,8 @@ def scrape_sites():
 
                 gametime = game.find('div', class_='mls-c-scorebug').find('span').get_text().strip()
 
-                venue = game.find('p', class_='sc-kgTSHT').get_text().strip()
+                venue_p = game.find('p', class_='sc-iveFHk')
+                venue = venue_p.get_text().strip() if venue_p else ''
 
                 game_data = ['soccer', 'pro', 'mls', formatted_date, day_of_week, gametime, home_team, away_team, venue]
                 games.append(game_data)

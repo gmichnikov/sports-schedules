@@ -1,0 +1,273 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+football,pro,NFL,2025-09-04,Thursday,8:20PM,Philadelphia Eagles,Dallas Cowboys,,Philadelphia,PA
+football,pro,NFL,2025-09-05,Friday,8:00PM,Los Angeles Chargers,Kansas City Chiefs,,Inglewood,CA
+football,pro,NFL,2025-09-07,Sunday,1:00PM,New York Jets,Pittsburgh Steelers,,East Rutherford,NJ
+football,pro,NFL,2025-09-07,Sunday,1:00PM,Washington Commanders,New York Giants,,Landover,MD
+football,pro,NFL,2025-09-07,Sunday,1:00PM,Jacksonville Jaguars,Carolina Panthers,,Jacksonville,FL
+football,pro,NFL,2025-09-07,Sunday,1:00PM,New England Patriots,Las Vegas Raiders,,Foxborough,MA
+football,pro,NFL,2025-09-07,Sunday,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,,Atlanta,GA
+football,pro,NFL,2025-09-07,Sunday,1:00PM,Cleveland Browns,Cincinnati Bengals,,Cleveland,OH
+football,pro,NFL,2025-09-07,Sunday,1:00PM,New Orleans Saints,Arizona Cardinals,,New Orleans,LA
+football,pro,NFL,2025-09-07,Sunday,1:00PM,Indianapolis Colts,Miami Dolphins,,Indianapolis,IN
+football,pro,NFL,2025-09-07,Sunday,4:05PM,Denver Broncos,Tennessee Titans,,Denver,CO
+football,pro,NFL,2025-09-07,Sunday,4:05PM,Seattle Seahawks,San Francisco 49ers,,Seattle,WA
+football,pro,NFL,2025-09-07,Sunday,4:25PM,Green Bay Packers,Detroit Lions,,Green Bay,WI
+football,pro,NFL,2025-09-07,Sunday,4:25PM,Los Angeles Rams,Houston Texans,,Inglewood,CA
+football,pro,NFL,2025-09-07,Sunday,8:20PM,Buffalo Bills,Baltimore Ravens,,Orchard Park,NY
+football,pro,NFL,2025-09-08,Monday,8:15PM,Chicago Bears,Minnesota Vikings,,Chicago,IL
+football,pro,NFL,2025-09-11,Thursday,8:15PM,Green Bay Packers,Washington Commanders,,Green Bay,WI
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Pittsburgh Steelers,Seattle Seahawks,,Pittsburgh,PA
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Tennessee Titans,Los Angeles Rams,,Nashville,TN
+football,pro,NFL,2025-09-14,Sunday,1:00PM,New York Jets,Buffalo Bills,,East Rutherford,NJ
+football,pro,NFL,2025-09-14,Sunday,1:00PM,New Orleans Saints,San Francisco 49ers,,New Orleans,LA
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Miami Dolphins,New England Patriots,,Miami Gardens,FL
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Detroit Lions,Chicago Bears,,Detroit,MI
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Dallas Cowboys,New York Giants,,Arlington,TX
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Cincinnati Bengals,Jacksonville Jaguars,,Cincinnati,OH
+football,pro,NFL,2025-09-14,Sunday,1:00PM,Baltimore Ravens,Cleveland Browns,,Baltimore,MD
+football,pro,NFL,2025-09-14,Sunday,4:05PM,Indianapolis Colts,Denver Broncos,,Indianapolis,IN
+football,pro,NFL,2025-09-14,Sunday,4:05PM,Arizona Cardinals,Carolina Panthers,,Glendale,AZ
+football,pro,NFL,2025-09-14,Sunday,4:25PM,Kansas City Chiefs,Philadelphia Eagles,,Kansas City,MO
+football,pro,NFL,2025-09-14,Sunday,8:20PM,Minnesota Vikings,Atlanta Falcons,,Minneapolis,MN
+football,pro,NFL,2025-09-15,Monday,7:00PM,Houston Texans,Tampa Bay Buccaneers,,Houston,TX
+football,pro,NFL,2025-09-15,Monday,10:00PM,Las Vegas Raiders,Los Angeles Chargers,,Paradise,NV
+football,pro,NFL,2025-09-18,Thursday,8:15PM,Buffalo Bills,Miami Dolphins,,Orchard Park,NY
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Carolina Panthers,Atlanta Falcons,,Charlotte,NC
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Minnesota Vikings,Cincinnati Bengals,,Minneapolis,MN
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Tennessee Titans,Indianapolis Colts,,Nashville,TN
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Cleveland Browns,Green Bay Packers,,Cleveland,OH
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Jacksonville Jaguars,Houston Texans,,Jacksonville,FL
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Tampa Bay Buccaneers,New York Jets,,Tampa,FL
+football,pro,NFL,2025-09-21,Sunday,1:00PM,New England Patriots,Pittsburgh Steelers,,Foxborough,MA
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Washington Commanders,Las Vegas Raiders,,Landover,MD
+football,pro,NFL,2025-09-21,Sunday,1:00PM,Philadelphia Eagles,Los Angeles Rams,,Philadelphia,PA
+football,pro,NFL,2025-09-21,Sunday,4:05PM,Los Angeles Chargers,Denver Broncos,,Inglewood,CA
+football,pro,NFL,2025-09-21,Sunday,4:05PM,Seattle Seahawks,New Orleans Saints,,Seattle,WA
+football,pro,NFL,2025-09-21,Sunday,4:25PM,San Francisco 49ers,Arizona Cardinals,,Santa Clara,CA
+football,pro,NFL,2025-09-21,Sunday,4:25PM,Chicago Bears,Dallas Cowboys,,Chicago,IL
+football,pro,NFL,2025-09-21,Sunday,8:20PM,New York Giants,Kansas City Chiefs,,East Rutherford,NJ
+football,pro,NFL,2025-09-22,Monday,8:15PM,Baltimore Ravens,Detroit Lions,,Baltimore,MD
+football,pro,NFL,2025-09-25,Thursday,8:15PM,Arizona Cardinals,Seattle Seahawks,,Glendale,AZ
+football,pro,NFL,2025-09-28,Sunday,9:30AM,Pittsburgh Steelers,Minnesota Vikings,,Pittsburgh,PA
+football,pro,NFL,2025-09-28,Sunday,1:00PM,New England Patriots,Carolina Panthers,,Foxborough,MA
+football,pro,NFL,2025-09-28,Sunday,1:00PM,Detroit Lions,Cleveland Browns,,Detroit,MI
+football,pro,NFL,2025-09-28,Sunday,1:00PM,Buffalo Bills,New Orleans Saints,,Orchard Park,NY
+football,pro,NFL,2025-09-28,Sunday,1:00PM,Houston Texans,Tennessee Titans,,Houston,TX
+football,pro,NFL,2025-09-28,Sunday,1:00PM,Tampa Bay Buccaneers,Philadelphia Eagles,,Tampa,FL
+football,pro,NFL,2025-09-28,Sunday,1:00PM,New York Giants,Los Angeles Chargers,,East Rutherford,NJ
+football,pro,NFL,2025-09-28,Sunday,1:00PM,Atlanta Falcons,Washington Commanders,,Atlanta,GA
+football,pro,NFL,2025-09-28,Sunday,4:05PM,Los Angeles Rams,Indianapolis Colts,,Inglewood,CA
+football,pro,NFL,2025-09-28,Sunday,4:05PM,San Francisco 49ers,Jacksonville Jaguars,,Santa Clara,CA
+football,pro,NFL,2025-09-28,Sunday,4:25PM,Las Vegas Raiders,Chicago Bears,,Paradise,NV
+football,pro,NFL,2025-09-28,Sunday,4:25PM,Kansas City Chiefs,Baltimore Ravens,,Kansas City,MO
+football,pro,NFL,2025-09-28,Sunday,8:20PM,Dallas Cowboys,Green Bay Packers,,Arlington,TX
+football,pro,NFL,2025-09-29,Monday,7:15PM,Miami Dolphins,New York Jets,,Miami Gardens,FL
+football,pro,NFL,2025-09-29,Monday,8:15PM,Denver Broncos,Cincinnati Bengals,,Denver,CO
+football,pro,NFL,2025-10-02,Thursday,8:15PM,Los Angeles Rams,San Francisco 49ers,,Inglewood,CA
+football,pro,NFL,2025-10-05,Sunday,9:30AM,Cleveland Browns,Minnesota Vikings,,Cleveland,OH
+football,pro,NFL,2025-10-05,Sunday,1:00PM,New York Jets,Dallas Cowboys,,East Rutherford,NJ
+football,pro,NFL,2025-10-05,Sunday,1:00PM,Philadelphia Eagles,Denver Broncos,,Philadelphia,PA
+football,pro,NFL,2025-10-05,Sunday,1:00PM,Baltimore Ravens,Houston Texans,,Baltimore,MD
+football,pro,NFL,2025-10-05,Sunday,1:00PM,Carolina Panthers,Miami Dolphins,,Charlotte,NC
+football,pro,NFL,2025-10-05,Sunday,1:00PM,New Orleans Saints,New York Giants,,New Orleans,LA
+football,pro,NFL,2025-10-05,Sunday,1:00PM,Indianapolis Colts,Las Vegas Raiders,,Indianapolis,IN
+football,pro,NFL,2025-10-05,Sunday,4:05PM,Arizona Cardinals,Tennessee Titans,,Glendale,AZ
+football,pro,NFL,2025-10-05,Sunday,4:05PM,Seattle Seahawks,Tampa Bay Buccaneers,,Seattle,WA
+football,pro,NFL,2025-10-05,Sunday,4:25PM,Cincinnati Bengals,Detroit Lions,,Cincinnati,OH
+football,pro,NFL,2025-10-05,Sunday,4:25PM,Los Angeles Chargers,Washington Commanders,,Inglewood,CA
+football,pro,NFL,2025-10-05,Sunday,8:20PM,Buffalo Bills,New England Patriots,,Orchard Park,NY
+football,pro,NFL,2025-10-06,Monday,8:15PM,Jacksonville Jaguars,Kansas City Chiefs,,Jacksonville,FL
+football,pro,NFL,2025-10-09,Thursday,8:15PM,New York Giants,Philadelphia Eagles,,East Rutherford,NJ
+football,pro,NFL,2025-10-12,Sunday,9:30AM,New York Jets,Denver Broncos,,East Rutherford,NJ
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Pittsburgh Steelers,Cleveland Browns,,Pittsburgh,PA
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Indianapolis Colts,Arizona Cardinals,,Indianapolis,IN
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Carolina Panthers,Dallas Cowboys,,Charlotte,NC
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Baltimore Ravens,Los Angeles Rams,,Baltimore,MD
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Miami Dolphins,Los Angeles Chargers,,Miami Gardens,FL
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Jacksonville Jaguars,Seattle Seahawks,,Jacksonville,FL
+football,pro,NFL,2025-10-12,Sunday,1:00PM,Tampa Bay Buccaneers,San Francisco 49ers,,Tampa,FL
+football,pro,NFL,2025-10-12,Sunday,4:05PM,Las Vegas Raiders,Tennessee Titans,,Paradise,NV
+football,pro,NFL,2025-10-12,Sunday,4:25PM,Green Bay Packers,Cincinnati Bengals,,Green Bay,WI
+football,pro,NFL,2025-10-12,Sunday,4:25PM,New Orleans Saints,New England Patriots,,New Orleans,LA
+football,pro,NFL,2025-10-12,Sunday,8:20PM,Kansas City Chiefs,Detroit Lions,,Kansas City,MO
+football,pro,NFL,2025-10-13,Monday,7:15PM,Atlanta Falcons,Buffalo Bills,,Atlanta,GA
+football,pro,NFL,2025-10-13,Monday,8:15PM,Washington Commanders,Chicago Bears,,Landover,MD
+football,pro,NFL,2025-10-16,Thursday,8:15PM,Cincinnati Bengals,Pittsburgh Steelers,,Cincinnati,OH
+football,pro,NFL,2025-10-19,Sunday,9:30AM,Jacksonville Jaguars,Los Angeles Rams,,Jacksonville,FL
+football,pro,NFL,2025-10-19,Sunday,1:00PM,New York Jets,Carolina Panthers,,East Rutherford,NJ
+football,pro,NFL,2025-10-19,Sunday,1:00PM,Cleveland Browns,Miami Dolphins,,Cleveland,OH
+football,pro,NFL,2025-10-19,Sunday,1:00PM,Chicago Bears,New Orleans Saints,,Chicago,IL
+football,pro,NFL,2025-10-19,Sunday,1:00PM,Tennessee Titans,New England Patriots,,Nashville,TN
+football,pro,NFL,2025-10-19,Sunday,1:00PM,Minnesota Vikings,Philadelphia Eagles,,Minneapolis,MN
+football,pro,NFL,2025-10-19,Sunday,1:00PM,Kansas City Chiefs,Las Vegas Raiders,,Kansas City,MO
+football,pro,NFL,2025-10-19,Sunday,4:05PM,Los Angeles Chargers,Indianapolis Colts,,Inglewood,CA
+football,pro,NFL,2025-10-19,Sunday,4:05PM,Denver Broncos,New York Giants,,Denver,CO
+football,pro,NFL,2025-10-19,Sunday,4:25PM,Arizona Cardinals,Green Bay Packers,,Glendale,AZ
+football,pro,NFL,2025-10-19,Sunday,4:25PM,Dallas Cowboys,Washington Commanders,,Arlington,TX
+football,pro,NFL,2025-10-19,Sunday,8:20PM,San Francisco 49ers,Atlanta Falcons,,Santa Clara,CA
+football,pro,NFL,2025-10-20,Monday,7:00PM,Detroit Lions,Tampa Bay Buccaneers,,Detroit,MI
+football,pro,NFL,2025-10-20,Monday,10:00PM,Seattle Seahawks,Houston Texans,,Seattle,WA
+football,pro,NFL,2025-10-23,Thursday,8:15PM,Los Angeles Chargers,Minnesota Vikings,,Inglewood,CA
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Carolina Panthers,Buffalo Bills,,Charlotte,NC
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Baltimore Ravens,Chicago Bears,,Baltimore,MD
+football,pro,NFL,2025-10-26,Sunday,1:00PM,New England Patriots,Cleveland Browns,,Foxborough,MA
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Atlanta Falcons,Miami Dolphins,,Atlanta,GA
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Philadelphia Eagles,New York Giants,,Philadelphia,PA
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Cincinnati Bengals,New York Jets,,Cincinnati,OH
+football,pro,NFL,2025-10-26,Sunday,1:00PM,Houston Texans,San Francisco 49ers,,Houston,TX
+football,pro,NFL,2025-10-26,Sunday,4:05PM,New Orleans Saints,Tampa Bay Buccaneers,,New Orleans,LA
+football,pro,NFL,2025-10-26,Sunday,4:25PM,Denver Broncos,Dallas Cowboys,,Denver,CO
+football,pro,NFL,2025-10-26,Sunday,4:25PM,Indianapolis Colts,Tennessee Titans,,Indianapolis,IN
+football,pro,NFL,2025-10-26,Sunday,8:20PM,Pittsburgh Steelers,Green Bay Packers,,Pittsburgh,PA
+football,pro,NFL,2025-10-27,Monday,8:15PM,Kansas City Chiefs,Washington Commanders,,Kansas City,MO
+football,pro,NFL,2025-10-30,Thursday,8:15PM,Miami Dolphins,Baltimore Ravens,,Miami Gardens,FL
+football,pro,NFL,2025-11-02,Sunday,1:00PM,New England Patriots,Atlanta Falcons,,Foxborough,MA
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Green Bay Packers,Carolina Panthers,,Green Bay,WI
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Cincinnati Bengals,Chicago Bears,,Cincinnati,OH
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Pittsburgh Steelers,Indianapolis Colts,,Pittsburgh,PA
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Houston Texans,Denver Broncos,,Houston,TX
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Detroit Lions,Minnesota Vikings,,Detroit,MI
+football,pro,NFL,2025-11-02,Sunday,1:00PM,Tennessee Titans,Los Angeles Chargers,,Nashville,TN
+football,pro,NFL,2025-11-02,Sunday,1:00PM,New York Giants,San Francisco 49ers,,East Rutherford,NJ
+football,pro,NFL,2025-11-02,Sunday,4:05PM,Las Vegas Raiders,Jacksonville Jaguars,,Paradise,NV
+football,pro,NFL,2025-11-02,Sunday,4:05PM,Los Angeles Rams,New Orleans Saints,,Inglewood,CA
+football,pro,NFL,2025-11-02,Sunday,4:25PM,Buffalo Bills,Kansas City Chiefs,,Orchard Park,NY
+football,pro,NFL,2025-11-02,Sunday,8:20PM,Washington Commanders,Seattle Seahawks,,Landover,MD
+football,pro,NFL,2025-11-03,Monday,8:15PM,Dallas Cowboys,Arizona Cardinals,,Arlington,TX
+football,pro,NFL,2025-11-06,Thursday,8:15PM,Denver Broncos,Las Vegas Raiders,,Denver,CO
+football,pro,NFL,2025-11-09,Sunday,9:30AM,Indianapolis Colts,Atlanta Falcons,,Indianapolis,IN
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Miami Dolphins,Buffalo Bills,,Miami Gardens,FL
+football,pro,NFL,2025-11-09,Sunday,1:00PM,New York Jets,Cleveland Browns,,East Rutherford,NJ
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Houston Texans,Jacksonville Jaguars,,Houston,TX
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Carolina Panthers,New Orleans Saints,,Charlotte,NC
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Tampa Bay Buccaneers,New England Patriots,,Tampa,FL
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Chicago Bears,New York Giants,,Chicago,IL
+football,pro,NFL,2025-11-09,Sunday,1:00PM,Minnesota Vikings,Baltimore Ravens,,Minneapolis,MN
+football,pro,NFL,2025-11-09,Sunday,4:05PM,Seattle Seahawks,Arizona Cardinals,,Seattle,WA
+football,pro,NFL,2025-11-09,Sunday,4:25PM,Washington Commanders,Detroit Lions,,Landover,MD
+football,pro,NFL,2025-11-09,Sunday,4:25PM,San Francisco 49ers,Los Angeles Rams,,Santa Clara,CA
+football,pro,NFL,2025-11-09,Sunday,8:20PM,Los Angeles Chargers,Pittsburgh Steelers,,Inglewood,CA
+football,pro,NFL,2025-11-10,Monday,8:15PM,Green Bay Packers,Philadelphia Eagles,,Green Bay,WI
+football,pro,NFL,2025-11-13,Thursday,8:15PM,New England Patriots,New York Jets,,Foxborough,MA
+football,pro,NFL,2025-11-16,Sunday,9:30AM,Miami Dolphins,Washington Commanders,,Miami Gardens,FL
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Atlanta Falcons,Carolina Panthers,,Atlanta,GA
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Minnesota Vikings,Chicago Bears,,Minneapolis,MN
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,,Pittsburgh,PA
+football,pro,NFL,2025-11-16,Sunday,1:00PM,New York Giants,Green Bay Packers,,East Rutherford,NJ
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Tennessee Titans,Houston Texans,,Nashville,TN
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Jacksonville Jaguars,Los Angeles Chargers,,Jacksonville,FL
+football,pro,NFL,2025-11-16,Sunday,1:00PM,Buffalo Bills,Tampa Bay Buccaneers,,Orchard Park,NY
+football,pro,NFL,2025-11-16,Sunday,4:05PM,Los Angeles Rams,Seattle Seahawks,,Inglewood,CA
+football,pro,NFL,2025-11-16,Sunday,4:05PM,Arizona Cardinals,San Francisco 49ers,,Glendale,AZ
+football,pro,NFL,2025-11-16,Sunday,4:25PM,Denver Broncos,Kansas City Chiefs,,Denver,CO
+football,pro,NFL,2025-11-16,Sunday,4:25PM,Cleveland Browns,Baltimore Ravens,,Cleveland,OH
+football,pro,NFL,2025-11-16,Sunday,8:20PM,Philadelphia Eagles,Detroit Lions,,Philadelphia,PA
+football,pro,NFL,2025-11-17,Monday,8:15PM,Las Vegas Raiders,Dallas Cowboys,,Paradise,NV
+football,pro,NFL,2025-11-20,Thursday,8:15PM,Houston Texans,Buffalo Bills,,Houston,TX
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Kansas City Chiefs,Indianapolis Colts,,Kansas City,MO
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Green Bay Packers,Minnesota Vikings,,Green Bay,WI
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Cincinnati Bengals,New England Patriots,,Cincinnati,OH
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Detroit Lions,New York Giants,,Detroit,MI
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Baltimore Ravens,New York Jets,,Baltimore,MD
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Chicago Bears,Pittsburgh Steelers,,Chicago,IL
+football,pro,NFL,2025-11-23,Sunday,1:00PM,Tennessee Titans,Seattle Seahawks,,Nashville,TN
+football,pro,NFL,2025-11-23,Sunday,4:05PM,Las Vegas Raiders,Cleveland Browns,,Paradise,NV
+football,pro,NFL,2025-11-23,Sunday,4:05PM,Arizona Cardinals,Jacksonville Jaguars,,Glendale,AZ
+football,pro,NFL,2025-11-23,Sunday,4:25PM,New Orleans Saints,Atlanta Falcons,,New Orleans,LA
+football,pro,NFL,2025-11-23,Sunday,4:25PM,Dallas Cowboys,Philadelphia Eagles,,Arlington,TX
+football,pro,NFL,2025-11-23,Sunday,8:20PM,Los Angeles Rams,Tampa Bay Buccaneers,,Inglewood,CA
+football,pro,NFL,2025-11-24,Monday,8:15PM,San Francisco 49ers,Carolina Panthers,,Santa Clara,CA
+football,pro,NFL,2025-11-27,Thursday,1:00PM,Detroit Lions,Green Bay Packers,,Detroit,MI
+football,pro,NFL,2025-11-27,Thursday,4:30PM,Dallas Cowboys,Kansas City Chiefs,,Arlington,TX
+football,pro,NFL,2025-11-27,Thursday,8:20PM,Baltimore Ravens,Cincinnati Bengals,,Baltimore,MD
+football,pro,NFL,2025-11-28,Friday,3:00PM,Philadelphia Eagles,Chicago Bears,,Philadelphia,PA
+football,pro,NFL,2025-11-30,Sunday,1:00PM,New York Jets,Atlanta Falcons,,East Rutherford,NJ
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Tampa Bay Buccaneers,Arizona Cardinals,,Tampa,FL
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Indianapolis Colts,Houston Texans,,Indianapolis,IN
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Tennessee Titans,Jacksonville Jaguars,,Nashville,TN
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Miami Dolphins,New Orleans Saints,,Miami Gardens,FL
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Carolina Panthers,Los Angeles Rams,,Charlotte,NC
+football,pro,NFL,2025-11-30,Sunday,1:00PM,Cleveland Browns,San Francisco 49ers,,Cleveland,OH
+football,pro,NFL,2025-11-30,Sunday,4:05PM,Seattle Seahawks,Minnesota Vikings,,Seattle,WA
+football,pro,NFL,2025-11-30,Sunday,4:25PM,Pittsburgh Steelers,Buffalo Bills,,Pittsburgh,PA
+football,pro,NFL,2025-11-30,Sunday,4:25PM,Los Angeles Chargers,Las Vegas Raiders,,Inglewood,CA
+football,pro,NFL,2025-11-30,Sunday,8:20PM,Washington Commanders,Denver Broncos,,Landover,MD
+football,pro,NFL,2025-12-01,Monday,8:15PM,New England Patriots,New York Giants,,Foxborough,MA
+football,pro,NFL,2025-12-04,Thursday,8:15PM,Detroit Lions,Dallas Cowboys,,Detroit,MI
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Green Bay Packers,Chicago Bears,,Green Bay,WI
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Jacksonville Jaguars,Indianapolis Colts,,Jacksonville,FL
+football,pro,NFL,2025-12-07,Sunday,1:00PM,New York Jets,Miami Dolphins,,East Rutherford,NJ
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,,Tampa,FL
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Cleveland Browns,Tennessee Titans,,Cleveland,OH
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Baltimore Ravens,Pittsburgh Steelers,,Baltimore,MD
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Atlanta Falcons,Seattle Seahawks,,Atlanta,GA
+football,pro,NFL,2025-12-07,Sunday,1:00PM,Minnesota Vikings,Washington Commanders,,Minneapolis,MN
+football,pro,NFL,2025-12-07,Sunday,4:05PM,Las Vegas Raiders,Denver Broncos,,Paradise,NV
+football,pro,NFL,2025-12-07,Sunday,4:25PM,Buffalo Bills,Cincinnati Bengals,,Orchard Park,NY
+football,pro,NFL,2025-12-07,Sunday,4:25PM,Arizona Cardinals,Los Angeles Rams,,Glendale,AZ
+football,pro,NFL,2025-12-07,Sunday,8:20PM,Kansas City Chiefs,Houston Texans,,Kansas City,MO
+football,pro,NFL,2025-12-08,Monday,8:15PM,Los Angeles Chargers,Philadelphia Eagles,,Inglewood,CA
+football,pro,NFL,2025-12-11,Thursday,8:15PM,Tampa Bay Buccaneers,Atlanta Falcons,,Tampa,FL
+football,pro,NFL,2025-12-14,Sunday,1:00PM,New England Patriots,Buffalo Bills,,Foxborough,MA
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Chicago Bears,Cleveland Browns,,Chicago,IL
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Houston Texans,Arizona Cardinals,,Houston,TX
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Jacksonville Jaguars,New York Jets,,Jacksonville,FL
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Philadelphia Eagles,Las Vegas Raiders,,Philadelphia,PA
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Cincinnati Bengals,Baltimore Ravens,,Cincinnati,OH
+football,pro,NFL,2025-12-14,Sunday,1:00PM,Kansas City Chiefs,Los Angeles Chargers,,Kansas City,MO
+football,pro,NFL,2025-12-14,Sunday,1:00PM,New York Giants,Washington Commanders,,East Rutherford,NJ
+football,pro,NFL,2025-12-14,Sunday,4:25PM,New Orleans Saints,Carolina Panthers,,New Orleans,LA
+football,pro,NFL,2025-12-14,Sunday,4:25PM,Seattle Seahawks,Indianapolis Colts,,Seattle,WA
+football,pro,NFL,2025-12-14,Sunday,4:25PM,Los Angeles Rams,Detroit Lions,,Inglewood,CA
+football,pro,NFL,2025-12-14,Sunday,4:25PM,Denver Broncos,Green Bay Packers,,Denver,CO
+football,pro,NFL,2025-12-14,Sunday,4:25PM,San Francisco 49ers,Tennessee Titans,,Santa Clara,CA
+football,pro,NFL,2025-12-14,Sunday,8:20PM,Dallas Cowboys,Minnesota Vikings,,Arlington,TX
+football,pro,NFL,2025-12-15,Monday,8:15PM,Pittsburgh Steelers,Miami Dolphins,,Pittsburgh,PA
+football,pro,NFL,2025-12-18,Thursday,8:15PM,Seattle Seahawks,Los Angeles Rams,,Seattle,WA
+football,pro,NFL,2025-12-20,Saturday,1:00PM,Chicago Bears,Green Bay Packers,,Chicago,IL
+football,pro,NFL,2025-12-20,Saturday,1:00PM,Washington Commanders,Philadelphia Eagles,,Landover,MD
+football,pro,NFL,2025-12-21,Sunday,1:00PM,Cleveland Browns,Buffalo Bills,,Cleveland,OH
+football,pro,NFL,2025-12-21,Sunday,1:00PM,Tennessee Titans,Kansas City Chiefs,,Nashville,TN
+football,pro,NFL,2025-12-21,Sunday,1:00PM,New York Giants,Minnesota Vikings,,East Rutherford,NJ
+football,pro,NFL,2025-12-21,Sunday,1:00PM,Baltimore Ravens,New England Patriots,,Baltimore,MD
+football,pro,NFL,2025-12-21,Sunday,1:00PM,New Orleans Saints,New York Jets,,New Orleans,LA
+football,pro,NFL,2025-12-21,Sunday,1:00PM,Dallas Cowboys,Los Angeles Chargers,,Arlington,TX
+football,pro,NFL,2025-12-21,Sunday,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,,Charlotte,NC
+football,pro,NFL,2025-12-21,Sunday,4:05PM,Arizona Cardinals,Atlanta Falcons,,Glendale,AZ
+football,pro,NFL,2025-12-21,Sunday,4:05PM,Denver Broncos,Jacksonville Jaguars,,Denver,CO
+football,pro,NFL,2025-12-21,Sunday,4:25PM,Detroit Lions,Pittsburgh Steelers,,Detroit,MI
+football,pro,NFL,2025-12-21,Sunday,4:25PM,Houston Texans,Las Vegas Raiders,,Houston,TX
+football,pro,NFL,2025-12-21,Sunday,8:20PM,Miami Dolphins,Cincinnati Bengals,,Miami Gardens,FL
+football,pro,NFL,2025-12-22,Monday,8:15PM,Indianapolis Colts,San Francisco 49ers,,Indianapolis,IN
+football,pro,NFL,2025-12-25,Thursday,1:00PM,Washington Commanders,Dallas Cowboys,,Landover,MD
+football,pro,NFL,2025-12-25,Thursday,4:30PM,Minnesota Vikings,Detroit Lions,,Minneapolis,MN
+football,pro,NFL,2025-12-25,Thursday,8:15PM,Kansas City Chiefs,Denver Broncos,,Kansas City,MO
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Cincinnati Bengals,Arizona Cardinals,,Cincinnati,OH
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Los Angeles Chargers,Houston Texans,,Inglewood,CA
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Indianapolis Colts,Jacksonville Jaguars,,Indianapolis,IN
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Tennessee Titans,New Orleans Saints,,Nashville,TN
+football,pro,NFL,2025-12-28,Sunday,1:00PM,New York Jets,New England Patriots,,East Rutherford,NJ
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Las Vegas Raiders,New York Giants,,Paradise,NV
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Cleveland Browns,Pittsburgh Steelers,,Cleveland,OH
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Green Bay Packers,Baltimore Ravens,,Green Bay,WI
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Carolina Panthers,Seattle Seahawks,,Charlotte,NC
+football,pro,NFL,2025-12-28,Sunday,1:00PM,Miami Dolphins,Tampa Bay Buccaneers,,Miami Gardens,FL
+football,pro,NFL,2025-12-28,Sunday,4:25PM,Buffalo Bills,Philadelphia Eagles,,Orchard Park,NY
+football,pro,NFL,2025-12-28,Sunday,8:20PM,San Francisco 49ers,Chicago Bears,,Santa Clara,CA
+football,pro,NFL,2025-12-29,Monday,8:15PM,Atlanta Falcons,Los Angeles Rams,,Atlanta,GA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,,Tampa,FL
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Cincinnati Bengals,Cleveland Browns,,Cincinnati,OH
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Houston Texans,Indianapolis Colts,,Houston,TX
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Los Angeles Rams,Arizona Cardinals,,Inglewood,CA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,New York Giants,Dallas Cowboys,,East Rutherford,NJ
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Chicago Bears,Detroit Lions,,Chicago,IL
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Minnesota Vikings,Green Bay Packers,,Minneapolis,MN
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Las Vegas Raiders,Kansas City Chiefs,,Paradise,NV
+football,pro,NFL,2026-01-04,Sunday,1:00PM,New England Patriots,Miami Dolphins,,Foxborough,MA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Atlanta Falcons,New Orleans Saints,,Atlanta,GA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Buffalo Bills,New York Jets,,Orchard Park,NY
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Jacksonville Jaguars,Tennessee Titans,,Jacksonville,FL
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Pittsburgh Steelers,Baltimore Ravens,,Pittsburgh,PA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Denver Broncos,Los Angeles Chargers,,Denver,CO
+football,pro,NFL,2026-01-04,Sunday,1:00PM,San Francisco 49ers,Seattle Seahawks,,Santa Clara,CA
+football,pro,NFL,2026-01-04,Sunday,1:00PM,Philadelphia Eagles,Washington Commanders,,Philadelphia,PA

@@ -1,0 +1,14 @@
+sport,level,league,date,day,time,home_team,road_team,location,home_city,home_state
+soccer,pro,mls,2025-10-04,Saturday,2:30PM,D.C. United,Charlotte,Audi Field,Washington,DC
+soccer,pro,mls,2025-10-04,Saturday,2:30PM,Montréal,Nashville,Stade Saputo,Montréal,QC
+soccer,pro,mls,2025-10-04,Saturday,4:30PM,Dallas,LA Galaxy,Toyota Stadium,Dallas,TX
+soccer,pro,mls,2025-10-04,Saturday,7:30PM,Miami,New England,Chase Stadium,Miami,FL
+soccer,pro,mls,2025-10-04,Saturday,7:30PM,New York,Cincinnati,Sports Illustrated Stadium,Harrison,NJ
+soccer,pro,mls,2025-10-04,Saturday,7:30PM,Orlando,Columbus,Inter&Co Stadium,Orlando,FL
+soccer,pro,mls,2025-10-04,Saturday,7:30PM,Philadelphia,New York City,Subaru Park,Philadelphia,PA
+soccer,pro,mls,2025-10-04,Saturday,8:30PM,Austin,St. Louis,Q2 Stadium,Austin,TX
+soccer,pro,mls,2025-10-04,Saturday,8:30PM,Chicago,Toronto,Soldier Field,Chicago,IL
+soccer,pro,mls,2025-10-04,Saturday,8:30PM,Houston,San Diego,Shell Energy Stadium,Houston,TX
+soccer,pro,mls,2025-10-04,Saturday,8:30PM,Minnesota,Kansas City,Allianz Field,Minneapolis,MN
+soccer,pro,mls,2025-10-04,Saturday,9:30PM,Salt Lake,Colorado,America First Field,Salt Lake City,UT
+soccer,pro,mls,2025-10-04,Saturday,10:30PM,Seattle,Portland,Lumen Field,Seattle,WA
