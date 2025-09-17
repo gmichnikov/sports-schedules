@@ -1,0 +1,16 @@
+# Core web scraping
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# Data processing
+pandas>=2.3.0
+
+# Web automation (for MLS and MiLB scrapers)
+selenium>=4.35.0
+webdriver-manager>=4.0.0
+
+# Advanced web scraping (for MiLB)
+requests-html>=0.10.0
+
+# HTML parsing
+lxml[html_clean]>=5.3.0
