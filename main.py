@@ -218,12 +218,12 @@ def main(delete_dupes):
     sports_modules = {
         'nba': nba,
         'nhl': nhl,
-        'ncaab': ncaab,
-        'ncaah': ncaah,
+        #'ncaab': ncaab,
+        #'ncaah': ncaah,
         'nfl': nfl,
-        # 'mlb': mlb,
+        'mlb': mlb,
         # 'milb': milb,
-        # 'mls': mls,
+        'mls': mls,
     }
 
     for sport, module in sports_modules.items():

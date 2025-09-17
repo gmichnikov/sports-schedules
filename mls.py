@@ -54,8 +54,8 @@ def scrape_sites():
                 date_div = game.find('div', {'class': 'mls-c-status-stamp__status'})
                 date_str = date_div.get_text().strip() if date_div else ''
 
-                # Assume year 2024 and parse the date
-                game_date = datetime.strptime(date_str + ' 2024', '%m/%d %Y')
+                # Assume year 2025 and parse the date
+                game_date = datetime.strptime(date_str + ' 2025', '%m/%d %Y')
                 formatted_date = game_date.strftime('%Y-%m-%d')
                 day_of_week = game_date.strftime('%A')
 

@@ -55,7 +55,7 @@ def scrape_sites(sport, league):
     for site in json_sites:
         if sport == "hockey":
             sport = "ice-hockey"
-        url = site + "/sports/mens-" + sport + "/schedule/2024-25"
+        url = site + "/sports/mens-" + sport + "/schedule/2025-26"
 
         parsed_site = urlparse(site)
         domain = parsed_site.netloc
@@ -115,7 +115,7 @@ def process_txt_games(txt_games, team_name, team_code, sport, league):
 
         # Parsing the date and day of week
         month_abbr, day, day_abbr = re.match(r'(\w{3}) (\d+) \((\w{3})\)', date_str).groups()
-        year = "2024" if month_abbr in ['Oct', 'Nov', 'Dec'] else "2025"
+        year = "2025" if month_abbr in ['Oct', 'Nov', 'Dec'] else "2026"
         formatted_date = datetime.strptime(f"{day} {month_abbr} {year}", "%d %b %Y").strftime("%Y-%m-%d")
         date_obj = datetime.strptime(formatted_date, "%Y-%m-%d")
         day_of_week = date_obj.strftime("%A")
